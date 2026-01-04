@@ -1,0 +1,987 @@
+### V. Ulusal Travma ve Acil Cerrahi Kongresi bildirilerinin değerlendirilmesi
+OBJECTIVE V. Ulusal Travma ve Acil Cerrahi Kongresi’nde sunulan bildiri özetlerinin öz yazım kılavuzuna uygunluğu değerlendirildi; demografi, metodoloji ve yazım tekniği yönünden incelendi.
+RESULT Çalışmaların %49’u retrospektif, %29’u olgu sunumuydu.
+CONCLUSION öz ilişkisi bildirilerin %71’inde yeterli olarak değerlendirildi.
+CONCLUSION Bildiri özeti yazma konusunda bazı sorunlarımızın olduğu saptanmıştır.
+
+### Bir özet değerlendirme ölçeğinin bilimsel makale yayınında faktör analiz incelemesi ile değerlendirilmesi
+OBJECTIVE Çalışmamızın amacı; bir aile hekimliği dergisinde yayınlanan tüm makaleleri özet kısımları başta olmak üzere değer- lendirerek EURACT (Avrupa Aile Hekimliği Eğiticileri Akademisi) tarafından hazırlanmış olan Özet Değerlendirme Ölçe- ğinin geçerliliğinin bilimsel açıdan değerlendirilmesidir.
+METHOD Bir aile hekimliği dergisinde yayınlanıp belirli bir örneklem yöntemi ile seçilen 107 makale, EURACT Özet Değer- lendirme Ölçeği ile değerlendirmeye alınmıştır.
+RESULT EURACT Özet Değerlendirme Ölçeğinin dergide yayınlanmış olan makalelerin özet kısımlarını değerlendirmek için geçerli olduğu görülmüş ve bu ölçek ile değerlendirildiğinde 81 makalenin (%75,7) standartlara uygun olduğu belirlen- miştir.
+CONCLUSION Özellikle birinci basamaktan yapılan ya da aile hekimliği ve birinci basamak ile ilgili yayınları değerlendirilmek üze- re gönderilecek makalelerin özet kısımlarının değerlendirilmesi ve standardizasyonu için EURACT Özet Değerlendirme Öl- çeğinin kullanılabileceği düşünülmüştür.
+
+### Ulusal Cerrahi Kongreleri'nde sunulan randomize kontrollü çalışma özetlerinin raporlama kalitesi: CONSORT kılavuzuna dayalı değerlendirme
+OBJECTIVE Randomize kontrollü çalışma (RKÇ), kanıta dayalı tıpta okuyucuya açık, şeffaf ve detaylı bilgi aktarımı sağlanması koşulu ile en güvenilir bilgi kaynağı olarak kabul edilmektedir.
+METHOD 2004, 2006 ve 2008 yıllarına ait Ulusal Cerrahi Kongre Bildiri Kitapçıkları tarandı.
+RESULT Toplam 2725 sözel ve poster bildiri özetinden 100 (%3.7) çalışmanın RKÇ olduğu belirlendi ve bu bildiri özetleri analize dâhil edildi.
+CONCLUSION Ulusal Cerrahi Kongreleri’nde sunulan RKÇ bildiri özetlerinin raporlanma kalitesinin düşük olduğu ve açık, şeffaf ve detaylı bilgi transferi için bildiri özet kalitesinin arttırılmasının gerektiği kanaatine varılmıştır.
+
+### Resimli Çocuk Kitaplarında Eleştirel Düşünme Becerisine Yer Verilme Durumunun İncelenmesi
+RESULT Elde edilen bulgulara göre incelenen çocuk kitaplarında eleştirel düşünme becerilerinden çıkarım yapma, değerlendirme ve öz düzenleme gibi becerileri destekleyici ifadelere daha çok yer verilirken üst düzey beceriler olan analiz etme ve yorumlama becerisine oldukça az yer verildiği gözlenmiştir.
+CONCLUSION olarak araştırma bulguları incelenen resimli çocuk kitaplarında eleştirel düşünme becerilerine sınırlı olarak yer verildiğini ve bunun da genellikle doğrudan yapıldığını göstermiştir.
+
+### Ulusal halk sağlığı kongre bildiri özetlerinin değerlendirilmesi ( 1988-1998 )
+OBJECTIVE Özet ya da özler bilimsel çalışmaların temel öğeleridir.
+METHOD Yayınlanmış kongre kitaplarındaki özetlerinden yararlanılarak bildiriler geldiği yer, yazar, araştırma yöntemi ve bulguların sunumu yönünden değerlendirildi.
+RESULT incelenen 1005 bildiri özetinin % 9.8'i özet ya da öz denebilecek bilgi içermiyordu.
+CONCLUSION Halk sağlığı kongre bildiri özetlerinin arasında biçimsel ve içerik olarak yeterli özen gösterilmeden yazılanlar vardır.
+
+### Yapay zeka tıbbi uzmanlıkla buluşuyor: GPT-4'ün tıbbi makale özetleri oluşturmadaki yeterliliğinin değerlendirilmesi
+OBJECTIVE GPT-4 gibi büyük dil modellerinin ortaya çıkışı, tıbbi literatürdeki potansiyel uygulamalarla birlikte doğal dil işlemede yeni olanaklar sağlamıştır.
+METHOD 2021-2023 yılları arasında yayınlanan beş önde gelen radyoloji dergisinden toplam 250 orijinal araştırma makalesi seçildi.
+RESULT Analiz, orijinal ve GPT-4 ile oluşturulan özetler arasında ortalama puanlar açısından anlamlı bir fark olmadığını ortaya koymuştur.
+CONCLUSION Çalışma, GPT-4'ün insan uzmanlar tarafından yazılanlarla karşılaştırılabilir kalitede tıbbi özetler oluşturabildiğini göstermektedir.
+
+### Ulusal Kardiyoloji Kongreleri Bildiri Özetlerinin 2016 Akademik Kriterlerine Göre Kapsamlı Bir Değerlendirmesi
+OBJECTIVE Bu çalışma, 2016 yılında tanımlanan yeni akademik kriterlerin Türk Kardiyoloji Derneği Ulusal Kongresi (TKDUK) bildirileri üzerindeki etkilerini tanımlamayı amaçlamıştır.
+METHOD Toplam 13 ardışık yıllık kongrede sunulan bildiri özetleri değerlendirildi.
+RESULT Toplam 7112 özet bildiri 2009-2021 yılları arasında TKDUK bilimsel programlarında kabul edildi.
+CONCLUSION Bu çalışma, 2016 yeni akademik kriterlerinin, TKDUK’larda kabul edilen özetlerin yayınlanma süreçlerini olumsuz etkilediğini göstermiştir.
+
+### Bölümlenmiş ve bölümlenmemiş makale özlerinin karşılaştırılması
+OBJECTIVE Bu çalışma, ulusal tıp dergilerindeki makale özlerinin bölümlü olup olmamasının özün niteliğine etkisini belirlemek amacıyla yapıldı.
+METHOD Bu tanımlayıcı araştırmanın örneklemi, Türk Tıp Dizinine giren iki ulusal tıp dergisiydi.
+RESULT Bölümlenmiş ve bölümlenmemiş özlerde toplam kelime sayısı benzer bulundu (122!$pm$40 ve 112$pm$50).
+CONCLUSION Daha nitelikli makale özleri elde etmek için özler, bölümlü olarak hazırlanmalıdır.
+
+### Online ve Yüz Yüze Yapılan Aile Hekimliği Kongrelerinin Bildiri Raporlama Kalitesinin Değerlendirilmesi: Kesitsel Bir Çalışma
+OBJECTIVE Bu çalışmada, COVID-19 pandemisi öncesinde yüz yüze gerçekleştirilen 18.
+METHOD Çalışmamız kesitsel analitik bir çalışmadır.
+RESULT Online kongrede sözlü bildiri oranı daha yüksek olmasına rağmen bildiri türleri açısından kongreler arasında anlamlı fark yoktu.
+CONCLUSION Online kongre formatı bildirilerin raporlama kalitesini etkilememiştir.
+
+### Emzirme ve kanser araştırmalarının incelenmesi
+BACKGROUND Bu araştırma, emzirme ve kanser ile ilgili çalışmaların incelenmesi amacıyla yapılmıştır.
+METHOD ve Gereçler: Araştırma tanımlayıcı türde planlanmış bir kayıt araştırmasıdır.
+RESULT Araştırmaların %44.4'ü 2005–2007 yılları arasına yayınlanmış olup, %76.3'ü kadın popülasyonu ile çalışmıştır, %64.9'u emzirme ve kanser, %35.1'i anne sütü ile beslenme ve kanser arasında ilişki olup olmadığını araştırmıştır.
+CONCLUSION Sonuç olarak yapılan çalışmaların çoğunda emzirme ve kanser arasında anlamlı ilişki olduğu saptanmıştır.
+
+### Türkiye'de hemşirelik öğrencileri kongrelerinde sunulan bildiri özellikleri (2000-2011)
+OBJECTIVE Bu araştırma, Hemşirelik Öğrencileri Kongrelerinde sunulan bildirilerin makale ve yazar özelliklerini değerlendirmek amacı ile yapılmıştır.
+METHOD Bu tanımlayıcı araştırmada veriler, Aralık 2011-Nisan 2012 tarihleri arasında toplandı.
+RESULT Bildirilerin %61,2sinin sağlık yüksekokulları tarafından gönderildiği, %89,3ünün poster biçiminde sunulduğu, tamamına yakınının (%91,1) öğrenci ve öğretim elemanı tarafından birlikte hazırlandığı, %52,2sinin toplumsal sağlık konuları ile ilgili olduğu belirlendi.
+CONCLUSION Hemşirelik öğrencileri kongrelerinde sunulan bildiri sayısının yıllara göre arttığı, tanımlayıcı türde hazırlandığı ve örneklemin çoğunlukla hemşire öğrencilerden oluştuğu sonucuna varıldı.
+
+### Hemşirelik ve Bilgisayar Mühendisliği Öğrencileri Arasında Problemli İnternet Kullanımı ve Etkileyen Faktörler
+OBJECTIVE Bu çalışma hemşirelik ve bilgisayar mühendisliği öğrencileri arasındaki problemli internet kullanımı ve etkileyen faktörlerin belirlenmesi amacıyla yapılmıştır.
+METHOD Bu çalışma tanımlayıcı karşılaştırmalı bir çalışmadır.
+RESULT Öğrencilerin %52.9'u erkek, %47.1'i kız, %29.6'sı ikinci sınıfta öğrenim görmektedir.
+CONCLUSION Bu çalışmada üniversitede öğrencilerinde problemli internet kullanımının düşük düzeyde olduğu bulunmuştur
+
+### Abtract The Factors Affecting Problematic Internet Use Among Nursing and Computer Engineering Students
+OBJECTIVE Bu çalışmahemşirelik ve bilgisayar mühendisliği öğrencileri arasındaki problemli internet kullanımı ve etkileyen faktörlerin belirlenmesi amacıylayapılmıştır.
+METHOD Bu çalışma tanımlayıcı karşılaştırmalı bir çalışmadır.
+RESULT Öğrencilerin %52.9’u erkek, %47.1’i kız, %29.6’sıikinci sınıfta öğrenim görmektedir.
+CONCLUSION Bu çalışmada üniversitede öğrencilerinde problemli internet kullanımının düşük düzeydeolduğu bulunmuştur
+
+### Türkiye’de öğrencilerde alkol kullanımı: Sistematik bir derleme çalışması
+OBJECTIVE Erken yaşta alkol tüketiminin insan ve çevre sağlığı üzerinde birçok olumsuz etkisi vardır.
+METHOD Öğrenciler arasında alkol kullanımına ilişkin çalışmalar, PRISMA sistematik inceleme yöntemi kullanılarak 7 Aralık 2020-10 Ocak 2021 tarihleri arasında Alcohol, Student, Turkey ve/veya Addiction anahtar kelimeleri Web of Science, Scopus, PubMed, Science Direct ve TR Index veri tabanlarında birbirlerinin kombinasyonları olacak şekilde özet, anahtar kelime ve çalışma adı içerisinde taranmıştır.
+RESULT Tarama sonucunda başlangıçta 402 çalışmaya ulaşılmıştır.
+CONCLUSION Fiziksel, zihinsel ve sosyal etkiler, insanların ve çevrelerindeki insanların yaşam koşullarını önemli ölçüde etkilemiştir.
+
+### Distraction chondroneogenesis on rabbit's ear cartilage
+OBJECTIVE Distraksiyon, kemik defektlerinin onarımı için kullanılan, kemik grefti ya da flebi ameliyatlarına alternatif bir uygulamadır.
+METHOD Bu çalışmada toplam 14 adet Yeni Zelanda tavşanı kullanıldı.
+RESULT Günaşırı 0,25 mm hızda distraksiyon yapılan hayvanlarda distraksiyon alanında düzenli yeni kıkırdak dokusu oluşumu izlendi.
+CONCLUSION Bu deneysel çalışmada elde edilen bulgulara göre, avasküler kıkırdak dokusunun metabolizmasının yavaş olması, distraksiyon hızını ve ritmini etkilemektedir.
+
+### 30. Ulusal Kardiyoloji Kongresi’nde Sunulan Poster ve Sözlü Bildiri Özetlerinin Uluslararası Dergilerde Yayınlanma Oranı
+OBJECTIVE Her yıl farklı alanlarda binlerce tıp kongresi yapılmaktadır.
+METHOD 30.
+RESULT Kongrede sunulmuş toplam 538 bildiri özetinin 365'i (%67) poster bildiri, 173'ü (%33) sözlü bildiri idi.
+CONCLUSION Bu çalışma, bir Türk Kardiyoloji Kongresi’nde sunulan bildiri özetlerinin tam metin halinde yayınlanma oranlarını inceleyen ilk ça-lışmadır.
+
+### Epikardiyal Yağ Dokusu Kalınlığı İle Koroner Arter Hastalığı Yaygınlığı Arasındaki İlişkinin Değerlendirilmesi
+OBJECTIVE Koroner arter hastalığı (KAH) ile epikardiyal yağ dokusu (EAT) kalınlığı arasındaki ilişki birçok çalışmada gösterilmiştir.
+METHOD Çalışma popülasyonunu invaziv olmayan testlerde iskemik bulguları saptanan stabil anjina pektoris hastaları oluşturdu.
+RESULT Epikardiyal yağ dokusu kalınlığı ile KAH yaygınlığı skoru ve koroner lezyon uzunluğu arasında anlamlı bir korelasyon bulduk (p<0.01).
+CONCLUSION Epikardiyal yağ dokusu, KAH'ın yaygınlığı ve ciddiyeti ile ilişkilidir ve bu dokunun transtorasik ekokardiyografi ile ölçülmesi günlük pratiğe katkı sağlayabilir.
+
+### Meningiomlarda histopatolojik tanının Flovsitometrik DNA analizi, PCNA ve Kİ-67 ile korelasyonu
+OBJECTIVE Meningiomlarda son yıllarda yapılan flov sitometrik (FS) deoksiribonükleik asit (DNA) analizi çalışmalarında anöploidi oranının tümör grade'i ile korelasyon gösterdiği ve histolojik bulguların prognozu önceden tahmin etmede yetersiz kaldığı bildirilmektedir.
+METHOD Çukurova Üniversitesi Tıp Fakültesi Patoloji Anabilim Dalı'nda meningiom tanısı almış olgular içinde parafin bloklarda yeterli materyali bulunan 12 olgu çalışmaya alındı.
+RESULT : Flov sitometri ile histopatolojik grade arasında ilişki bulunamadı.
+
+### HOW DO OLDER AND YOUNGER ADULTS DIFFER IN DIRECTED FORGETTING?
+BACKGROUND Bu araştırmanın amacı, genç ve yaşlı yetişkinleri somut/soyut bellek materyali kullanarak yönlendirilmiş unutma açısından karşılaştırmaktır.
+METHOD Araştırmaya 50 sağlıklı genç (17-24 yaşları arasında) ve 46 sağlıklı yaşlıyetişkin (65- 84 yaşları arasında) gönüllü katılmıştır.
+RESULT Varyans analizi (ANOVA) sonuçları ışığında, hatırlamada kelimelerin somutluk etkisi değişkeninin temel etkisi hariç (p=0,11) hatırlama ve tanımada yaş, yönerge türü ve kelimelerin somutluk düzeyi değişkenlerinin temel etkileri (hatırlamada sırasıyla, p <0,001 0,01; tanımadasırasıyla, p <0,001 0,01 ve 0,01) ve ortak etkileri (hatırlamada sırasıyla, p <0,01 0,001 ve 0,001;tanımada sırasıyla, p <0,001 0,01 ve 0,001) istatistiki olarak anlamlı bulunmuştur.
+CONCLUSION Genç yetişkinlerin sadece hatırlamada soyutluk etkisi gösterirken, yaşlı yetişkinlerin isehem hatırlama hem de tanımada somutluk etkisi gösterdiği sonucuna ulaşılmıştır.
+
+### Two siblings with Netherton syndrome
+OBJECTIVE Netherton sendromu (NS), iktiyoziform deri değişiklikleri, kıl şaftı anomalileri ve atopik diatez ile karakterize, nadir görülen otozomal resesif geçişli bir hastalıktır.
+METHOD ve gereç: Yaşları 13 ve 14 olan 2 kız kardeş polikliniğimize, seyrek kırılgan saçlar, kaşıntılı, kepekli, eritemli cilt lezyonları ile başvurdu.
+RESULT Klinik ve laboratuar incelemeler sonucunda her 2 hastaya da Netherton sendromu tanısı konuldu.
+CONCLUSION NS nun aynı anda 2 kardeşte birden görülmesinin nadir olması nedeniyle ve farklı klinik özelliklerinin de olabileceğini vurgulamak amacıyla bildirilmesi uygun görüldü.
+
+### Genel Anestezi Uygulanan Çocuk Hastaların Postoperatif Dönemde Ağrılarının Değerlendirilmesine Yönelik Hekim ve Hemşirelerin Görüşleri: Nitel Bir Çalışma
+METHOD Çalışmada nitel araştırma yöntemi kullanıldı.
+RESULT Nitel bulgular ağrı ile ilgili düşünceler, ağrı yönetimi ile ilgili inançlar, ağrı yönetiminde sağlık personelinin yeri ve ağrı yönetiminde ailenin yeri olarak dört ana tema şeklinde belirlendi.
+CONCLUSION Çalışmanın sonucunda, ağrı takibinin yapıldığı, farmakolojik yöntemlerin kullanıldığı, non-farmakolojik yöntemlerin klinik rutininde olmadığı, ağrı yönetiminin ekip çalışmasının önemli olduğu ve ebeveynlerin çocuğun yanında yer aldığı belirlenmiştir.
+
+### Merkezi sinir sistemi enfeksiyonları sırasında gelişen akut semptomatik nöbetlerin değerlendirilmesi
+OBJECTIVE Merkezi sinir sistemi enfeksiyonları sırasında akut semptomatik nöbet geçiren hastaları değerlendirmektir.
+METHOD Konvülziyon nedeniyle acil servise başvuran ve santral sinir sistemi enfeksiyonu saptanan ya da tanımlanmış santral sinir sistemi enfeksiyonu nedeniyle yatışı sırasında konvülziyon geçiren hastalar incelendi.
+RESULT Merkezi sinir sistemi enfeksiyonu sırasında akut semptomatik nöbet geçiren 24 hasta incelendi.
+CONCLUSION Merkezi sinir sistemi enfeksiyonu sırasında akut semptomatik nöbet geçiren hastalarda başlanan antiepileptik tedavi nöbet tekrarı yoksa altta yatan hastalık düzeldikten sonra kesilmelidir.
+
+### Extremity localized intramuscular hemangiomas, follow up or surgery?
+RESULT Hiçbir hastada ameliyat içi istenmeyen durum olmadı.
+CONCLUSION ve Sonuç: Semptomatik ekstremite yerleşimli kas içi hemanjiyomlarda kitlede progresyon olması, ekstremite fonksiyon bozukluğu olması, malignite şüphesi ve giderilemeyen ağrı durumları dışında, izlemin güncel tedavi yöntemi olduğunu düşünmekteyiz.
+
+### Bir Asrın Muhasebesi: 1923’ten 2023’e Türk Parti Sistemi Hakkında Genel Bir Değerlendirme
+OBJECTIVE Bu çalışmanın amacı, ortaya çıkışından günümüze kadar geçen sürede, Türkiye’deki siyasi partiler ve parti rekabetindeki eğilimlerin, özelliklerin ve dönüşümlerin kapsamlı bir analizini gerçekleştirmektir.
+RESULT Bu makale, Türk parti sisteminin genel olarak, dominant bir partinin olduğu ılımlı çok partili sistem özelliği gösterdiğini ve uygun koşullar altında hâkim parti sistemine yakınlaştığını öne sürmektedir.
+
+### Human brucellosis in Turkey: a review of the literature between 1990 and 2009
+OBJECTIVE Bruselloz vücudun herhangi bir organını ya da sistemini tutabilen sistemik bir enfeksiyondur.
+METHOD ve gereç: Bildirileri bulmak için üç ulusal veritabanı (TÜBİTAK-ULAKBİM Türk Tıp Dizini veritabanı, http:// www.turkishmedline.com, http://medline.pleksus.com.tr) ve iki uluslararası veritabanı  araştırıldı.
+RESULT En sık tutulum osteoartikuler sistem olarak belirlenirken hematolojik değişiklikler ve sinir sistemi tutulumu onu izlemektedir.
+CONCLUSION Bruselloz çok çeşitli klinik belirti ve bulgulara neden olabilir.
+
+### Erişkin Still Hastalığı: 12 Olgunun Değerlendirilmesi
+OBJECTIVE Erişkin Still Hastalığı (ESH), genellikle genç erişkinlerde gözlenen febril, inflamatuar ve sistemik bir hastalıktır.
+METHOD Çalışma 2007 2012 yılları arasındaki beş yıllık dönemde ESH tanısı almış hastaların bilgilerinin retrospektif olarak incelenmesiyle gerçekleştirildi.
+RESULT Çalışmada ESH tanısı almış toplam 12 hasta değerlendirildi.
+CONCLUSION ESH sıklıkla ateş, artralji, döküntü ve lökositoz bulguları olan hastalarda hatırlanması gereken bir hastalıktır.
+
+### Deneysel diyabetin sıçan böbreklerinde meydana getirdiği histolojik değişiklikler
+METHOD Çalışmada kullanılan Sprague Dawley cinsi, 15 adet erişkin erkek sıçan; kontrol, streptozotosin (STZ) ve fruktoz gruplarına ayrıldı.
+RESULT STZ ve fruktoz gruplarında korteksde histolojik değişiklikler izlendi.
+CONCLUSION Her iki tip deneysel diyabette sıçan böbreklerinde benzer bulgular oluştuğu ve bu bulguların muhtemelen hipergliseminin oluşturduğu direkt ve/veya indirekt etkilere bağlı olarak geliştiği sonucuna varıldı.
+
+### The Pursuit of Happyness (Umudunu Kaybetme) Filmi Üzerinden Pozitif Psikolojik Sermayeye İlişkin Bir Değerlendirme
+OBJECTIVE – Pozitif psikolojik sermaye, son yıllarda ilgili yazında sıklıkla araştırılan ve ilgi çeken bir kavramdır.
+METHOD – Çalışmada nitel araştırma yöntemi izlenerek görsel doküman kapsamında film incelemesi gerçekleştirilmiştir.
+RESULT – Çalışmada izlenen yöntem aracılığıyla pozitif psikolojik sermayenin görsel ve işitsel bağlamda örneklerle daha anlaşılır kılınması hedeflenmiştir.
+CONCLUSION – Filmin gerçek yaşam öyküsünden uyarlanmış olması, pozitif psikolojik sermayenin soyut ve somut yönlerini gerçek hayattan kesitlerle gözler önüne sermektedir.
+
+### Öğrenci Gözüyle Klinik Öncesi Dönemde Birinci Basamak Deneyiminden Kazanımlar
+OBJECTIVE Bu çalışmanın amacı, klinik öncesi dönemde yer alan birinci basamak deneyimi sırasında elde edilen kazanımları öğrencilerin bakış açısından değerlendirmektir.
+METHOD Araştırmanın yöntemi nitelikseldir.
+RESULT Ortaya çıkan öğrenci kazanımları, "Tıbbi Bilgi Kazanımları", "Temel Beceri Kazanımları", "Profesyonelliğe yönelik tutum ve davranış kazanımları", "Kendi yeterliklerini ve sınırlarını fark etme", "Aile Hekimliği ve Birinci Basamak uygulamalarını tanıma" ve "Programın Tıp Eğitiminin Diğer Bileşenleri ile ilişkilendirilmesi ve Öğrenmeye Katkısı" başlıkları altında kategorize edilmiştir.
+CONCLUSION Birinci basamak deneyimi programının hekim adaylarının tıbbi bilgi ve becerilerini artırıcı, profesyonelliğe yönelik tutum ve davranışlarını geliştirici olduğu kadar kendi yeterlik ve sınırlarının fark etmelerine olanak sağlayan bir program olduğu ortaya çıkmıştır.
+
+### ENDÜSTRİ İÇİ TİCARETİN REKABET GÜCÜNE ETKİSİ; TÜRKİYE BAĞLAMINDA BİR DEĞERLENDİRME
+OBJECTIVE Çalışmamızda, Türkiye’nin 2001-2019 yılları arasındaki dış ticaretinde EİT ile rekabet gücü arasındaki korelasyonun,HS/GTİP’nun 97 faslı bazında belirlenmesi amaçlanmıştır.
+METHOD Araştırmamızda endüstri-içi ticaretin derecesi Grubel-Lloyd yöntemi ile ölçülmüştür.
+RESULT EİT ile rekabet gücü arasında 27 fasılda çok yüksek pozitif ve 24 fasılda çok yüksek negatif korelasyon ilişkisi belirlenmiştir.
+RESULT çerçevesinde EİT ve rekabet gücü arasında fasıllara göre değişen yüksek veya çok yüksek korelasyonun olduğu ifade edilebilir.
+
+### Evaluation of motor nerve excitability by subtreshold stimuli in diabetic polyneuropathy
+METHOD Çalışmaya 45 hasta alınarak 3 gruba ayrıldı (Grup I: polinöropatisi olmayan diabetik hastalar, Grup II: polinöropatisi olan diabetik hastalar, Grup III: sağlıklı kontroller).
+RESULT Polinöropatisi olmayan diabetik hastalarla polinöropatisi olan diabetik hastalar arasında eşikaltı uyaranlarla motor sinir uyarılabilirliği arasında anlamlı bir fark saptanmadı.
+CONCLUSION Bu bulgularla, eşik altı uyarıların giderek artan serilerde uygulanmasının diabetik hastalardaki motor sinir hasarı ile ilgili ek bir bilgi sağlamadığı sonucuna varıldı.
+
+### COVID -19 hastalarında arka segment optik koherens tomografi bulguları
+OBJECTIVE Kliniği tam olarak anlaşılamamış olan COVID – 19, hala dünyanın önde gelen sağlık problemi olmaya devam etmektedir.
+METHOD Çalışma prospektif ve kesitsel olarak tasarlanmıştır.
+RESULT Yirmi COVID – 19 hastası ve 20 sağlıklı göznüllü çalışmaya dahil edilmiştir.
+CONCLUSION Hiper-reflektiv lezyonlar yalnızca retinal damarların OKT B taramalarında izlenen tanjansiyal kesiti olabilir.
+
+### Minimal açık insizyonla gevşetme yapılan tetik parmaklı hastalardaki cerrahi tedavi sonuçlarımız
+OBJECTIVE Konservatif tedaviye cevap vermeyen, tetik parmak tanısıyla mini açık cerrahi tekniği ile tedavi edilen hastaların klinik sonuçlarını değerlendirmek.
+METHOD Biz bu çalışmamızda tetik parmak tanısıyla lokal anestezi altında minimal açık insizyon kullanarak A1 pulley gevşetmesi uyguladığımız hastaların sonuçlarını değerlendirdik.
+RESULT Hastaların memnuniyet dereceleri sorgulandığında %93 çok iyi sonuçlar alındı.
+CONCLUSION Tetik parmak tedavisinde konservatif tedavi ile sonuç alınamayan olgularda, mini açık cerrahi tekniği güvenli ve uygun bir tedavi yöntemdir.
+
+### Pediatri Yoğun Bakım Ünitesinden Taburcu Olan Çocuk ve Ebeveynlerinde Travma Sonrası Stres Bozukluğunun Değerlendirilmesi
+METHOD Kesitsel tipte bir çalışmadır.
+RESULT Çocuklarda TSSB puanı ortalaması 34,46±15,89, annelerde 53,66±16,93, babalarda 33,24±14,61 olarak bulundu.
+CONCLUSION Çalışma sonucunda yoğun bakımda yatan çocuklarda ve ebeveynlerinde TSSB gelişebildiği görüldü.
+
+### Üst Düzey Yönetim Görev Unvanlarına Yönelik Üniversite Öğrencilerinin Algılarının Araştırılması
+OBJECTIVE – İş dünyasındaki Girişimci ve Üst Düzey Yönetici Unvanları sadece toplumun belli birkesiminde değil, genelinde yeterince anlaşılabilmiş ve tam anlamıyla kavramsallaştırılmışdeğildir.
+METHOD – Bu araştırma, araştırmacıların birlikte geliştirdikleri 32 soruluk ölçekten oluşan anketformunun, basit iradi örneklem yöntemi ile seçilen 572 üniversite öğrencisinin, sınıflardadoldurulması ile gerçekleştirilmiştir.
+RESULT – Yapılan çalışma sonucunda, Yönetim Kurulu Başkanı hariç, diğer tüm görevunvanlarında öğrencilerin algılarının net olmadığını ortaya koymaktadır.
+CONCLUSION – Üniversitelerin, öğrencileri sadece teorik bilgilerle değil, aynı zamanda da mezunolduklarında ilişki içerisinde bulunacakları veya işgal edecekleri pozisyonların gerekleri,yetkileri, neler yaptıkları ile ilgili olarak da donatmaları gerekmektedir.
+
+### Investigation of University Students’ Perception on Top Management Job Titles
+OBJECTIVE – İş dünyasındaki Girişimci ve Üst Düzey Yönetici Unvanları sadece toplumun belli bir kesiminde değil, genelinde yeterince anlaşılabilmiş ve tam anlamıyla kavramsallaştırılmış değildir.
+METHOD – Bu araştırma, araştırmacıların birlikte geliştirdikleri 32 soruluk ölçekten oluşan anket formunun, basit iradi örneklem yöntemi ile seçilen 572 üniversite öğrencisinin, sınıflarda doldurulması ile gerçekleştirilmiştir.
+RESULT – Yapılan çalışma sonucunda, Yönetim Kurulu Başkanı hariç, diğer tüm görev unvanlarında öğrencilerin algılarının net olmadığını ortaya koymaktadır.
+CONCLUSION – Üniversitelerin, öğrencileri sadece teorik bilgilerle değil, aynı zamanda da mezun olduklarında ilişki içerisinde bulunacakları veya işgal edecekleri pozisyonların gerekleri, yetkileri, neler yaptıkları ile ilgili olarak da donatmaları gerekmektedir.
+
+### REJYONEL ANESTEZİ KOMPLİKASYONLARININ RETROSPEKTİF OLARAK DEĞERLENDİRİLMESİ
+OBJECTIVE Çalışmamızda Ocak 2009 - Aralık 2010 tarihleri arasında, Zonguldak Bülent Ecevit Üniversitesi nde rejyonel anestezi altında opere edilen olgulara ait komplikasyonların retrospektif olarak araştırılması amaçlandı.
+RESULT Çalışmamızda 1568 olgunun 585inde (%37,3) komplikasyon geliştiği tespit edildi.
+CONCLUSION olarak; tüm hasta gruplarında en sık görülen komplikasyon hipotansiyon olmuştur.
+
+### Metabolik ensefalopatilerde EEG bulguları ile prognoz arasındaki ilişki
+OBJECTIVE Metabolik ensefalopati (ME) tanısı ile izlenen olgularda elektroensefalografi (EEG) verilerinin, tanı alt grupları ve prognoz ile ilişkisi araştırıldı.
+METHOD Çalışmaya, ME tanısı ile hospitalize edilen ve bu amaçla EEG kayıtlaması yapılan yaş ortalaması 55.3±18.9 (14-85 yaş) olan, %55.6'sı kadın, %44.4'ü erkek toplam 144 hasta dahil edildi.
+RESULT .
+CONCLUSION EEG'nin ME etyolojisinde nonspesifik olduğu, ancak hastaların prognozlarını belirlemede yararlı non-invaziv bir inceleme olduğu sonucuna varıldı.
+
+### Cukurova Medical Journal’da 2011-2022 yılları arasında yayınlanan makalelerin bibliyometrik analizi
+OBJECTIVE Bu çalışmanın amacı Cukurova Medical Journal’da 2011-2022 yılları arasında yayınlanan makalelerin özet kısmında yer alan terim ve anahtar kelimelerin bibliyometrik olarak değerlendirilmesidir.
+METHOD Cukurova Medical Journal’da 2011-2022 yılları arasında yayınlanan makalelerin her biri belirlenerek listelendi.
+RESULT Çalışma, 1734 makalenin özetlerinde 27,409 benzersiz terim ve 4,040 benzersiz anahtar kelime tespit etti.
+
+### Kronik myeloproliferatif neoplazili hastalarda JAK2V617F mutasyon ve tromboemboli durumlarının değerlendirilmesi; Tek Merkez deneyimi
+METHOD Bu çalışmada 2008-2013 yılları arasında İzmir Bozyaka Eğitim Araştırma Hastanesi hematoloji kliniğinde takip edilen ve bcr-abl negatif kronik myeloproliferatif neoplazi (KMPN) tanısı alan 128 olgu değerlendirildi.
+RESULT Hastaların 63 ü kadın (%49.2), 65 i erkek (%50.8) idi.
+CONCLUSION Sonuç olarak, KMPNli hastalarda JAK2V617F gen mutasyonu tanı ve komplikasyonlar için önemli bir bulgudur.
+
+### Bölgelerin Pazarlama Faaliyetlerinde Coğrafi İşaretli Ürünlerin Etkisinin İncelenmesi: Karabük Eskipazar Örneği
+OBJECTIVE – Bu çalışma, "Karadeniz'in Zeugması" olarak adlandırılan Karabük'ün Eskipazar ilçesinin coğrafi işaret tescilli ve tescil alma potansiyelli ürünlerini belirleyerek bu ürünlerin pazarlama faaliyetlerindeki etkisini incelemeyi amaçlamaktadır.
+METHOD – Bu çalışma nitel araştırma desenlerinden fenomenoloji/olgu bilim ile yapılmıştır ve veriler yarı yapılandırılmış mülakat yöntemi ile toplanmıştır.
+RESULT – Elde edilen verilere göre, coğrafi işaret tescili alma potansiyeline sahip olan Kelem Dolması, Eskipazar Köy Peyniri, Keşkek Çorbası, Cevizli Yahni, Soğan Salması, Kaz Banduması ve Miyane Helvası gibi gastronomik ürünler, pazarlama açısından önemli avantajlar sunmaktadır.
+CONCLUSION – Araştırma bulguları, Eskipazar’ın geleneksel mutfak kültürünün yerel halkın beslenme alışkanlıklarına ve günlük yaşamına derin bir şekilde kök saldığını göstermektedir.
+
+### SAĞLIKTA İNOVASYON PERFORMANSINI ÖLÇMEK İÇİN MODEL ÇERÇEVESİ ÖNERİSİ
+OBJECTIVE Politika ve strateji geliştirme süreçlerinde en çok ihtiyaç duyulan araç, mevcut durumu ortaya çıkaracak göstergelerdir.
+RESULT Bir ülkedeki sağlık sistemlerinin inovasyon performansını ölçecek bir modelin, Finansman; İnsan Kaynakları; Çalışma ortamı; Siyasi ve Hukuki Ortam; Fikri Mülkiyet Hakları (fırsatlar, kolaylaştırıcılar ve fikri kaynaklar); Bilgi teknolojileri; İşbirliği Fırsatları; Ar-Ge Faaliyetleri; Hizmet Sunumu ve İnovasyon Çıktıları olmak üzere 10 boyutlu olarak değerlendirilebileceği görülmüştür.
+
+### Türkiye’de bir yıllık COVID-19 pandemisi:
+OBJECTIVE Bu çal›flmada, gebelerde ve postpartum kad›nlarda COVID- 19 bilgi seviyeleri, önleyici tedbirlere yönelik tutumlar ve e¤itime yönelik bak›fl aç›lar› de¤erlendirilmifltir.
+METHOD On dokuz soru içeren çevrim içi bir anket tasarlanm›flt›r (demografik bilgiler ve COVID-19’a yönelik bilgi, tutum ve bak›fl aç›lar›).
+RESULT Anketi 320 kat›l›mc›n›n 316’s› (%98.7) tamamlad›.
+RESULT Solunum yolu / hijyenik olmayan ortam bulaflmas›na yönelik bilgi seviyesi gebelerde %47.1/42.6 ve postpartum kad›nlarda %47.3/34.8 idi.
+CONCLUSION Gebeler - postpartum kad›nlar
+CONCLUSION hala COVID-19 pandemisi için risk alt›ndad›r.
+
+### COVID-19 Pandemi Sürecinde Katılım Bankaları ve Mevduat Bankalarının Finansal Performanslarının Karşılaştırılması: Türkiye Örneği
+OBJECTIVE Yapılan bu çalışmada amaç, tüm dünyayı etkisi altına alan COVID-19 salgını sürecinde katılım bankaları ile mevduat bankalarının finansal performanslarının karşılaştırmasını yaparak salgından ne düzeyde etkilendiklerini ortaya koymaktır.
+RESULT Seçilen bankaların 2018 ve 2021 yılları arasındaki sermeye yeterliliği, aktif kalitesi, likidite ve kârlılığa dayalı performansları incelenmiştir.
+
+### Preeklamptik ve Normotansif Gebeler Arasındaki Vimentin Seviyelerinin Karşılaştırılması
+OBJECTIVE Gebelikte hipertansif hastalıklar dünya genelinde maternal ve perinatal mortalitenin önde gelen nedenlerinden birini oluşturur.
+RESULT Ortalama vimentin düzeyleri gruplar arasında anlamlı olarak farklı saptandı. (
+CONCLUSION Bulgular vimentinin preeklampsinin patogenezinde rol oynadığını göstermektedir.
+
+### Ghrelin alleviates spinal cord ınjury in rats via ıts anti-inflammatory effects
+OBJECTIVE Spinal kord hasarı (SKH) primer hasarın yanısıra doku içinde oluşan ikincil hasara yanıt olarak inflamasyona yol açar.
+METHOD ve GEREÇLER: Wistar albino sıçanlar kontrol, SKH ve SKH + ghrelin (10 μg/kg/day, ip) olarak üç gruba bölünmüştür.
+RESULT SKH grubunda kanda NSE, S-100β düzeylerinde ve dokuda MPO aktivitesi, DNA hasarında anlamlı bir artış görüldü.
+
+### Interleukin-6 and nitric oxide levels in neonatal sepsis
+OBJECTIVE Bu çalışmanın amacı kan kültüründe üreme olan sepsisli yenidoğanlarda interlökin 6 (IL6) ve nitrik oksit (NO) düzeylerini ölçerek gebelik yaşı ve postnatal yaşı hasta grubuyla benzer olan kontrol grubuyla karşılaştırmak ve sepsisli bebeklerdeki mediatör düzeyleri ile kardiyovasküler sistem bulguları arasındaki ilişkiyi araştırmaktır.
+METHOD ve Gereç: Sepsisli yenidoğanlardan tedavi öncesinde ve tedavinin 3.
+RESULT Çalışmaya 18 sepsisli, 23 kontrol alınmıştır.
+CONCLUSION IL6 ve NO düzeyleri sepsisli yenidoğanlarda kontrol grubuna göre yüksek bulunmufltur.
+
+### TİROİDEKTOMİ OLGULARIMIZIN RETROSPEKTİF ANALİZİ
+OBJECTIVE Tiroidektomi olgularında retrospektif değerlendirme sonuçlarının sunulması amaçlandı.
+METHOD Haziran 2010- Ekim 2014 tarihleri arasında opere edilen 193 hasta retrospektif olarak değerlendirildi.
+RESULT Toplam 193 hastanın 160ı kadın (%82.9), 33ü (%17.1) erkekti.
+CONCLUSION Nüks olgulara yapılan cerrahilerde komplikasyon oranı artmaktadır.
+
+### Konya Bölgesindeki Sığırları Enfeste Eden Kenelerin Tiplendirilmesi ve Kenelerde Kırım Kongo Kanamalı Ateşi (KKKA) Varlığının Araştırılması
+OBJECTIVE Bu  çalışma  Konya  ilinin  güneyinde  yer  alan  ve  halk  elinde  bulunan  sığırları  enfeste  eden  kene  türlerinin  tanımlanması  ve  bu  kenelerde  Kırım  Kongo Kanamalı Ateşi (KKKA) varlığının araştırılması amacıyla planlanmıştır.
+METHOD Kene örnekleri halk elinde bulunan ve makroskobik olarak  kene  enfestasyonu  bulunan,  30  işletmeden  seçilen  60  büyükbaş  hayvandan  elde  edilmiştir.
+RESULT 117  kenenin  tür  tayini  yapılmış  ve  111  tanesinin  (%94,87)  Hya- lomma marginatum, 3 tanesinin (%2,56) Hyalomma excavatum ve yine 3 ta- nesinin  (%2,56)  Dermacentor marginatus olduğu  belirlenmiştir.
+
+### Süperoksidize su içeren el antiseptiğinin etkinliğinin araştırılması
+OBJECTIVE Pandemi ile beraber antiseptik ürün ihtiyacının artması, bilim insanlarını daha etkin yeni formülasyonların geliştirilmesi üzerine çalışmalara yönlendirmiştir.
+METHOD Çalışmamızda süperoksidize su içerikli bir antiseptik ürününün antimikrobiyal aktivitesi %60 izopropil alkol ile karşılaştırılarak incelenmiştir.
+RESULT İlk kontaminasyona göre %60 izopropil alkol sonrası A ve B grubu gönüllülerde sırasıyla 3.7 ile 3.8, süperoksidize su içerikli antiseptik ürününde ise 3.1 ile 3.4 logaritmik azalma tespit edilmiştir.
+CONCLUSION Süperoksidize su içeren antiseptikle standart izopropil alkole göre kıyaslanabilir logaritmik azalma tespit edilmiştir.
+
+### NETFLİX İÇERİKLERİNİN ORYANTALİST ve SELF ORYANTALİST BAĞLAMDA ALIMLANMASI ÜZERİNE BİR ARAŞTIRMA: “HAKAN: MUHAFIZ” DİZİSİ ÖRNEĞİ
+OBJECTIVE Bu çalışma, günümüzde en yaygın akış platformlarından birisi kabul edilen Netflix’in ilk Türkiye Orijinal yapımı olan ‘Hakan: Muhafız’ dizisindeki Oryantalist ve Self Oryantalist unsurların izleyiciler tarafından nasıl alımlandığının ortaya çıkarılması amacıyla yapılmıştır.
+METHOD Edward Said’in bakış açısından Oryantalizm ve Self Oryantalizm tanımlanmış, bu iki kuramın medya ile ilişkisi ele alınarak, bu kuramların bir söylem olarak medya üzerinden nasıl üretildikleri irdelenmiştir.
+RESULT Katılımcıların verdikleri cevaplar doğrultusunda ‘Hakan: Muhafız’ dizisindeki Oryantalist ve Self Oryantalist bakışı, her katılımcının kendi artalan bilgisi, tecrübesiyle alımladığı ve yorumladığı anlaşılmaktadır.
+
+### Comparison of Intra corporeal Knot-tying Suture and Hem-o-lok Clip for Closure of Appendix Stump in Laparoscopic Appendectomy: A Retrospective Study
+OBJECTIVE Laparoskopik apendektomide apendiks güdüğünün nasıl kapatılacağı hala tartışmalı bir konudur.
+METHOD Elazığ Medical Park hastanesinde Ocak-2013 ile Haziran-2014 arasında laparoskopik apendektomi uygulanmış 92 olguyu retrospektif olarak değerlendirdik.
+RESULT Doksan iki olgu (43 erkek / 49 kadın) değerlendirildi.
+CONCLUSION Hem-o-lok klip ile apendiks kökünün kapatılması ameliyat süresini azaltan basit ve güvenilir bir yöntemdir.
+
+### Lomber Disk Hernisi Olan Hastalarda Lomber Sinir Kökü Kalınlığının Radyolojik Olarak Karşılaştırılması
+BACKGROUND Bu çalışmanın amacı akut disk hernili hastalarda diskin kök kalınlıkları üzerinde etkisinin radyolojik olarak karşılaştırılmasıdır.
+METHOD Akut disk hernisi semptomlarıyla kliniğe baş vuran hastaların çekilen Lomber Mrı görüntülerindeki aynı seviye kök kalınlıklarının ölçülmesi ile yapıldı.
+RESULT 95 hastanın Lomber mrı görüntüleri radyolojik olarak karşılaştırıldı.
+RESULT Bu çalışma akut lumbar disk herniasyonundaki etkilenen sinir kökünün kök çapında istatistiksel olarak anlamlı bir artışa sahip olduğunu ortaya koymuştur.
+
+### Ulusal Alan Yazında Hemşirelik Öğrencilerinde İşbirlikli Öğrenme Yöntemlerinin Kullanımı: Sistematik Derleme
+OBJECTIVE Bu sistematik derleme çalışması, yenilikçi bir yaklaşım olan işbirlikli öğrenme yöntemlerinin hemşirelik eğitiminde kullanımını incelemek amacıyla yapılmıştır.
+RESULT Tarama sonucunda 688 makaleye ulaşılmıştır.
+CONCLUSION Sonuç olarak işbirlikli öğrenme yöntemlerinin hemşirelik eğitiminde çeşitli yararlarının olduğu görülmek ile birlikte bu konuyla ile ilgili ülkemizde yeterli sayıda çalışma olmadığı ve hemşirelik çalışmalarının arttırılması gerektiği önerilmektedir.
+
+### Brucella perikarditi olgularının havuz analiz yöntemiyle değerlendirilmesi
+OBJECTIVE Bruselloz en sık görülen zoonotik enfeksiyon hastalıklarından biridir ve özellikle gelişmekte olan ülkelerde halk sağlığı sorunlarından biridir.
+METHOD Dört uluslararası çevrimiçi veri tabanının tam metin ve özetleri  “Brucella” ve “perikardit”  anahtar kelimeleri ile tarandı.
+RESULT Çalışmaya yaş ortalaması 38.84 ± 9.7 (12-79) yıl olan 25 olgu (14 erkek, %56) dahil edildi.
+CONCLUSION Bruselloz nadir görülen bir perikardit nedenidir ve özgün tedavi gerektirir.
+
+### SOSYO-EKONOMİK STATÜ GRUPLARINA GÖRE DAVRANIŞSAL DEĞERLERİN FARKLILAŞMASI
+OBJECTIVE Sosyo-ekonomik statü faktörlerini konumlandırmak, karşılaştırmak ve belirlenen özellikleri bakımından benzerlikleri ve farklılıkları göstermektir.
+METHOD İlgili datalar ele alınmış yorumlanmıştır.
+RESULT Çalışmada sosyo-ekonomik statü ve tanımları üzerinde durulmuştur.
+CONCLUSION Bu bulgular doğrultusunda sosyo-ekonomik statünün davranışsal değerler değişkenleri üzerindeki etkisi tartışılacaktır.
+
+### Göğüs Hastalıkları Branşındaki Hekimlerin Astım ve KOAH İlaçlarının Ağız Sağlığına Etkilerine Yönelik Farkındalıkları
+OBJECTIVE Astım, genellikle çocuklukta başlayan ve çoğu zaman ömür boyu inhalasyon yoluyla tedavi gerektiren, KOAH ise genellikle daha ileri yaşlarda görülen ve birçok ülkede prevalansında artış gözlenen solunum yolu hastalıklarıdır.
+METHOD Çalışma, göğüs hastalıkları branşında çalışan 126 hekimle gerçekleştirildi.
+RESULT Katılımcıların %77.8’i kadın ve %54’ü üniversite hastanelerinde çalışıyordu.
+CONCLUSION Tıp hekimlerinin, sistemik ve ağız hastalıkları arasındaki ilişkiyle ilgili farkındalıklarının ve diş hekimleriyle etkileşimlerinin artmasının, koruyucu diş hekimliği açısından oldukça önemli bir yeri olduğu düşünülmektedir.
+
+### Polikistik over sendromlu kadınlarda adrenal ve ovaryan steroid hormonlarla fenotipik ve klinik özelliklerin ilişkisi
+METHOD Rotterdam kriterlerine göre PKOS tanısı alan, yaşları 18-39 arasında 50 gönüllü kadın çalışmamıza dahil edilmiştir.
+RESULT Hasta grubumuzda fazla kilolu-obez olan hastaların serbest testosteron seviyesinin, normal kilolu hastalara göre daha fazla olduğu belirlenmiştir (p=0,037).
+CONCLUSION Plazma steroid düzeylerini ölçmede en duyarlı yöntemlerden biri olarak kabul edilen LC-MS/MS yönteminin kullanıldığı bu araştırmada; PKOS tanılı kadınlarda vücut kitle indeksi yüksek olan grupta serbest testosteron düzeyi yüksek saptanmıştır.
+
+### Sofralık Zeytin İşleme ve İhracatında Kalite ve Markalaşmanın İncelenmesi
+OBJECTIVE Türkiye’de, 2000’li yıllarda değişen tarım politikaları sonrasında Akhisar’ında tarımsal üretim deseni değişmiş ve tütün ekimi yerini zeytin (sofralık) dikimine başlanılmıştır.
+RESULT Akhisar’da her yıl yaklaşık iki yüz bin ton zeytin üretilmekte, bunun % 65’i sofralık zeytin olarak işlenmektedir.
+
+### Effects of ovariectomy and estrogen replacement on rat tongue mucosa
+METHOD Çalışmamızda 21 adet dişi erişkin Wistar albino cinsi sıçanlar kullanıldı.
+RESULT Ovarektomi edilen sıçanların dil epitel yapılarının düzensiz, keratinize ve kalınlığında azalma olduğu gözlemlenmesine karşın; hormon kullanımından sonra epitel kalınlığının artışı gözlemlenmiştir.
+CONCLUSION Bu bulgularımız, ovariumlardan salgılanan östrojenlerin önemli rolleri olduğunu ve eksikliklerinde dişilerde oral bozukluklara yol açabileceğini göstermektedir
+
+### Türkiye Ve Avrupa Birliği'ne üye ülkelerin sağlık düzeyi ölçütlerinin çokboyutlu ölçekleme analizi ile incelenmesi
+METHOD 1998-2004 periyodu Dünya Sağlık Raporu'nda bulunan Sağlık Göstergeleri, toplam 25 ülke için elde edilmiş ve ilgili değişkenler kullanılarak çok boyutlu ölçekleme analizi uygulanmıştır.
+RESULT 2 boyutlu konfigürasyon için stress değeri 0,02 olarak bulunmuştur.
+CONCLUSION Türkiye; Slovakya, Macaristan ve Çek Cumhuriyeti dışındaki diğer ülkelerden, birinci boyutta özellikle temel sağlık göstergeleri bakımından, ikinci boyutta ise özellikle yapılan sağlık harcamaları ve milli gelirden sağlığa ayrılan pay bakımından farklılık göstermektedir.
+
+### Telomerler ve Psikolojik Stres: Psikopatolojilere Bakış
+OBJECTIVE Telomerler, kromozomların uçlarında bulunan ve moleküler saat gibi iş görerek hücrelerin çoğalma kapasitesini belirleyen özel DNA- protein kompleksleridir.
+METHOD Öyküsel bir derleme doğrultusunda, PubMed ve Web of Science veritabanları kullanılarak konu ile ilgili, başlangıçtan Ocak 2022’ye kadar yayımlanan tüm makale türlerini içerecek şekilde literatür taraması yapıldı.
+RESULT İleri yaşta görülme sıklığı artan kardiyovasküler hastalıklar, tip 2 diyabet gibi bazı kronik hastalıkların depresyon, bipolar bozukluk, şizofreni gibi psikopatolojilerde genel topluma göre daha sık ve erken yaşta görülmesi bu bozuklukların birer erken yaşlanma sendromu olduğunu desteklemektedir.
+CONCLUSION Elde edilen bulguların çoğu olası bir ilişkiye işaret ediyor olsa da nedensellik hakkında fazla bilgi vermemektedir.
+
+### Ege Bölgesi Zeytin Üretiminde Etkinliğin ve Belirleyicilerinin Tespiti: Bootstrap VZA Yaklaşımı
+METHOD Tabakalı Örnekleme Yöntemi kullanılarak üç tabakaya ayrılan işletmelerden 154 tanesi ile yüz yüze anket yapılmış ve elde edilen verilerle Bootstrap VZA yöntemi kullanılarak, işletmelerin etkinlik skorları bulunmuştur.
+RESULT Bootstrap VZA yöntemiyle elde edilen düzeltilmiş etkinlik skorları ortalaması 0,528 olmuştur.
+CONCLUSION Bu sonuçlar, zeytin üreticilerinin VRS teknolojileri altında %47,2 daha az girdi kullanarak aynı üretimi gerçekleştirmelerinin mümkün olduğunu göstermektedir.
+
+### Determination of Efficiency and Its Determinants in Olive Production in the Aegean Region: Bootstrap DEA Approach
+METHOD Tabakalı Örnekleme Yöntemi kullanılarak üç tabakaya ayrılan işletmelerden 154 tanesi ile yüz yüze anket yapılmış ve elde edilen verilerle Bootstrap VZA yöntemi kullanılarak, işletmelerin etkinlik skorları bulunmuştur.
+RESULT Bootstrap VZA yöntemiyle elde edilen düzeltilmiş etkinlik skorları ortalaması 0,528 olmuştur.
+CONCLUSION Bu sonuçlar, zeytin üreticilerinin VRS teknolojileri altında %47,2 daha az girdi kullanarak aynı üretimi gerçekleştirmelerinin mümkün olduğunu göstermektedir.
+
+### In-vivo yöntemlere alternatif olarak in-vitro yöntemle inaktif  Newcastle hastalığı aşılarında etkinlik tayini
+METHOD Bu amaçla, dokuz (9) inaktif Newcastle hastalığı aşısının ve iki Newcastle ile ilişkili olmayan aşının (negatif kontroller) etkinliği in vivo ve in-vitro yöntemlerle değerlendirilmiştir.
+RESULT Hemaglütinasyon inhibisyon testi sonuçları 23,3 ile 26,1 arasında bulunmuş; bağışıklama / meydan okuma sonuçları 56 ve 136 PD50 arasında değişirken, ELISA test sonuçları 6,02 ve 98,23 antijen birimleri arasında olduğu görülmüştür.
+CONCLUSION Bu sonuçlara göre, laboratuvar şartlarında ELISA metodunun uygulanabilirliği, standart prosedüre olan uyumu ve aynı örnekler üzerinde benzer sonuçlar verebilme yeteneği gösterilmiştir.
+
+### Adrenergic and cholinergic responses of the tracheal smooth muscle is enhanced during estrus phase in rat
+OBJECTIVE Bu çalışmanın amacı sıçan estrus döngüsü sırasındaki hormonal değişikliklerin, bronkokonstriktör ve bronkodilatör ajanlara, solunum yolu hassasiyeti üzerine etkilerinin değerlendirilmesidir.
+METHOD ve gereç: Çalışma estrus döngüsünün proestrus, estrus, metestrus ve diestrus fazlarındaki ve ovarektomi uygulanmış sıçanlar olmak üzere 5 grup sıçandan (n:8/grup) elde edilen trakea düz kasında yapılmıştır.
+RESULT Asetilkolinle (10 -8 -10 -3 M) uyarılmış kasılmalar estrustaki sıçanlarda metestrustaki ve ovarektomi uygulanmış sıçanlarla karşılaştırıldığında doza bağlı olarak anlamlı bir şekilde artmıştır.
+CONCLUSION Bu bulgular sıçan estrus döngüsü sırasındaki estrojen ve/veya progesteron seviyelerindeki değişikliklerin trakea düz kasının asetilkolin ve izoproterenole hassasiyetini etkilediğini göstermektedir.
+
+### Telerehabilitasyon Araştırma Alanının Konu Modelleme Yöntemi ile İncelenmesi
+OBJECTIVE Telerehabilitasyon, rehabilitasyon hizmetlerinin telekominikasyon teknolojisi yardımıyla verilmesidir.
+RESULT 2000-2021 yılları arasında telerahabilitasyon konusundaki çalışmalar daha çok ABD, Avusturalya, İtalya ve Kanada çalışan araştırmacılar tarafından üretilmiştir.
+CONCLUSION Telerehabilitasyon günümüzde farklı problemlerde, çeşitli teknolojiler ile eksik yönlerine yönelik çözüm yollarının aranması için çalışmaların artırılması ile hala yaygın olarak literatürde yerini almaktadır.
+
+### Hematolojik kanserli hastalarda Invaziv fungal enfeksiyonun erken tanısındabeta glukan testi ne kadar etkilidir?
+METHOD ve Gereçler: Indüksiyon veya konsolidasyon tedavisi alan, klinik ve radyolojik IFE bulguları olmayan 14 günden uzun süreli nötropeni beklentisi olan 46 hasta çalışmaya dahil edildi.
+RESULT Metod Ada; BG testinin sensitivitesi, spesifitesi, pozitif öngörülen değer (PÖD), Negatif öngörülen değer (NÖD) sırasıyla %68.75, %84.1, %52.4, %91.4 olarak tespit edildi.
+CONCLUSION ve Sonuç:.
+
+### Yenidoğan Yoğun Bakım Ünitesindeki Hastane Enfeksiyonları
+BACKGROUND Hastane enfeksiyonları, yenidoğanlarda önemli morbidite ve mortalite nedenidir.
+METHOD Yenidoğan yoğun bakım ünitesinde 2009-2011 yılları arasında saptanan hastane enfeksiyonları retrospektif olarak değerlendirildi.
+RESULT Toplam 4258 hasta, 34625 hasta günü, 6536 ventilatör günü, 98 üriner kateter günü, 601 santral venöz kateter günü ve 590 umblikal kateter günü izlendi.
+CONCLUSION Her yoğun bakım ünitesi etkenlerini belirlemeli ve antimikrobiyal direnç paternlerini izlemelidir.
+
+### Neither early nor late for becoming pregnant: Comparison of the perinatal outcomes of adolescent, reproductive age, and advanced maternal age pregnancies
+METHOD 1 Ocak 2007 ve 31 Ocak 2015 tarihleri arasında Süleymaniye Eğitim ve Araştırma Hastanesinde doğum yapan 306 adölesan, 301 reprodüktif yaş ve 303 ileri yaş gebe çalışmaya dahil edildi.
+RESULT Reprodüktif yaştaki gebeler ile karşılaştırıldığında, adölesan ve İYGlerin daha kötü perinatal ve erken neonatal sonuçlara sebep olduğu görüldü.
+CONCLUSION Adölesan ve İYGleri yüksek riskli gebelik olarak tanımlanmalıdır.
+
+### Histopathologic subtypes of surgically resected papillaiy thyroid carcinomas in Malatya region
+OBJECTIVE Papiller tiroid kanseri (PTK) alt gruplarının retrospektif analizi.
+METHOD Malatya İnönü Üniversitesi Tıp Fakültesi, Patoloji Laboratuarı arşivinde dokuz yıllık zaman dilimi içinde cerrahi girişimle tiroidektomi uygulanmış 33 adet PTK olgusu değerlendirildi.
+RESULT Demografik verilerin (23 kadın, 10 erkek, ortalama 45 yaş ) daha önce bildirilmiş özelliklere uyduğu görüldüyse de PTK histopatolojik alt gruplarında farklılıklar tespit edildi.
+CONCLUSION PTK içinde sık lenf düğümü yayılımı nedeniyle onkositik ve yüksek hücreli alt grupların patoloji raporlarında ayırd edilerek belirtilmesi ve klinik değerlendirmenin gerekliliği ortaya çıkmaktadır.
+
+### Flep Cerrahisinde Venöz Yetersizlikte Mekanik Negatif Basınçlı Drenaj Yönteminin (Kupa Yöntemi) Kullanımı
+OBJECTIVE Flep cerrahilerinden sonra ortaya çıkan venöz yetmezlik öngörülemez bir komplikasyon olup flep kaybına kadar ilerleyebilmektedir.
+RESULT Çalışmaya 8 hasta dahil edildi ve ortalama yaş 40,3 olarak bulundu.
+CONCLUSION Kupa ile uygulanan mekanik negatif basınçlı drenaj yöntemi literatürde açıklanan diğer yaklaşımlarla karşılaştırıldığında venöz perfüzyon problemine daha pratik ve hızlı çözüm sağlayabilir.
+
+### Uyum Katsayıları ve Nominal Verilerde Kategorik Uyum İçin Yeni Bir Yöntem Önerisi
+OBJECTIVE Makalenin amacı, nominal verilerde kategorik uyum için tarafımızdan önerilen yeni bir yöntem sunmak, uyum kavramına genel bir bakış sağlamak ve bilimsel araştırmalardaki önemini vurgulamaktır.
+METHOD karşılaştırma ve güvenilirlik çalışmalarında, farklı gözlemciler veya enstrümanlarla yapılan çoklu ölçümler arasındaki uyumu değerlendirmek önemlidir.
+RESULT Gerek Helldén tarafından gerekse tarafımızdan önerilen yöntemler, uyum değerlerinin 0-1 arasında kalmasını garanti etmektedir.
+CONCLUSION Kategori uyumu için 'uyum oranı' kriterine göre 2 karar verici için Helldén tarafından önerilen yöntemin, 3 ve daha fazla sayıda karar verici için ise tarafımızdan önerilen yöntemin kullanılmasının uygun olacağı sonucuna ulaşılmıştır.
+
+### Anlık ve gecikmeli örtük bellek performansı yaşlanmadan etkilenir mi?
+BACKGROUND Bu araştırmanın temel amacı, genç ve yaşlı yetişkinlerde yönerge türü (örtük, açık), test edilme için geçen süre (anlık ve gecikmeli) ve kelimelerin somutluk düzeyinin (somut, soyut) kelime kökü tamamlama (KKT) puanı üzerindeki etkisini incelemektir.
+METHOD Çalışmada, 49 genç, 46 yaşlı olmak üzere toplam 95 gönüllü katılımcı yer almıştır.
+RESULT Varyans analizleri ile yaş, yönerge türü, test edilme süresi ve somutluk düzeyi değişkenlerinin KKT puanı üzerindeki temel ve ortak etkileri incelenmiştir.
+CONCLUSION Bulgular, gençlerin yaşlılardan, örtük yönergenin açık yönergeden, anlık test edilmenin gecikmeli test edilmeden ve önceden çalışılan kelimelerin (somut/soyut) önceden çalışılmayanlardan (somut/soyut) daha başarılı hatırlama performansına neden olduğunu göstermiştir.
+
+### Muscarinic agonist, antagonists and signaling pathway inhibitors change c-Fos and cyclin D1 expression in K562 cells
+OBJECTIVE Muskarinik asetilkolin reseptörleri (mAChR) G protein ile kenetli reseptör ailesinin üyesidirler.
+RESULT Muskarinik agonist, antagonistler ve sinyal yolağı inhibitörleri K562 hücrelerinde c-Fos ve siklin D1 transkriptlerinde değişime neden olmuştur.
+CONCLUSION Sonuçlarımız K562 hücrelerinde muskarinik reseptör aracılı c-Fos ve siklin D1.
+
+### ÜNİVERSİTE ÖĞRENİMİ GÖREN VE OKUL TAKIMLARINDA YER ALAN BİREYLERİN ALGILANAN STRES DÜZEYLERİNİN İNCELENMESİ
+OBJECTIVE Bu çalışma üniversite okul takımlarında yer alan bireysel ve takım sporu yapan bireylerin algılanan stres düzeylerinin nasıl şekillendiğini belirlemektir.
+METHOD Bu çalışmada tarama yöntemi kullanılmıştır.
+RESULT Üniversite öğrencilerinin algılanan stres düzeylerinin şekillenmesinde; cinsiyet değişkenine göre kadınların erkeklerden yüksek ortalamaya sahip oldukları, yaş değişkenine göre yaşı büyük olanlar lehine, spor türü değişkenine göre takım sporu yapanlar
+RESULT lehine, yarışma başarısı değişkenine göre uluslararası katılımcılar lehine ve gelir düzeyi değişkenine göre zayıf olanlar lehine fark olduğu, spor yılı değişkenine göre anlamlı farklılık olmadığı tespit edilmiştir.
+CONCLUSION Üniversite öğrenimi gören ve okul takımlarında yer alan bireylerin algılanan stres düzeylerinde, cinsiyetin büyük önem arz ettiği sonucuna ulaşılmıştır.
+
+### Kesişen İki Yaşam Fonksiyonu İçin Kullanılan İstatistiksel Testlerin Karşılaştırılması
+RESULT Simülasyon sonuçları, tüm testlerin makul Tip I hata oranları sağladığını gösterdi.
+CONCLUSION Orantılı hazardlar varsayımı, 2 yaşam fonksiyonu karşılaştırılmadan önce test edilmelidir.
+
+### 1306 Nazal Kırıklı Olgunun Adli Rapor Sürecinin Değerlendirilmesi
+OBJECTIVE Yüz bölgesine gelen travmalarda anatomik yapısı veyerleşimi nedeniyle en sık burun kemiği kırıklarıgörülmektedir.
+METHOD 01 Haziran 2011-31Mayıs 2014 tarihleri arasında Eskişehir Adli Tıp Şube Müdürlüğü'nce düzenlenen 24306 adli rapordan, burun kemiği kırığı saptanan 1306olgu retrospektif olarak incelenerek değerlendirme kapsamınaalındı.
+RESULT 1306 olguya, travma ağırlığı açısından rapor düzenleyebilmek için toplam, 2104 yazışma yapılmıştır.
+CONCLUSION Uzun vadede, sağlık kuruluşlarında adli tıp uzmanı istihdamının artırılması, kısa vadede ise illerde sağlık kuruluşlarına ait veri sistemlerine adli tıp şube müdürlüklerinin de entegre edilmesi gerektiği sonucuna varılmıştır.
+
+### 100. Yılında Cumhuriyeti Anlamak: Cumhuriyet ve Kamusal Alanın Kadınlara Açılması
+OBJECTIVE Bu çalışmanın amacı, cumhuriyetin yüzüncü yılında, kadınların kamusal alanda temsil edilebilmesinde cumhuriyetin katkısını değerlendirmektir.
+METHOD Çalışma, Türk Siyasal Hayatı üzerindeki bir inceleme olduğundan, nitel araştırma tekniğiyle tamamlanmıştır.
+RESULT Kadınların kamusal alanda temsil edilmesinde hem cumhuriyet modernleşmesinin hem de Osmanlı Devleti’nden devralınan kadın hareketinin önemli bir katkısı olduğu sonucuna ulaşılmıştır.
+
+### Ratlarda metotreksata bağlı oksidatif intestinal hasarda leflunomidinin koruyucu etkisinin araştırılması
+BACKGROUND ve Amaç: Bu çalışmanın amacı metotreksata bağlı oksidatif ince barsak hasarında leflunomid tedavisinin etkisini araştırmaktır.
+METHOD 40 adet rat randomize olarak dört gruba ayrılmıştır.
+RESULT Leflunomid tedavisi doku myeloperoksidaz aktivitesi ve malondialdehit düzeylerini anlamlı ölçüde azaltmıştır (Sırasıyla 3.4±0.7, 1.9±0,4 p<0.05 ve 231±199, 94±80 p<0.05).
+CONCLUSION Leflunomid tedavisi metotreksata bağlı ince barsak hasarındaki oksidatif parametreleri düzeltmektedir.
+
+### Atypia and Differential Diagnosis in Cellular Blue Nevi: Clinicopathological Study of 21 Cases
+OBJECTIVE Hücresel mavi nevus, hücresel görüntüsü, subkutanöz infilt- rasyon yapan gelişim paterni, yoğun pigmentasyon ve büyük boyut gibi bulguları ile klasik mavi nevustan farklılıklar gösteren ve içerebildiği atipi kriterleri nedeni ile melanomla karışabilen dermal melanositik tümördür.
+METHOD Merkezimizde 2000-2014 yılları arasında değerlen- dirdiğimiz 21 olgunun hematoksilen-eosin ve MIB-1 boyalı pre- paratları tekrar gözden geçirildi.
+RESULT Olguların 13ü (%61,9) kadın, sekizi (%38,1) erkek olup yaş ortalaması 25,4 idi (2-73).
+CONCLUSION Hücresel mavi nevusların atipik olup olmadığını belirlemekten çok, abartılı morfolojik bulgular sergileyebilen ancak proliferatif aktivitesi düşük olgularda konvansiyonel melanom olasılığını ekarte etmenin daha önemli olduğunu düşünüyoruz.
+
+### Aeromonas-associated diarrhea in ıstanbul: A comparison of two different eras in the past 16 years
+OBJECTIVE 1997’den önce İstanbul’da Aeromonas pekçok ishalden sorumlu idi.
+METHOD 1994-1997 ve 2003-2008 tarihleri arasında ishali olan ardışık 553 hasta ve 736 dışkı örneği geriye dönük olarak farklı yaş gruplarına göre Aeromonas türleri varlığı açısından incelendi.
+RESULT 1994-1997 arasında 35 vakada (35/147, %26,5), 2003-2008 arasında 2 vakada (2/205, %0,97) etken bakteri olarak Aeromonas türleri izole edildi.
+RESULT Aeromonas türlerinin sebep olduğu ishal vakalarındaki bu azalma muhtemelen Sağlık Bakan- lığı’nın 1997’de İstanbul bölgesindeki yetersiz hijyenli içme suyu satan açık su satış depolarının kapatılmasının sonucudur.
+
+### Ovaryan Seks Kord Stromal Tümörlerin Tek Merkez Deneyimleri
+OBJECTIVE Bu çalışmanın amacı kliniğimizde son 4 yılda ameliyat edilen overin seks kord stromal tümörlerini incelemek ve nadir görülen bu tümör ile ilgili literatüre katkı sağlamaktır.
+METHOD 2016-2020 yılları arasında kadın hastalıkları ve doğum kliniğimizde opere edilen ve patolojik tanısı ovaryan seks kord stromal tümör olan 34 hastanın klinik, laboratuvar bulguları geriye dönük olarak değerlendirildi.
+RESULT Ovaryan seks kord
+RESULT stromal tümörleri çoğunlukla tümör dokusunun ürettiği hormonların periferik etkileri ile dikkat çeker.
+CONCLUSION Ovaryan seks kord stromal tümörü şüphesi halinde preoperatif kan androjen seviyeleri, inhibin A, alfa fetoprotein değerlendirilmelidir.
+
+### Hemodiyaliz Hastalarında Obezitenin Beslenme Durumu ve Biyokimyasal Parametreler Üzerine Etkisi
+RESULT Fazla kilolu/obez HD hastalarında BIA ile ölçülen vücut yağ yüzdesi daha yüksek bulunmuştur (p<0.05).
+CONCLUSION HD hastalarında yüksek BKİ ve obezitenin, morbidite ve mortalite riskini azaltabileceği düşüncesi ile HD hastalarının vücut ağırlıklarının ve vücut yağ depolarının korunması, malnütrisyon riskini ve sonuçlarını azaltması yönünden önemli bulunmuştur.
+
+### ENTELEKTÜEL SERMAYE VE KURUMSAL İTİBARIN ÖRGÜTSEL PERFORMANS İLİŞKİSİNDE BİLGİ YÖNETİMİNİN ROLÜ
+OBJECTIVE Bu çalışmada entelektüel sermaye, kurumsal itibar ve kurumsal performans arasındaki ilişkide bilgi yönetiminin aracılık rolünün ortaya konulması amaçlanmıştır.
+METHOD Araştırmada veri toplamak için anket yöntemi kullanılmıştır.
+RESULT Yapılan analizlere göre entelektüel sermaye, kurumsal itibar üzerinde pozitif yönlü ve anlamlı bir etkiye sahip iken bilgi yönetiminin anlamlı bir etkiye sahip olmadığı sonucuna ulaşılmıştır.
+
+### Nötrofil/Lenfosit*Trombosit Oranı Akut Apandisiti Öngörebilir mi? Bir Analitik Çalışma
+METHOD Çalışmamız retrospektif olarak planlandı ve çalışmaya 01.04.2022-01.04.2023 tarihleri arasında Sağlık Bilimleri Üniversitesi, Ümraniye Eğitim ve Araştırma Hastanesi’ne başvuran 18 yaş üstü akut apandisit tanısı alan hastalar dahil edildi.
+RESULT Çalışmamıza 492 hasta dahil edildi.
+CONCLUSION NLR, PLR ve NLPR akut apandisit tanısını koymada prediktör olarak kullanılabilir, fakat çalışmamıza göre akut apandisit prognoz göstergesi olarak NLR, PLR ve NLPR kullanılmamalıdır.
+
+### The clinical and polysomnographic features in complex sleep apnea syndrome
+OBJECTIVE Kompleks Uyku Apne Sendromu (CompSAS) sürekli pozitif havayolu basınç (CPAP) tedavisi alan obstrüktif uyku apne sendromlu (OSAS) bazı hastalarda, CPAP sonrası santral apnelerin veya Cheyne-Stokes solunum paterninin meydana gelmesi ile karakterizedir.
+METHOD ve gereç: Toplam 270 olgunun polisomnografi kayıtları retrospektif olarak değerlendirildi.
+RESULT OSAS’lı 71 olgu, CompSAS’lı 12 olgu mevcuttu.
+CONCLUSION Sonuçlarımıza göre düşük oksijen saturasyon değerlerinin, CompSAS’lı hastalarda solunum kontrolünde bozukluğa yol açabileceği ve bunun da patofizyolojide rol oynayabileceği düşünülmüştür.
+
+### Comparison of the values of free testosterone with free androgen index
+OBJECTIVE Testosteron erkeklerde birincil ve ikincil seks karakterlerinin gelişmesinden başlıca sorumlu hormon- dur.
+METHOD Çalışmaya total testosteron ve serbest testosteron parametreleri ölçüm istemi yapılmış 92 kişi dahil edildi.
+RESULT Çalışma grubuna alınan kişilerde; hesaplanan serbest androjen indeksi ile, ölçülen serbest testosteron değerleri arasında istatistiksel anlamlı ilişki bulundu.
+RESULT Serbest testosteron düzeylerinin belirlenme- sinde serbest androjen indeksi maliyet etkin alternatif bir yöntemdir.
+
+### Mircave ve Reg-e Malek (İran) kentlerinde kutanöz leishmaniasis türlerinin Nested-PCR ile kinetoplast DNA geni kullanılarak yapılan moleküler tanımlanması
+METHOD Bu tanımlayıcı kesitsel çalışma, kutanöz leishmaniasisden şüphelenilen hastalarda yapılmıştır.
+RESULT Kütanöz leishmaniasis şüphesi olan 76 hastanın 43 (%57.9)’ünün mikroskobik test sonuçları pozitifti.
+CONCLUSION Yaptığımız araştırmaya göre, İran’da Sistan’ın Mirjaveh şehrinde ve Belucistan eyaletinde Leishmania major’un neden olduğu kütanöz leishmaniasis prevalansı yüksekti.
+
+### Metisiline dirençli Staphylococcus aureus (MRSA)’da tuz stresine karşı betain ozmoregülasyon fonksiyonu
+METHOD Çalışma kapsamında, Staphylococcus aureus ATCC 43300’e farklı konsantrasyonlarda NaCl ve KCl tuzları (0.5, 1.0, 1.5, 2.0 ve 3.0 M) uygulanmıştır.
+RESULT NaCl veya KCl tuz stresinde bakterinin gelişme eğrisi incelendiğinde, bakterinin özellikle gelişimde kritik olan ve logaritmik fazın sonlandığı 12-24 saat zaman aralığında stres koşullarından daha fazla etkilendiği gözlemlenmiştir.
+CONCLUSION Bakteri gelişiminin takip edildiği 48 saatlik inkübasyon sırasında büyüme kinetiklerinde ortamda bulunan tuz stresine karşı bakterinin dalgalı bir gelişme eğrisi ortaya koyduğu ve beklenenden farklı bir davranış sergilediği gözlenmiştir.
+
+### The effects of thalidomide in a rat model of surgically- induced endometriosis
+OBJECTIVE Bu çalışmanın amacı, talidomidin anti-anjiyojenik rolünü analiz etmek ve talidomid tedavisinin cerrahi olarak endometriozis oluşturulan bir sıçan modeli üzerinde etkisi bulunup bulunmadığını belirlemektir.
+METHOD Toplam 16 sıçanda cerrahi indüksiyon ve homolog transplantasyon aracılığıyla endometriozis oluşturulmuştur.
+RESULT Tedaviden sonra implant hacmi talidomid verilen grupta anlamlı olarak azalmıştır (sırasıyla 53,3 ve 22,9 mm3, p=0,012).
+CONCLUSION Özellikle VEGF inhibisyonu ve anti-anjiyojenik etkiye bağlı olarak talidomidin implantlarda volümetrik ve histopatolojik iyileşme sağlaması, emdometriozis tedavisinde etkili olabileceğini düşündürmektedir.
+
+### Erkek wistar sıçanlarının kalp dokusundaki anjiyojenik yükselmelerde sürekli egzersiz eğitimi ve aralıklı hipoksinin etkilerinin karşılaştırılması
+METHOD Otuz erkek Wistar sıçanı rastgele üç gruba ayrıldı; normal kontrol (NC), hipoksi (H) ve eğitim (T).
+RESULT Bulgular, periyodik hipoksi ve egzersiz eğitiminin, NC’ye kıyasla HIF-1a, VEGF ve P-AKT proteinlerinin ekspresyonunu önemli ölçüde artırdığını gösterdi (p = 0.001).
+CONCLUSION Hem hipoksi hem de egzersiz eğitiminin, anjiyogenez sinyal yolunun indüksiyonu için güçlü uyarıcılar olduğu görülmektedir.
+
+### Enalaprilin Diyabetik Sıçan Mide Dokusunda Ghrelin Ekspresyonuna Etkileri
+METHOD Çalışmada, 24 adet 8 haftalık Wistar albino cinsi erkek sıçanlar kullanıldı.
+RESULT Ghrelin pozitif hücrelerin sayısı, kontrol ve tampon grupları arasında istatistiksel olarak anlamlı farklılık göstermedi.
+CONCLUSION Deneysel diyabetin sıçan mide dokusunda ghrelin pozitif hücre sayısını azalttığı, tedavi olarak verilen enalaprilin bu hücrelerin sayısını arttırdığı, ileride yapılacak
+CONCLUSION daha kapsamlı çalışmalarla diyabetik gastroparezis patofizyolojisinin aydınlatılmasında ghrelinin de görev alabileceği kanaatine varıldı.
+
+### Anti tumor necrosis factor therapy of ankylosing spondylitis in clinical practice
+METHOD Bu retrospektif çalışmaya, en az altı aydır
+METHOD TNF-α blokörleri kullanan ASli hastalar dahil edildi.
+RESULT Ortalama yaşları 43.22 yıl olan 26 erkek ve 15 bayan olmak üzere toplam 41 ASli hasta gözden geçirildi.
+CONCLUSION Klinik ortamımızda ASli hastaların takibi anti-TNF tedavisinin iyi uyum oranları ile etkin ve güvenli bir tedavi yöntemi olduğunu göstermiştir.
+
+### AİLE İŞLETMELERİNDE KURUMSALLAŞMA DÜZEYİ VE ÖRGÜTSEL PERFORMANS İLİŞKİSİNİN İNCELENMESİ
+OBJECTIVE Bu araştırmada aile işletmelerinde kurumsallaşama düzeyi ile örgütsel performans algısı arasındaki ilişkinin incelenmesi amaçlanmıştır.
+METHOD Araştırma nicel araştırma desenine göre tasarlanmıştır.
+RESULT Korelasyon analizinde, örgütsel performans ile kurumsallaşmanın bütün alt boyutları arasında zayıf, orta ve güçlü ilişikler saptanmıştır.
+
+### Maş fasulyesi (Vigna radiata L.) tohumlarında fasulye adi mozayik virüsü’nün serolojik ve moleküler yöntemler ile belirlenmesi
+OBJECTIVE Bu çalışmada, maş fasulyesi tohumlarında Fasulye adi mozayik virüsü (Bean common mosaic virus; BCMV)’nün moleküler ve serolojik yöntemler ile ortaya konulması amaçlanmıştır.
+CONCLUSION Çalışma sonucunda ülkemizde ilk kez maş fasulyesi tohumlarında BCMV’nin tanılanması yapılmıştır.
+
+### Maksillofasiyal Cerrahide 3 Boyutlu Modellemenin Etkisi: Bir KİBT Ön Çalışması
+OBJECTIVE Çalışmanın amacı, konik ışınlı bilgisayarlı tomografi (KIBT) kesitlerinin segmentasyonu sonucunda oluşturulan 3 boyutlu modellerin maksillofasiyal cerrahi planlamasına katkısını değerlendirmek ve 3 boyutlu modellemenin kullanım alanlarını belirlemektir.
+METHOD Bu ön çalışmada, Kodak 9000 3D (Kodak Carestream Health, Trophy, Fransa) KIBT cihazı kullanılarak çekilmiş 2 farklı hastanın görüntüleri kullanılmıştır.
+RESULT Yöntemler karşılaştırıldığında (3 boyutlu model ve geleneksel yöntem), her iki hastada en çok değişkenlik gösteren faktörlerin operasyon süresi, defekt boyutu ve komplikasyon riski olduğu gözlendi.
+RESULT Çalışmanın sonuçları, KIBT verileriyle oluşturulan, kişiye özgü 3 boyutlu modellemenin karmaşık vakaların cerrahi tedavi planlama protokollerinde değişikliğe yol açabilir.
+
+### İntihar girişiminde bulunan çocuk ve ergenlerin değerlendirilmesi
+METHOD Ocak 2009-Aralık 2011 tarihleri arasında intihar girişimi nedeniyle çocuk ve ergen ruh sağlığı ve hastalıkları hekimi tarafından değerlendirilmiş olan 18 yaş altındaki hastaların tıbbi kayıtları geriye dönük olarak incelendi.
+RESULT İntihar girişiminde bulunan 61 olgunun 45i (%73.8) kız ve 48i (%78.7) 15-17 yaş aralığındaydı.
+CONCLUSION İntihar girişimleriyle ilgili risk faktörlerinin belirlenmesi, intihar davranışının öngörülebilmesine yardımcı olabilir.
+
+### Spinal meningiomas: recurrence in ventrally located ındividuals on long-term follow-up; a review of 46 operated cases
+OBJECTIVE Spinal meningiomların cerrahi tedavisi genellikle zor değildir.
+METHOD ve GEREÇLER: Ocak 1995- Aralık 2009 tarihleri arasında tek bir klinikte opere olmuş 46 olgu incelendi.
+RESULT 38 hastada (%82) total rezeksiyon sağlandı.
+CONCLUSION Spinal meningiomalarda total rezeksiyon, iyi klinik sonuç ile ilintili gözlenmektedir.
+
+### DİSFONİLERDE GRUP SES TERAPİLERİNİN ETKİNLİĞİ: KAPSAM DERLEMESİ
+OBJECTIVE Bu kapsam derlemesinde disfonili bireylere uygulanan grup ses terapilerinin, ses parametrelerine olan etkinliğini araştıran klinik çalışma sonuçlarının incelenmesi amaçlandı.
+METHOD ve Gereçler: Çalışma kapsamında belirlenen anahtar kelimeler Web of Science, Pubmed ve Google Scholar dizinlerinde tarandı.
+RESULT Yapılan kapsamlı inceleme ile katılımcıların sesini kötü kullanma sonucu disfonili yetişkinler olduğu, grup ses terapilerinde entegre ses terapilerinin uygulandığı, sıklıkla subjektif değerlendirme yöntemlerinin kullanıldığı ve yayınların büyük bir kısmında grup ses terapilerinin katılımcıların ses parametrelerine olumlu katkıları olduğu belirlendi.
+RESULT Bu kapsam derlemesinde ele alınan çalışma sonuçları, grup ses terapilerinin farklı disfonilerde etkinliğini göstermiş olsa dahi daha fazla kanıta dayalı çalışmaya gereksinim bulunmaktadır.
+
+### Analysis of periprocedural medical complications during carotid angioplasty and stent placement
+OBJECTIVE Bu retrospektif çalışmanın amacı karotis anjiyoplasti ve stent yerleştirilmesi sırasında gelişen tıbbi komplikasyonların değerlendirilmesidir.
+METHOD ve gereç: Ocak-Aralık 2006 tarihleri arasında karotis arter stentlenmesi işlemi geçirerek anestezi sonrası yoğun bakıma kabul edilen bütün hastaların verileri değerlendirildi.
+RESULT Yirmi iki hasta asemptomatik, 25 hasta ise semptomatik karotis stenozu için tedavi edildi.
+CONCLUSION Bizim sonuçlarımıza göre, karotis anjioplasti ve stent yerleştirilmesi sonrası komplikasyon oranları yüksektir.
+
+### Çevre Epidemiyolojisinde Hastalıkların Modellenmesi için Kullanılan GAM ve DLNM Metotlarının Karşılaştırılması
+OBJECTIVE Bu çalışmada, hava kirliliğiyle ilişkili olduğu düşünülen, 3 farklı hastalığın 3 farklı sonuç değişkeni, gerçek veriler üzerinden genelleştirilmiş eklemeli modeller (GAM) ve dağıtılmış gecikmeli doğrusal olmayan modeller (DLNM) yöntemleri kullanılarak, modellenmesi ve model performanslarının karşılaştırılması amaçlanmıştır.
+RESULT Bağımlı değişkenlerin her biri için GAM ve DLNM metotlarının performansları karşılaştırıldığında, astım tanısı ile hastanede yatan sayısının tahmin edildiği IV.
+CONCLUSION İncelenen bağımlı değişkenlerle oluşturulan modeller kıyaslandığında, genelde DLNM yönteminin, GAM yönteminden daha iyi performans gösterdiği gözlenmiştir.
+
+### Wistar Albino Sıçanlarda Sisplatin ile Oluşan Böbrek Hasarında Kuersetinin Etkileri
+METHOD Wistar albino cinsi 28 adet erkek sıçan rastgele seçilerek 4 gruba ayrıldı.
+RESULT Kontrol ve kuersetin grupları normal histolojik görünümdeydi.
+CONCLUSION Bu çalışmada, sisplatinin sebep olduğu böbrek hasarının tedavisinde kuersetinin histopatolojik açıdan yararlı olduğu düşüncesindeyiz.
+
+### Bitcoin Fiyat Değişimlerinin Makine Öğrenmesi Yöntemi ile Tahmin Edilmesi
+OBJECTIVE – Bitcoin başta olmak üzere kripto varlık fiyatlarında meydana gelen hızlı değişimler gerek finansal yatırımcı gerekse medya tarafından ilgi görmektedir.
+METHOD – Farklı dört makine öğrenme modeli kullanılmış olup farklı tahmin hata oranları elde edilmiş ve her birinin çalışmada kullanılabileceği görülmüştür.
+RESULT – Bitcoin veri seti için önerilen en iyi tahmin performansının sırasıyla Tesadüfi Ağaç (RF) %96,38, Karar Ağacı (DT) %96,28, Doğrusal Regresyon 95,06 ve Stokastik Gradient Descent (SGD) Doğrusal Regresyon %93,91 şeklinde olduğunu göstermektedir.
+CONCLUSION – Tahmin modellemesinde en iyi sonuçları veren iki algoritmaya bakıldığında, gün içi en yüksek fiyatın son derece etkili olduğu söylenebilmektedir.
+
+### Tekrarlanan Klinik Kategorik Veride Non-parametrik Randomizasyon Tabanlı Kovaryans Analizi Metodu
+RESULT Metodun uygulaması ise çocuk sağlığı ve hastalıkları servisinde yatan Kırım-Kongo kanamalı ateşi hastalığı tanısı olan çocuk hastalardan art arda 5 vizitden elde edilen, tekrarlanan klinik veriler üzerinde yapılmıştır.
+CONCLUSION Sonuç olarak, non-parametrik randomizasyon tabanlı kovaryans analizi metodunu kategorik tekrarlanan parametrik olmayan verilerin analizinde, pek çok üstün avantajları sebebiyle klinik analizlerde kullanılabileceğini ifade edebiliriz.
+
+### Osmanlı’da 1564-1611 Yılları Arasında İşgücü Göçü ve Nedenleri
+RESULT olarak işgücünün, devlet arazilerinde yürürlükte olan yerinde üretimkuralına uymayarak kendisine verilen yerleri işlemeyi bırakması sonucu, tarımalanları yetersizliği ve önce-sonra gelenler arasındaki anlaşmazlıklar gibi birtakım nedenlerle göç ettikleri anlaşılmıştır.
+CONCLUSION olarak bu dönemde, Osmanlı coğrafyasının farklı bölgelerindekisosyal, ekonomik, idari ve hukuki itme-çekme etkisiyle işgücünün yerdeğiştirebildiği görülmekle birlikte yöneticilerin uygun çözümler üretereksorunları giderebildiği tespit edilmiştir.
+
+### DOES PRIMARY TUMOR RESECTION AFFECT SURVIVAL IN ELDERLY PATIENTS WITH METASTATIC GASTRIC CANCER? ABSTRACT
+BACKGROUND Bu araştırmada 65 yaş üstü metastatik gastrik kanserli (mGK) hastalarda tanıda primer tümör rezeksiyonunun (PTR) sağ kalıma etkisinin araştırılması amaçlanmıştır.
+METHOD Altmış beş yaş üstü mGK'lı 98 hasta verisi Akdeniz Üniversitesi, Necmettin Erbakan Üniversitesi ve Antalya Eğitim ve Araştırma Hastanesi veritabanlarından retrospektif olarak incelendi.
+RESULT PTR (+) grupta medyan progresyonsuz sağkalım 10.2  ay iken, PTR (-) grupta 5.9  aydı (p=0.054).
+CONCLUSION Altmış beş yaş üstü tanıda MGC hastalarda primer tümörün cerrahisinin sağ kalıma faydası olabilir.
+
+### Erişkin önkol kırıklarının intramedüller çivi ile tedavisi
+OBJECTIVE Erişkin önkol diafiz kırıklarının tedavisinde en sık kullanılan cerrahi yöntem plak ile osteosentez tekniğidir.
+METHOD Önkol kırığı olan 14 hasta (10 Erkek/ 4 Bayan) çalışmamıza dahil edildi.
+RESULT Ortalama takip süresi 10,9 ay (Aralık 6-21 ay) olarak belirlendi.
+RESULT Önkol kırıklarının tedavisinde klasik plak yerine uygulanabilecek alternatif tedavi intramedüller çivi uygulamasıdır.
+
+### TSH, Ferritin ve Vitamin B12 testlerinin Beckman Dxi 800 cihazında kesinlik ve doğruluk verifikasyonu
+METHOD Çalışmada TSH, vitamin B12, ferritin testleri için verifikasyon çalışmaları CLSI EP15 A2 kılavuzuna göre yapıldı.
+RESULT Kesinlik verifikasyon çalışmasında TSH, ferritin ve vitamin B12 testleri için hesaplanan değerler verifikasyon değerlerinin altındaydı.
+CONCLUSION Çalışmamızda Vitamin B12 ve TSH ölçüm metot performansları kabul edilebilir limitler içerisindedir, ferritin kesinlik çalışması kabul edilebilir limitlerde olmasıyla birlikte doğruluk çalışmasında negatif bias gözlenmiştir.
+
+### Yapay Zekâ ve Tüketici Davranışı Alanındaki Yayınların Bibliyometrik Analizi
+OBJECTIVE – Bu çalışmanın amacı yapay zekâ ve tüketici davranışı konusunda yapılmış araştırmaları, bibliyometrik analiz yöntemi kullanarak incelemek ve bu konuya yönelik genel bir bakış açısı oluşturmaktır.
+METHOD – Scopus veri tabanında yayın tipi ve yıl sınırlaması yapılmadan başlık, özet ve anahtar kelimelerinde “artificial intelligence” and “consumer behavior” ifadesi geçen çalışmalar taratılmış işletme, yönetim ve finans, ekonomi, karar verme ve sosyal bilimler ile psikoloji şeklinde alan sınırlaması yapılarak, 1988-2022 yılları arasında yayınlanmış ve toplam 213 çalışma tespit edilmiştir.
+RESULT – Konuya ilişkin 213 yayın 138 farklı kaynakta yayınlanmıştır.
+CONCLUSION – İşletme ve tüketici akademik dergilerinde konuya yönelik yapılmış çalışmalar 2019’dan bu yana sürekli artış göstermektedir.
+
+### Ondokuz Mayıs Üniversitesi Diş Hekimliği Fakültesi Dergisinde son iki yılda yayımlanan makalelerin atıflar yönünden incelenmesi
+OBJECTIVE Bu çalışmanın amacı Ondokuz Mayıs Üniversitesi Dis Hekimliği Fakültesi Dergisinde son iki yılda yayımlanan makaleleri atıflar yönünden incelemektir.
+METHOD Çalışmamızda Ondokuz Mayıs Üniversitesi Diş Hekimliği Fakültesi Dergisinde 2003ve 2004 yıllarında yayımlanan 2 cilt, 6 sayıda yer alan tüm makaleler incelenmiştir.
+RESULT Dergimizin son iki yıldaki sayıları incelendiğinde (2003 ve 2004) 31 araştırma makalesi, 13 olgu sunumu ve 12 derleme yayımlanmıştır.
+CONCLUSION Dergimizde yayımlanan makaleler belirli birkaç üniversitede yapılan çalışmaları içermektedir.
+
+### Achillea sieheana Stapf Bitkisinden Biyoaktivite Yönlendirmeli Etken Madde İzolasyonu
+METHOD Achilllea sieheana bitkisinin antimikrobiyal aktivite (MİK) sonucuna göre etkili hekzan ve etil asetat ekstresinden, antienflamatuar (5-LOX) ve sitotoksik (MTT) aktivite sonuçlarına göre ise diklorometan ekstresinden etkili bileşikleri saflaştırmak için kolon kromatografisi, ince tabaka kromatografisi, preparatif ince tabaka kromatografisi ve Sepdahex LH-20 yöntemleri kullanılmıştır.
+RESULT ve sonuçlar:
+RESULT A. sieheana bitkisinin hekzan ekstresinden steroit türevi ß-sitosterol; flavonoit türevleri salvigenin, artemetin, öpatilin 7-metil eter, kastisin; seskiterpen lakton türevi lökodin ve tanımlanamayan bir seskiterpen lakton bileşiği; etil asetat ekstresinden ise bir kumarin türevi bileşik izole edilmiştir.
+
+### Oksitosin uygulaması vinkristin ve sisplatin kaynaklı kortikal nöron toksisitesinde DNA hasarını ve toplam oksidatif stres parametrelerini iyileştirir
+METHOD Kortikal nöron hücrelerine VCR ve CP’ye ayrı ayrı ve farklı konsantrasyonlarda uygulanırken aynı zamanda 5 dakika boyunca  OXT’ye (1 µM) maruz bırakıldıktan sonra, hücrelere ayrı ayrı ve farklı konsantrasyonlarda VCR ve CP uygulandı.
+RESULT Kortikal nöron hücrelerine VCR ve CP uygulaması doz bağımlı olarak sitotoksisiteye neden olurken nöron hücrelerine VCR ve CP maruziyetinden önce OXT uygulaması nöronal sitotoksisiteye karşı koruma sağladı.
+CONCLUSION OXT, VCR ve CP’nin kortikal nöronlarda neden olduğu  toksisiteyi TAS düzeyini artırarak, TOS düzeyi ve DNA hasarını azaltarak gösterdiği saptanmıştır.
+
+### Clinical and pathological features of nodular gastritis in adults
+OBJECTIVE Erişkinlerde antral nodülarite üzerine bilgiler yetersizdir.
+METHOD ve gereçler: 2003 ve 2006 yılları arasındaki hastaların tıbbi kayıtları demografik, klinik, endoskopik ve patolojik özellikler açısından retrospektif olarak analiz edildi.
+RESULT Endoskopik inceleme yapılan 9949 hastanın 185 (% 1,86)’ inde nodüler gastrit tanımlandı.
+CONCLUSION Nodüler gastrit varlığı Helicobacter pylori enfeksiyonu için mevcut tedavinin ötesinde bir terapötik yaklaşım gerektirmemektedir.
+
+### Tanısal görüntüleme teknikleri kullanılan randomize kontrollü çalışmaların istatistiksel anlamlılığının kırılganlık indeksi ile değerlendirilmesi
+OBJECTIVE Bu çalışmanın amacı kırılganlık indeksinin (Kİ) başarısını, tanı amaçlı görüntüleme yöntemleri kullanılan randomize kontrollü çalışmalar (RKÇ) için değerlendirmektir.
+METHOD Pubmed veri tabanında “Randomize Kontrollü Çalışma”, “Kesin Test” ve “Tanısal Görüntüleme” terimlerini içeren bir sistematik araştırma yapılmıştır.
+RESULT Kİ medyan değeri 4.0  ve örnek genişliğinin medyan değeri 83.5 olarak bulunmuştur.
+CONCLUSION İkili sonuç değişkenleri için Kİ p değeri ile birlikte verilmelidir.
+
+### Atipik pnömonili hastalarda Legionella pneumophila ve diğer Legionella türlerinin araştırılması
+METHOD Solunum yolu örneklerinden Legionella türlerinin izolasyonu için seçici olmayan BCYE-α (Oxoid, İngiltere) ve seçici BMPA  (Oxoid, İngiltere) besiyerleri kullanılmıştır.
+RESULT Solunum yolu örneklerinden yedisinde ticari Real-time PCR testi ile L. pneumophila 23S rRNA genine spesifik bölge saptanmıştır.
+CONCLUSION Sonuç olarak; üç farklı moleküler yöntemle saptanan PCR pozitiflikleri, atipik pnömoni hastalarında L. pneumophila serogrup 1 dışındaki Legionella türlerinin de araştırılması gerektiğini düşündürmektedir.
+
+### Hemşirelerin Radyasyona Bakış Açıları: İfade Çizimi
+OBJECTIVE Hemşireler, sağlık çalışanlarının önemli bir bölümünü oluştururlar ve çalışma alanlarında fazla radyasyona maruz kalabilirler.
+RESULT Hemşirelerin demografik özellikleri ile çizimleri arasında istatistiksel olarak anlamlı bir fark bulunmamıştır (p>0,05).
+CONCLUSION Hemşirelerin çoğu, radyasyonu tehlikeli ve öldürücü olarak görmektedir.
+
+### The Implications of Multiple Intelligences Theory on Literacy Education at First Grade
+RESULT Bulgular, Çoklu Zekâ Kuramı
+RESULT tabanlı ilk okuma yazma öğretiminin 1.sınıf öğrencilerinin derse ve öğretmenlerine karşı eğilimine etkisinin olumlu olduğunu göstermektedir.
+CONCLUSION ÇZK'run eğitime yaptığı en önemli katkı öğrenmenin çeşitli yollan fikrini öne sürmesidir (Armstrong, 1994).
+
+### Etofenamate and anastomoses of the colon in rats
+OBJECTIVE Nonsteroid antinflamatuar ilaçlar, analjezik ve antiinflamatuar olarak yıllardır kullanılmaktadırlar.
+METHOD ve gereçler: Çalışmada Sprague-Dawley ratlar kullanıldı.
+RESULT Her iki gruptan da dörder rat kaybedildi.
+CONCLUSION Postoperatif dönemde etofenamate kullanılmasının ratlarda kolon anastomoz iyileşmesine olumsuz etkisi gözlenmemiştir.
+
+### Gamma-knife ışın uygulanan hipofiz adenoma olgularının radyolojik ve endokrinolojik sonuçlarının birinci yıl analizi
+OBJECTIVE Gamma-Knife ışın cerrahisinin özellikle kalıntı ve nüks hipofiz adenomlarının tedavisinde giderek artan bir sıklıkla alternatif bir tedavi seçeneği olduğu görülmektedir.
+RESULT Bir olgu hariç tüm vakalarda (% 98) tümör büyüme kontrolü sağlanmıştır.
+CONCLUSION İzlem süresinin henüz uzun dönemli olmaması sonuçların güvenilirliğini azaltmakla birlikte, bu ilk değerlendirme, Gamma Knife tedavisinin kalıntı ve nüks hipofiz tümörlerinde anatomik büyümeyi ve biyokimyasal kontrolü sağlamada etkili bir tedavi yöntem olabileceğini göstermektedir.
+
+### Evaluation of female sexual function index and associated factors among married women in North Eastern Black Sea region of Turkey
+OBJECTIVE Bu çalışmanın amacı Doğu Karadeniz bölgesinde yaşayan evli kadınlarda Female Sexual Function Index (FSFI) skorlarının belirlenmesi ve demografik verilerle karşılaştırılmasıdır.
+RESULT Katılımcıların %70,9unda düşük FSFI değerleri tespit edilmiştir.
+CONCLUSION Kadınlarda cinsel fonksiyon bozukluklarının belirlenmesi için cinsellik konusunda bilgilendirmenin arttırılması ve cinsellik hakkında farkındalık yaratılması gerekmektedir.
+
+### Radyolojik tetkikler sırasında maruz kalınan radyasyon hakkında sağlık personelinin bilgi düzeyleri
+METHOD Çalışma tanımlayıcı nitelikte kesitsel bir araştırma olup veriler anket yoluyla Nisan 2013 ile Haziran 2013 tarihleri arasında bir üniversite hastanesinde çalışan asistan hekim, tıp fakültesi öğrencileri, hemşire ve görevli personelden gönüllü olanların, anket sorularını gözlem altında cevaplandırılması şeklinde gerçekleştirilmiştir.
+RESULT Çalışma süresince toplam 274 hastane çalışanı ile görüşüldü.
+CONCLUSION İyonizan radyasyonla ilgili bilgi seviyesinin azlığı, radyolojik tetkiklerin güvenli kullanımı açısından, mezuniyet öncesi ve sonrası radyoloji eğitiminin yenilenmesi ve iyileştirilmesinin gerekliliğini göstermektedir.
+
+### Diş hekimliği öğrencilerinin 2. sınıf-5. sınıf lateks allerjisinin karşılaştırılması
+METHOD Araştırma İstanbul Üniversitesi Diş Hekimliği Fakültesinde eğitim gören 2.
+RESULT Araştırmamızda 320 kişiyle görüşülmüştür.
+CONCLUSION Diş hekimliği öğrencilerinin lateks içeren maddeler ve lateks allerjisine karşı alınabilecek önlemler hakkında bilgilendirilmesi önemlidir.
+
+### Depresyon hastalarının stres ile başa çıkma stratejileri
+OBJECTIVE Bu araştırmada, majör depresyon hastalarının stres ile başa çıkma tutumlarının sağlıklı kontrol grubu ile karşılaştırılması amaçlanmıştır.
+RESULT Çalışmamızda gruplar arası başa çıkma tutumları alt maddelerinden pozitif yeniden yorumlama ve gelişme, yararlı sosyal destek kullanımı, aktif başa çıkma, şakaya vurma, geri durma, plan yapma kontrol grubunda anlamlı olarak daha yüksek iken depresyon grubunda kabullenme, davranışsal olarak boş verme, madde kullanımı alt maddeleri anlamlı şekilde daha yüksek bulunmuştur.
+CONCLUSION Depresyon hastalarının olumsuz başa çıkma tutumlarının fark edilip yeniden yapılandırılması, olumlu olanların ise desteklenmesi hastalığın seyiri açısından daha etkili sonuçlar verebilir.
+
+### İskemik İnmenin Etyolojiye Göre Alt Gruplarında Monosit/Hdl-K  Oranlarının Karşılaştırılması
+OBJECTIVE Monositin yüksek yoğunluklu lipoprotein kolesterole (HDL-K) oranlanmasıyla hesaplanan MHR değerlerinin artışı, son zamanlarda inflamasyon ve oksidatif stres ölçütü olarak değerlendirilen bir parametredir.
+METHOD Akut iskemik inme tanısıyla tedavi edilen 200 hastanın kaydı retrospektif olarak incelendi.
+RESULT MHR açısından TOAST grupları arasında istatistiksel olarak anlamlı farklılık gözlenmeksizin erkeklerde ve diyabetik olanlarda MHR değerinde istatistiksel olarak anlamlı yükseklik mevcuttu.
+CONCLUSION MHR, inmenin etyolojiye bağlı alt grupları arasında herhangi bir farklılık göstermediği için bu grupların tahmininde kullanılması uygun bir parametre değildir
+
+### Transit Bipartisyon Cerrahisinde Komplikasyonların Erken Öngörülmesi İçin Ameliyat Öncesi ve Ameliyat Sonrası Nötrofil/Lenfosit Oranının Karşılaştırılması
+BACKGROUND ve AMAÇ: Bariatrik cerrahi tüm dünyada morbid obezitenin global güncel tedavi yöntemidir.
+METHOD ve GEREÇLER: Bu retrospektif araştırmamızda Mayıs 2019-Mart 2021 tarihleri  arasında üçüncü basamak bariatri kliniğinde TB-SG uygulanan katılımcıları değerlendirdik.
+RESULT Bu araştırmaya 21 kadın ve 19 erkek katılımcı dahil edilmiştir.
+CONCLUSION ve SONUÇ: TB-SG cerrahisinde NLR'nin postoperatif erken dönemde erken komplikasyonları saptamada pozitif ilişkisi olduğunu gösterdik
+
+### Ticari broiler ve yumurtacı tavuklarda ELISA ile Mycoplasma synoviae seropozitifliği
+METHOD İç Anadolu Bölgesi’nde aşısız ticari broiler (n=380) ve ticari yumurtacı (n=577) sürülerden tesadüfi örnekleme yoluyla aseptik koşullarda vena subcutanae ulnaristen toplam 957 kan örneği toplandı ve serumları ayrıldı.
+RESULT Yirmibir ticari broiler sürüsünden alınan 380 ve 33 ticari yumurtacı sürüsünden alınan 577 kan serumu örneğinde sırasıyla seropozitiflik oranı %40,76 (n=155) ve %54,59 (n=315) olarak saptandı.
+CONCLUSION İç Anadolu Bölgesi’nde kanatlı yetiştiriciliğinde özellikle ticari yumurtacı sürülerde, broilerlere göre M. synoviae, enfeksiyonunun daha yaygın olduğu belirlendi.
+
+### EDİNİLMİŞ MALLARA KATILMA REJİMİNDE KATILMA ALACAĞI
+OBJECTIVE Çalışmada, kanundaki değişiklik sonucu yasal mal rejimi olarak kabul edilmesiyle birlikte önemli noktaya gelen katılma alacağı konusunun incelenmesi amaçlanmıştır.
+METHOD Çalışma hazırlanırken, edinilmiş mallara katılma rejimi hakkında genel bilgilendirme yapılmıştır.
+RESULT Katılma alacağının  özellikle zamanaşımı konusunda  bir çok görüş farklılığı bulunmaktadır.
+
+### Comparative effects of levosimendan and dobutamine infusion on p wave dispersion in patients with acute decompensated heart failure
+OBJECTIVE Akut dekompanze kalp yetmezlikli (ADKY) hastalarda levosimendan ve dobutamin infüzyonunun P dalga dispersiyonu (PDD) üzerine olan karşılaştırmalı etkilerini değerlendirmeyi amaçladık.
+METHOD ve gereç: Çalışma grubu ADKY ile başvuran 40 hastadan oluşmakta idi (ortalama yaş = 68 yıl, 23 erkek, NHYA sınıf III-IV).
+RESULT İnfüzyon sonrası levosimendan grubunda P max’de anlamlı bir azalma varken, dobutamin grubunda P max’de anlamlı bir değişiklik yoktu.
+CONCLUSION Bizim çalışma grubumuzda, dobutamin infüzyonu ile karşılaştırıldığında levosimendan infüzyonu PDD’i anlamlı olarak azaltmıştır.
+
+### Cut-off value of D-dimer in pulmonary thromboembolism and pneumonia
+OBJECTIVE İlk değerlendirmede Pulmoner Tromboemboli (PTE) ve pnömoni arasında ayırım yapmak zor olabilir.
+METHOD ve gereçler: Toplum Kökenli Pnömoni (TKP) tanılı hastalar American Thoracic Society (ATS) 2001 kriterlerine göre gruplandırıldı.
+RESULT PTE grubunda ortalama D-dimer düzeyi 4868 ng/mL; pnömoni grubunda ise 2068 ng/mL olarak bulundu (P < 0,001).
+CONCLUSION Bu çalışmada PTE grubunda D-dimer düzeyinin pnömoni grubuna göre anlamlı olarak daha yüksek olduğu bulundu.
+CONCLUSION olarak, D-dimer düzeyi eşik değerin (4374 ng/mL) üzerindeki hastalar PTE yönünden de değerlendirilmelidir.
+
+### Tüberküloz tanısında LED floresan mikroskopi performansının değerlendirilmesi
+METHOD Araştırmada Şubat 2018-Aralık 2019 döneminde akciğer tüberkülozu ön tanılı hastalardan alınan solunum yolu örnekleri incelenmiştir.
+RESULT Araştırmada 1499 solunum yolu örneği değerlendirilmiştir.
+CONCLUSION LED FM’nin duyarlılığı EZN’den %12.7 daha yüksek bulunmuştur.
+
+### Management of thyroid cancer associated with elevated serum thyroglobulin and negative radioiodine
+OBJECTIVE Diferansiye tiroit karsinomaları uzak metastaz varlığında bile eğer tümör hücreleri radyoaktif iyot tutabiliyorsa iyi bir prognoza sahiptir.
+METHOD ve gereçler: Kanıtlanmış tiroit karsinomalı 28 hasta (20 kadın, 8 erkek; yaş aralığı, 21-85 yaş; ortalama, 56) çalışmaya dahil edildi.
+RESULT Tiroit yatağı ve boyunda (7 hasta), akciğer ve mediastinumda (6 hasta), boyun ve her iki akciğerde (5 hasta), akciğer ve kemikte (2 hasta), boyun ve kemikte (1 hasta), boyun, akciğer ve kemikte (1 hasta) olmak üzere toplam 62 tümör odağı saptanmıştır.
+CONCLUSION Ultrason servikal adenopati, bilgisayarlı tomografi akciğer ve mediastinumdaki metastatik lezyonları saptamada tanıya katkıda bulunmuştur.
+
+### Tıpta Uzmanlık Sınavı Temel Hekimliği Ne Kadar Ölçer?
+METHOD Bu araştırmada betimsel tarama modeli ve doküman incelemesi yöntemi kullanılmıştır.
+RESULT Çalışmada 3 ayrı öğretim üyesinden, tüm soruları temel hekimliği ölçme derecelerine göre 0-9 arasında puanlandırmaları istendi.
+
+### A selective ideational apraxic agraphia for consonants
+OBJECTIVE Dominant hemisferde olduğu varsayılan grafemik alan yazı yazmak için gereken hareket ve harflerin fiziksel özelliklerini tanımak için gerekli harf imgelerini içerir.
+METHOD Yazı performansı her biri eşit sayıda harf, anlamsız sözcük, sözcük, bağlaç, soyut ve somut sözcük içeren birkaç sözcük listesi ile değerlendirildi.
+RESULT Hastada sol ele sınırlı selektif yazı bozukluğu vardı.
+CONCLUSION Korpus kallozumun praksi ve yazmanın interhemisferik kontrolünü farklı seviyelerde yaptığı, yazı praksisine ait bilginin genel praksiden farklı olarak iletildiği ve yazı becerisi için sesli ve sessiz harflerin ayrı ayrı ele alındığı söylenebilir.
+
+### Using an initial fasting plasma glucose to decrease the need for the oral glucose tolerance test during pregnancy
+METHOD Tahmini gebelik yaşları 24-28 hafta arasında 390 gebe GDM açısından değerlendirildi.
+RESULT Katılımcıların 61 (%15.6)i GDM tanısı aldı.
+CONCLUSION GDM tanısı için AFPnin alt ve üst eşik değerlerinin kullanılması OGTT ihtiyacını azaltmaktadır.
+
+### Elit ve Sub-Elit Kadın Halter Sporcularında Trapezius Kas Kuvvetinin Araştırılması
+METHOD 42 Elite ve Sub-Elite kadın halter sporcusu üzerinde gerçekleştirilen çalışmada trapezius kas kuvvetleri manuel el dinamometresi ile ölçüldü.
+RESULT Sağ üst, orta, alt ve sol üst ve alt trapezius kas kuvveti ile halter performansı değerlerinin elit grupta daha yüksek olduğu bulundu (sırasıyla, p &lt; 0.01, p &lt; 0.05, p &lt; 0.01, p &lt; 0.01, p &lt; 0.01, p &lt; 0.01).
+CONCLUSION Elit kadın halter sporcularında sub-elitlerden daha yüksek bulunan trapezius kas kuvveti ile VKİ ve halter performansı arasında yakın ilişkili olduğu söylenebilir.
+
+### Prediction of prostate cancer using decision tree algorithm
+OBJECTIVE Serum PSA (Prostate Specific Antigen) düzeyi prostat kanserinin öngörülmesi için kullanılır fakat duyarlılığı ve seçiciliği zayıftır.
+METHOD ve gereç: Serum PSA düzeyi 0 to 10 ng/mL arasında olan 750 hastada QUEST (Quick, Unbiased and Efficient Statistical Tree) algoritması ile KA analizi yapıldı.
+RESULT QUEST analizi sonucu beş farklı düzeyde kanser olasılığı gösteren düğüm elde edildi: (1) PSA > 5.98 ng/mL; (2) PSA ≤ 5.98 ng/mL ve DRM (Dijital Rektal Muayene) pozitif veya şüpheli; (3) PSA ≤ 5.98 ng/mL ve DRM negatif ve free PSA > 0.81; (4) PSA ≤ 5.98 ng/mL ve DRM negatif,,free PSA ≤ 0.81 ve yaş ≤ 57; (5) PSA ≤ 5.98 ng/mL, DRM negatif, free PSA ≤ 0.81 ve yaş > 57.
+
+### Hemodiyaliz için enﬁye çukuru (snuff-box) arteriyovenöz fistüller
+RESULT Hastaların 115'i (%44) kadın, 143 u (%56) erkek ve ortalama yaşları 40.5±8.5 idi.
+CONCLUSION İyi bir fizik muayene ile enfiye çukuru fistülün uygunluğu değerlendirilebilir.
+
+### COMPARISON OF CLINICAL RESULTS OF BIPOLAR HEMIARTHROPLASTY FOR EXTRACAPSULAR AND INTRACAPSULAR HIP FRACTURES ABSTRACT
+BACKGROUND Bu çalışmada kalça kırığı sonrası çimentolu bipolar hemiartroplasti uygulanan 65 yaş veüstü olan hastaları intrakapsüler ve ekstrakapsüler kalça kırıkları olarak iki ayrı grupta ele alındı.
+METHOD 2008 Ocak-2011 Ekim tarihleri arasında, 65 yaş ve üzeri intrakapsüler(Grup 1) ve ekstrakapsüler (Grup 2) kalça kırığı ile Ankara Atatürk Eğitim ve Araştırma Hastanesi'ne başvuran ve çimentolu bipolar parsiyel kalça protezi ile tedavi edilen en az 6 ay takipli toplam 127 ardışık hasta değerlendirmeye alındı.
+RESULT Ortalama
+RESULT Harris kalça skoru, postoperatif
+RESULT Barthel günlük yaşam aktivite indeksi,operasyon süreleri, kan transfüzyon ihtiyaçları, Kwok kriterine göre sonuçlarda iki grup arasındaistatistiksel olarak anlamlı fark bulundu (p<0.05).
+CONCLUSION Çalışmada elde ettiğimiz bulgular ışığında bipolar hemiartroplasti; intrakapsüler kalça kırıklarında ekstrakapsüler kalça kırıklarına göre daha iyi fonksiyonel sonuçlara sahiptir
+
+### Kardiyopulmoner Resüsitasyon Uygulamalarındaki Değişikliklerin Farkındalığı; Bir Anket Çalışması Awareness of the Rearrangements in Cardiopulmonary Resuscit
+OBJECTIVE Son iki kardiyopulmoner resusitasyonuna göre eğitim alan sağlık çalışanlarının kılavuzlardaki değişikliklere uyumunu araştırmak.
+RESULT Çalışmaya 133 sağlık çalışanı katılmıştır.
+
+### Serum Ischemia Modified Albumin Levels in Infertile Couples Underwent in Vitro Fertilization
+OBJECTIVE İskemi modifiye albümin (IMA) enfeksiyon hastalıkları, koroner arter hastalıkları, hipoksik fetal stres ve diabetes mel- litus gibi değişik hastalık durumlarında tanı amacıyla kullanılan yeni bir belirteçtir.
+METHOD Çalışma grubumuz IVF başarısızlığı olarak değerlendirilen 30 hasta ile 27 başarılı IVF siklusu ve 34 doğurgan kontrol grubunu içermekteydi.
+RESULT Serum IMA seviyeleri IVF başarısızlığı grubun- da, başarılı IVF siklus ve kontrollerde sırasıyla 0.27 (0.07- 0.58), 0.35(0.08-0.88) ve 0.37(0.06-1.07) ABSU idi.
+CONCLUSION Çalışma sonucumuzda iskemi modifiye albüminin IVF başarısını belirlemede yeterli sensitivite ve spesiviteye sa- hip olmadığı saptanmıştır.
+
+### Miyofasiyal ağrı sendromunda tetik nokta enjeksiyonu
+OBJECTIVE Miyofasiyal ağrı sendromu, bir veya birkaç kas ve/veya bağ dokusunda bulunan ve tetik nokta denilen hipersensitif bölgelerle kendini gösteren ağrı, kas spazmı, hassasiyet, sertlik, güçsüzlük yapabilen bir rahatsızlıktır.
+METHOD Çalışmaya miyofasiyal ağrı sendromlu 164 hasta alındı.
+RESULT Tedavi ile ağrı kontrol değerleri tedavi öncesi değerler ile karşılaştırıldığında istatistiksel olarak daha iyi idi.
+CONCLUSION Tetik noktalara lokal anestezik ve steroid enjeksiyonunun miyofasial ağrı sendromunda faydalı olduğu görülmektedir.
+CONCLUSION olarak bu tedavinin miyofasial ağrı sendromunda diğer metotlara alternatif olabileceği sonucuna varıldı.
+
+### Servikal Disk Herniasyonlu Hastalarda Paraoksonaz 1 Aktivitesinin ve Fenotip Dağılımının Belirlenmesi
+OBJECTIVE Servikal disk herniasyonu (SDH), genellikle intervertebral disk dejenerasyonu (IVDD) veya travmanın bir sonucu olarak gelişen yaygın bir hastalıktır ve sinir kökü veya omurilik sıkışması nedeniyle ağrı veya nörolojik bozukluklara yol açabilir.
+METHOD Bu çalışmada 70 SDH hastası ve 70 sağlıklı birey yer aldı.
+RESULT PON1 aktivitesi, SDH hastalarında sağlıklı bireylere göre daha düşüktü (p <0.05).
+CONCLUSION SDH hastalar, belirgin şekilde azalmış PON1 aktivitesi sergiledi, bu da düşük PON1 aktivitesinin ve PON1 QQ fenotipinin potansiyel olarak SDH gelişimi için bir risk faktörü olabileceğini göstermektedir.
+
+### Hemşirelik Öğrencilerinin Hemşire ve Hasta Kavramlarına İlişkin Algılarının Metaforlarla Analizi
+OBJECTIVE Metaforlar, soyut ve karmaşık olayları anlamak ve açıklamak için kullanılan zihinsel araçlardır.
+METHOD Bu nitel araştırmaya bir üniversitenin Hemşirelik Fakültesi’nde öğrenim gören 238 öğrenci katılmıştır.
+RESULT Öğrenciler hemşire kavramına ilişkin 100 geçerli metafor ve hasta kavramına ilişkin 78 geçerli metafor üretmiştir.
+CONCLUSION Hemşirenin en çok anneye, hastanın ise çocuğa/bebeğe benzetildiği, hemşirenin bakım verici rolüne vurgu yapıldığı ancak bu rolünde profesyonel olarak algılanmadığı, hastanın bakıma sevgi ve şefkate muhtaç biri olarak görüldüğü bulunmuştur.
+
+### Berberin ve bağırsak mikrobiyomu arasındaki ilişkinin araştırılması: Son çalışmalara yakından bir bakış
+OBJECTIVE Berberin, kan şekeri düzenleme ve iltihap azaltma özellikleriyle bilinir ve ayrıca bağırsak mikrobiyota çeşitliliğini artırır ve mikrobiyal profilleri onarır.
+METHOD 2018-2023 yılları arasında PubMed, Web of Science, ScienceDirect ve Google Scholar gibi veritabanlarında, berberin ve bağırsak mikrobiyotası ile ilgili anahtar kelimeler kullanılarak bir literatür taraması yapılmıştır.
+RESULT Berberin, Bacteroidetes ve Akkermansia gibi yararlı türleri destekler, antimikrobiyal özellikler gösterir ve belirli patojenleri hedef alır.
+CONCLUSION Berberin, bağırsak mikrobiyota çeşitliliğini artırma ve patojenlerle mücadelede umut vadetmektedir.
+
+### Haydarpaşa Numune Eğitim ve araştırma Hastanesi’nde son iki yılda arteriyel ve venöz tromboz saptanan hastalarda V Leiden sıklığı
+OBJECTIVE Faktör V Leiden (FVL) gen mutasyonu, tromboza eğilim yaratan genetik risk faktörleri arasında en sık görülenlerden biridir.
+METHOD Gözlemsel, olgu- kontrollü, retrospektif olarak tasarlanan çalışmaya, 2008-2010 tarihleri arasında nöroloji, genel cerrahi, iç hastalıkları kliniklerinde yatarak veya ayaktan izlenen, arteriyel ve/veya venöz trombozu klinik olarak saptanan ve radyolojik yöntemler ile de trombozu kanıtlanmış ve FVL gen mutasyonu tetkiki yapılmış olgular alındı.
+RESULT Çalışmaya 67 trombozlu olgu ve kontrol grubu olarak 22 olgu alındı.
+CONCLUSION FVL mutasyon sıklığı ülkemizde, gen polimorfizminden söz ettirecek kadar yaygın olmakla birlikte tek başına heterozigot mutant varlığı, santral/periferik, gerek arteryel, gerekse venöz tromboz için bir risk faktörü gibi görünmemektedir.
+
+### Uluslararası indekslerde yer alan patoloji dergilerinde yayımlanan türkiye adresli yayınların değerlendirilmesi
+OBJECTIVE Bu çalışmayla, uluslararası indekslerde yer alan patoloji dergilerinde yayımlanan Türkiye adresli bilimsel yayınları değerlendirmek amaçlanmıştır.
+METHOD WoS'ta (Web of Science) yer alan, JCR (Journal Citation Report) veri tabanında konusu patoloji olan dergiler taranarak etki faktörüne göre sıralanmış, WoS kapsamında yer alan SCI (Science Citation Index) veri tabanında adresi Türkiye olan yayınlar saptanmıştır.
+RESULT SCI'da yer alan 66 patoloji dergisi ve bunlarda 1975-2009 yılları arasında Türkiye'den 1399 yayın saptanmıştır.
+CONCLUSION Araştırma ve olgu sunumları yayınların % 41,1'ini oluşturmakta ve çoğu etki değeri 1,0'ın altındaki dergilerde yayınlanmaktadır. “
+
+### Koksofemoral Çıkık olan Kedilerde Toggle Pin veya Caput ve Collum Femoris Eksizyon Artroplastisi Kullanımının Sonuçlarının Değerlendirilmesi: Retrospektif Çalışma
+OBJECTIVE Bu çalışmanın amacı, kedilerde koksofemoral çıkık tedavisinde toggle  pin artroplastisi ve caput femoris ile collum’un eksizyon artroplastisi yöntem- lerinin avantajlarını, dezavantajlarını ve postoperatif sonuçlarını karşılaştıra- rak değerlendirmektir.
+METHOD Bu  retrospektif  çalışmada,  2022-2023  yılları  arasında  farklı ırk, cinsiyet ve yaşlarda, koksofemoral çıkık problemiyle Küçük Hayvan  Kliniği’ne başvuran 20 kedi olgusu incelenmiştir.
+RESULT Eksizyon artroplastisi grubunda, 5 olguda (%45.4) postoperatif 2.
+
+### Böbrek hücreli kanser ile üriner nükleer matriks proteini arasındaki ilişki
+RESULT BHK grubunda hastaların %25.9'unda (n=7) renal kitle çapı 4 cm'den küçük, %48'1'de (n=13) 4-7 cm arası, %25.9'unda (n=7) 7 cm'den büyük idi.
+CONCLUSION Çalışmamızdan elde ettiğimiz bulgular üriner NMP22 testinin BHK'lı hastalarda bir markır olarak faydalı bir yöntem olmadığını göstermiştir.
+
+### Anadolu Sağlık Meslek Lisesi Öğrencilerinin İletişim Becerileri
+METHOD Araştırma grubunu 218 öğrenci oluşturmuştur.
+RESULT Öğrencilerin iletişim beceri envanteri puan ortalaması toplamda 164,61±17,20 olarak bulunmuştur.
+CONCLUSION Kız öğrencilerin iletişim beceri puanları erkeklere nazaran daha yüksek bulunmuş, okul başarı puanları ve kardeş sayısının artışına paralel iletişim beceri puanları da yükselmiştir.
+
+### Chronic pain and depression: A descriptive survey among adult primary health care centre patients
+OBJECTIVE Türkiye’de birinci basamak sağlık kuruluşunun yetişkin hastaları arasında kronik ağrı ve depresyon ilişkisine dair bilgi yetersizdir.
+METHOD ve gereç: Bu tanımlayıcı çalışmada veriler 18-64 yaşları arasında birinci basamak hastası olan çalışma popülasyonunun (n = 259) sosyo-demografik ve ağrı ile ilgili özelliklerine yönelik bir anket formu ile toplanmıştır.
+RESULT Katılımcıların % 50,6’sının kronik ağrı yakınması vardır ve % 48,8’inin tek tip ağrısı bulunmaktadır.
+CONCLUSION Bu çalışma kronik ağrıyı araştıran az sayıdaki çalışmadan biridir ve Türkiye’de birinci basamağa başvuran kişiler arasında önemli bir sorun olarak değerlendirmektedir.
+
+### Dieulafoy lezyonuna bağlı akut gastrointestinal sistem kanaması nedeniyle acil servise başvuran olguların tedavi sonuçlarının değerlendirilmesi
+METHOD Türkiye Yüksek İhtisas Eğitim ve Araştırma Hastanesi gastrointestinal endoskopi ünitesinde GİS kanaması nedeniyle 2007 ve 2011 yılları arasında DL tanısı almış hastalar geriye dönük olarak değerlendirildi.
+RESULT Hastaların 27 tanesinde DL’ye bağlı gelişen kanama saptandı.
+
+### İş Yaşam Dengesi Üzerine Bir Araştırma: Lisansüstü Tezlerin Bibliyometrik Analizi
+OBJECTIVE – İş yaşamındaki değişimler, örgütsel yapılardaki farklılaşmalar, teknolojik değişimler, iş ve yaşamındiğer alanlarındaki etkileşimin iş yaşamına etkisi, dijitalleşme ve çalışma zamanlarına ilişkin farklıuygulamalar, çalışanların iş ve diğer yaşam alanları arasındaki dengeyi sağlamaları gerekliliğini giderekarttırmaktadır.
+METHOD – Araştırma kapsamında Yüksek Öğretim Kurumu Ulusal Tez Merkezi veri tabanından 2021 Mayısayında tarama terimi olarak iş yaşam dengesi terimi girilmiştir.
+RESULT – Ulusal Tez Merkezi veri tabanından iş yaşam dengesi terimiyle tarama yapılmış ve 70 adet tezeulaşılmıştır.
+CONCLUSION – İş yaşam dengesi terimiyle Ulusal Tez Merkezi internet sayfasından taranan 70 adet lisansüstütez bibliyometrik analizle incelenmiştir.
+
+### Does employment status influence obesity prevalence among females? A comparative study from Ankara, Turkey
+OBJECTIVE Bu çalışmada 2-17 Nisan 2007 tarihinde Ankara’nın kent merkezinde yaşayan ve çalışan kadınlarla aynı bölgede yaşayan ve çalışmayan kadınların beslenme alışkanlıkları ve şişmanlık durumlarının karşılaştırılması amaçlanmıştır.
+METHOD ve gereçler: Araştırmaya katılan çalışan kadınlar Ankara Keçiören Belediyesinde çalışan 107 kadın; çalışmayan kadınlar ise aynı yerleşkede yer alan Sağlık Ocağı bölgesinden seçilen, çalışan kadınlara öğrenim durumu ve yaş açısından benzer 107 kadındır.
+RESULT Fazla kilolu olma ve şişmanlık ile seçilmiş bazı değişkenler için (yaş, medeni durum, ayak- üstü beslenme tüketim durumu, sigara içme durumu, çalışma durumu ve düzenli olarak kahvaltı yapma durumu) lojistik regresyon modeli uygulanmıştır.
+CONCLUSION Çalışma durumu ve yaş fazla kiloluluk ve şişmanlık için risk faktörüdür.
+
+### Genç futbolcularda kuadriseps ve hamstring izokinetik zirve kas kuvveti ile şut hızı ilişkisi
+METHOD çalışmaya iki farklı profesyonel takımın alt yapısında (U19) bulunan toplam 54 genç erkek futbolcu (yaş: 18,4±1,9 yıl) gönüllü olarak katıldı.
+RESULT Analiz sonucuna göre futbolcuların şut hızı ile konsentrik Q kas kuvveti arasında mükemmel, konsentrik H kas kuvveti arasında iyi derecede, eksentrik Q kas kuvveti arasında çok iyi derecede ve eksentrik H kas kuvveti arasında ise düşük orta derecede ilişki saptandı (p<0,05).
+CONCLUSION Q ve H kaslarının hem konsentrik hem de eksentrik kuvveti şut atış hızıyla ilişkilidir.
+
+### Monte Carlo Simülasyon Sonuçlarının Grafik Teknikler Kullanılarak Yeniden Değerlendirilmesi
+RESULT Yapılan istatistiksel analiz sonucunda, dikkate alınan simülasyon çalışmaları sonuçlarının farklı faktörlerden etkilendiğini, daha güvenilir ve istikrarlı tahminlerin elde edilebilmesi için tespit edilen faktörlerin dikkate alınması gerektiğini göstermiştir.
+CONCLUSION Her iki yöntem de umut vericidir, büyük ve karmaşık bir veri kümesi olduğunda yanıt değişkenini etkileyen faktörleri belirlemek için verimli bir şekilde kullanılabilir.
+
+### Serebral AVM'lerde Sınıflamaların Önemi, Temel Hastane Deneyimi
+BACKGROUND ve AMAÇ: Serebral Arteriovenöz malformasyonlar nöroşirürji pratiğinde sık karşılaşılan vasküler hastalıklardır.
+METHOD Günümüzde Spetzler Martin skalası, AVM cerrahi uygunluğu veya cerrahi riskleri öngörmek amacıyla yaygın olarak kullanılan basit ve pratik bir skaladır.
+RESULT Genellikle rüptüre veya semptomatik AVM tanısı olan hastalarda mümkünse mikrocerrahi yöntemler tedavi için kullanılır.
+CONCLUSION ve SONUÇ: Cerrahi tedavinin mümkün olmadığı hastalarda ise radyocerrahi gibi farklı tedavi yöntemleri uygulanabilir.
+
+### Şizofreni hastalarında düşünce ve dil bozukluğunun Pozitif ve Negatif Sendrom Ölçeği ve sosyodemografik özelliklerle ilişkisi
+OBJECTIVE Şizofrenide görülen düşünce bozuklukları şizofreninin önemli ve az anlaşılmış özelliklerinden biridir.
+METHOD Çalışmaya DSM- IV tanı ölçütlerini karşılayan 176 şizofreni hastası alınmıştır.
+RESULT D DÖ puanı, PANSSın pozitif, negatif, genel psikopatoloji alt ölçek puanları ve PANSS toplam puanı ile anlamlı ilişki gösteriyordu.
+CONCLUSION Şizofreni hastalarında düşünce vedil bozukluğu PANSSın pozitif, negatif ve genel psikopatoloji alt ölçekleri ile ilişkili bulunmuştur. (
+
+### Ankara Eğitim ve Araştırma Hastanesi Kadın Hastalıkları ve Doğum Kliniği Gebe Okulunda Eğitim Alan Gebelerin Obstetrik Sonuçlarının Değerlendirilmesi (Doğum Şekli)
+BACKGROUND Son yıllarda sezaryen oranı tüm dünya genelinde önemli ölçüde artış göstermektedir.
+METHOD Tanımlayıcı tipteki bu araştırma, Ankara Eğitim ve Araştırma Hastanesi Kadın Hastalıkları ve Doğum polikliniğine başvuran nullipar gebelerden Haziran 2020 ve Kasım 2022 tarihleri arasında gebe okuluna katılım sağlayan ve katılmayan eşit sayıdaki gebeyi içermektedir.
+RESULT Çalışmamızda 54 nulipar eğitim alan gebeden 44’ü (%81.5) normal doğum yaptı, 54 nulipar eğitim almayan gebeden 33’ü (%61.1) normal doğum yaptı.
+
+### Karaciğer sirozu olan hastalarda endoskopik retrograd kolanjiopankreatografi uygulanması
+BACKGROUND ve Amaç: Sirotik hastalarda biliyer hastalıklarda cerrahi dışında alternatif olarak endoskopik retrograd kolanjiyopankreatografinin zaman zaman yapılabilmesi gerekmektedir.
+METHOD 11 hastaya (5 Kadın, 6 Erkek), (Child-pugh sınıf A, 2; B, 5; C, 4 kişi)
+METHOD Haziran 2005-Eylül 2008 tarihleri arasında endoskopik retrograd kolanjiyopankreatografi yapılmıştır.
+RESULT On hastada endoskopik sfinkterotomi yapıldı, 2 taşlı hastada ilave balon dilatasyonu yapıldı.
+CONCLUSION Sirotik hastalarda endoskopik sfinkterotomi koledokolitiazis ve malign biliyer darlıkda güvenli ve etkili bir şekilde kullanılmaktadır.
+
+### Serum prolidase activity in patients with degenerative and rheumatic heart valve diseases
+OBJECTIVE Renin-anjiyotensin sistemi, inflamasyon, sinyal yolakları ve genetik yatkınlığın kalp kapak hastalığının patogenezinde önemli rol oynadığı bilinmektedir.
+METHOD ve gereç: Çalışmaya, romatizmal etiyoloji nedeniyle kapak replasmanı geçirmiş olan 26 hasta (Grup I), dejeneratif etiyoloji nedeniyle kapak replasmanı geçirmiş olan 24 hasta (Grup II) ve 20 sağlıklı gönüllü (Grup III) katıldı.
+RESULT Prolidaz aktivitesi, kontrol grubunda hasta gruplarındakinden anlamlı şekilde daha yüksekti (sırasıyla 51,23.± 5,9 U/L ve 39,40 ± 4,6 U/L; P < 0,001).
+
+### Kripto Para Girişimciliğinde Güven Faktörü Üzerine Bir Araştırma
+OBJECTIVE Bu çalışmada “Türkiye’deki tüketicilerin kripto paralara olan güveni ile yatırımları arasında anlamlı bir ilişki olup olmadığını belirlemek” amaçlanmaktadır.
+METHOD Tüketicilerin kripto paralara karşı güven algılarını belirlemek için 767 katılımcıya online ortamda anket yapılmış, elde edilen veriler doğrusal regresyon yöntemi ile analiz edilmiştir.
+RESULT Elde edilen bulgulara göre kripto paralara yatırım durumunun ve yatırım tutarının, kripto paralara olan güven unsurundan pozitif olarak etkilendiği ortaya çıkmıştır.
+CONCLUSION ve Öneriler: Kripto paraya olan güvenin artırılması daha fazla yatırım çekecektir.
+
+### The effect of experimentally induced carbon dioxide pneumoperitoneum on intra-abdominal and intra-esophageal pH
+OBJECTIVE Karbondioksit ile elde edilen pnömoperitoneumunun intra-abdominal (IA) ve intraözofageal (IÖ) pH’ya etkisini değerlendirmek amacıyla deneysel bir çalışma yapılmıştır.
+METHOD ve gereçler: Çalışmaya 18 adet Wistar rat dahil edilmiştir.
+RESULT CO2 grubunda pH değerleri IA ve IÖ ölçümlerde anlamlı olarak azalmıştır (P < 0,05).
+CONCLUSION CO2 insuflasyonu IA pH’yı azalmaktadır.
+
+### FİZYOTERAPİ VE REHABİLİTASYON ÖĞRENCİLERİNİN YAŞLILARA YÖNELİK YAKLAŞIMLARI VE TUTUMLARININ ANALİZİ
+BACKGROUND Türkiye, yaşlı insanların sağlık durumu ile ilgili planlama ve sağlık hizmetleri yeniden gözden geçirilmesini gerektiren dünyanın ikinci en hızlı yaşlanan ülkesidir.
+METHOD 1270 öğrencinin yaşlılara yönelik tutum ve davranışları UCLA-GA skalasının Türkçe versiyonu kullanılarak değerlendirildi.
+RESULT Ortalama UCLA-GA skoru 48.18±5.67 idi.
+CONCLUSION Fizyoterapi öğrencilerinin yaşlılara yönelik tutum ve davranışları, mezuniyet sonrası dönemleri boyunca geriatrik rehabilitasyon alanında çalışmayı isteyip istememesi, lisans eğitimleri boyunca eğitim, kurs veya toplantılara katılıp katılmamaları, huzurevlerini ziyaret edip etmedikleri veya yaşlı birey ile yaşamayı isteyip istememeleri, öğrencilerin cinsiyeti gibi çeşitli faktörlere bağlı olarak değişebilir.
+
+### Ciprofloxacin-Ceftriaxone Combination Prophylaxis for Prostate Biopsy; Infective Complications
+OBJECTIVE Siprofloksasin ve seftriakson (üçüncü kuşak sefalosporin) kombinasyon profilaksisi altında, ultrasonografi kılavuzluğunda transrektal prostat biyopsisi uyguladığımız hastalarda gelişen enfektif komplikasyonları sunduk.
+METHOD Çalışmaya biyopsiden 1 saat önce intramuskuler 1 g seftriakson ve biyopsi sonrası 5 gün, günde iki doz, oral 500 mg siprofloksasin uygulanan 1193 hasta dahil edildi.
+RESULT Hastaların 16 (%1,3) sında ciddi enfektif komplikasyonlar gelişti.
+CONCLUSION Belirli bir profilaksi prosedürü olmamasına rağmen transrektal prostat biyopsi profilaksisinde siprofloksasin en yaygın kullanılan antibiyotiktir.
+
+### Serebral palsili çocukların annelerinde depresyon ve yaşam kalitesinin değerlendirilmesi
+RESULT SPli çocukların yaş ortalaması 66.20 ± 43.73 aydı.
+CONCLUSION SPli çocukların annelerinde yaşam kalitesinde bozulmanın ve depresyona eğilimin daha fazla olduğu saptanmıştır.
+
+### Riskli Birimlerde Çalışan Hemşirelerin Merhamet Yorgunluğu Düzeyleri ve Etkileyen Faktörler
+OBJECTIVE Bu çalışma,  riskli birimlerinde çalışan hemşirelerin merhamet yorgunluğu düzeylerini, demografik özelliklere ve çalışma şartlarına göre farklılıklarını belirlemek amacıyla yapılmıştır.
+METHOD Tanımlayıcı ve kesitsel olarak dizayn edilen çalışma, bir vakıf üniversitesi hastanesinin onkoloji, acil, yoğun bakım, ameliyathane ve karma servislerinde çalışan toplam 118 hemşire ile yürütülmüştür.
+RESULT Örneklemin merhamet yorgunluğu puan ortalamasının orta düzeyde (16.0±8.3) olduğu saptanmıştır.
+CONCLUSION Çalışma sonuçları hemşirelerin merhamet yorgunluğu düzeylerinde, demografik ve çalışma ortamına ait bazı değişkenler açısından anlamlı farklılık olduğunu göstermiştir.
+
+### Spor Yaralanmalarından Korunma Farkındalığı Ölçeği geliştirme, geçerlilik ve güvenirlik çalışması
+METHOD Metodolojik tipteki bu araştırmaya, yerel etik kurul tarafından verilen onaydan sonra başlanmıştır.
+RESULT Ölçeğin (Ölçek v.1) kapsam geçerliliği için 18 uzmandan görüş alındı.
+CONCLUSION Geliştirilen ‘Spor Yaralanmalarından Korunma Farkındalığı Ölçeği’, 18 madde ve dört (kişisel sağlık durumu, çevresel faktörler ve ekipman, eg‐ zersiz seansı, egzersiz programı) faktörlü yapı ile 13-66 yaş aralığındaki Türk toplumunda geçerliliğini ve güvenirliğini sağladı.
+
+### Çalışanın sürdürülebilir performansı (ÇSP) ölçeği: Türkçe geçerlik-güvenirlik çalışması
+METHOD Çalışmanın verilerine ulaşmak için Ji ve diğerleri tarafından geliştirilen Çalışanın Sürdürülebilir Performansı (ÇSP) Ölçeği kullanılmıştır.
+RESULT Gerçekleştirilen analiz sonucunda, İngilizce dilindeki orijinal ölçeğin Türkçe dil geçerliği sağlanmıştır.
+CONCLUSION Örgütlerde sürdürülebilir stratejilerin belirlenmesinde insan kaynakları önemli rol oynamaktadır.
+
+### Bolivya’da yetişen Chia (Salvia hispanica L.) tohumlarının yağ asidi, sterol, tokoferol ve mineral kompozisyonları; toplam fenol ve flavonoit miktarları ve antioksidan aktivitesi
+OBJECTIVE Salvia L. (Lamiaceae) cinsi çeşitli hastalıkların geleneksel tedavisinde eski çağlardan beri kullanılmaktadır.
+METHOD Yağ asidi, sterol, tokoferol ve mineral analizleri kromatografik teknikler kullanılarak yapılmıştır.
+RESULT Tohumlar; α-linolenik asit (%56.09 ± 0.01), βeta-sitosterol (%65.77 ± 0.06), gama-tokoferol (480.89 ± 6.53 mg/kg) ve potasyum (8718.4 ± 0.06 μg/g) bakımından zengindir.
+CONCLUSION Chia tohumları yağ asidi, sterol, tokoferol, mineral, fenolik ve flavonoit içerikleri ve antioksidan özellikleri nedeniyle biyolojik olarak aktif bileşiklerce zengin bir kaynaktır.
+
+### Spiritüel Bakım Gereksinimleri Ölçeği Türkçe Formunun Geçerlik ve Güvenirliği
+BACKGROUND Sağlık bakım sisteminde bireylerin daha kolay ölçülebilen fiziksel gereksinimleri öncelikle ele alınmakta, buna karşılık spiritüelgereksinimler gözden kaçabilmektedir.
+OBJECTIVE Spiritüel BakımGereksinimleri Ölçeğinin Türkçe formunun geçerlik ve güvenilirliğini yapmaktır.
+METHOD Metodolojik tipte olan araştırma, Nisan- Ağustos2016 tarihlerinde, Ege Üniversitesi Tıp Fakültesi Hastanesi dâhiliye ve cerrahi kliniklerinde yürütülmüştür.
+RESULT Çalışmada kapsam geçerliğini belirlemek için hesaplanan KGO değeri 3-4 puanortalaması aralığındadır.
+CONCLUSION Spritiüel Bakım Gereksinimleri Ölçeğinin Türkiye’dehastaların spiritüel bakım gereksinimlerini belirlemede geçerli ve güvenilir olduğu söylenebilir.
+
+### Çocuk İstismarı ve İhmalini Önleme Derneği Gençlik Kolu Gönüllülerinin Çocukluk Dönemlerindeki İstismar Sıklığı
+OBJECTIVE Çocuk İstismarını ve İhmalini Önleme Derneği Gençlik Kolu gönüllülerinin çocukluk döneminde yaşadıkları istismar sıklığının ICAST-R kullanılarak saptanması ve sosyodemografik veriler incelenerek ülkemizde istismara yol açabilen sosyal risk etmenlerin belirlenmesidir.
+METHOD Kesitsel tanımlayıcı çalışmanın örneklemini Gençlik Kolunda yer alan farklı fakültelerde okuyan 18-24 yaş arası 138 üniversite öğrencisi oluşturmaktadır.
+RESULT Çalışmaya katılan 112 öğrencinin 23ü (%20,5) fiziksel istismara, 51i (%45,5) duygusal istismara ve 24ü (%21,4) cinsel istismara uğradığını ifade etmiştir.
+
+### Pectus Excavatum Klasifikasyonunda Kullanılan İndekslerin Spirometrik ve Demografik Parametrelerle İlişkisi
+OBJECTIVE En sık görülen göğüs duvarı deformitesi olan pectusexcavatum (PEX), kozmetik sorunların yanı sıra restriktifkardiyovasküler ve psikolojik patolojilere yol açabilir.
+METHOD Çalışmamızda PEX olgularında deformitenin şiddetini sınıflandıran Haller indeksi (HI), antropometrik indeks (AI) ve alt vertebral indeks (LVI)in restriksiyonu gösteren spirometrik parametreler, hastalığa bağlı Beck Depresyon skoru ve demografik veriler ile ilişkisi incelenmiştir.
+RESULT Olguların restriktif solunum paternlerinin değerlendirildiği %FVC değerleri ile HI (r=-0.699 ve p<0.01), AI (r=-0,579 ve p=0.019) ve LVI (r=-0.559 ve p=0.025) arasında anlamlı negatif korelasyon olduğu belirlendi.
+CONCLUSION Deformite ile yaşanan yıl miktarı arttıkça depressif mizaç riskinin de arttığı ve ailede PEX varlığının deformite şiddetine ve buna sekonder morbiditeye etkisinin olmayacağı düşünülmektedir.
+
+### Pediatrik kolesteatomda cerrahi tedavi sonuçlarımız
+OBJECTIVE Bu çalışmada pediatrik kolesteatomda cerrahi teknikler ve elde edilen sonuçlar değerlendirildi.
+RESULT Yedi hastada (%11) kolesteatom nüks etti.
+CONCLUSION Bu çalışmada iyi kullanılabilir
+CONCLUSION işitme açısından CWU ve CWD mastoidektomi arasında fark gözlenmedi.
+
+### Endometrial Kanser Araştırmalarında Fitoöstrojenlerin Bibliyometrik Analizi
+OBJECTIVE Bu çalışmada, Web of Science (WoS) veri tabanındaki makalelerin bibliyometrik yöntemler kullanılarak analiz edilmesi ve böylece endometrial kanser araştırmalarında fitoöstrojenlerin yerinin belirlenmesi amaçlanmıştır.
+METHOD WoS veri tabanında “endometrial cancer” AND (Phytoestrogen OR "plant estrogen" OR "Phyto-Estrogen") anahtar kelimeleri ile tarama yapılmıştır.
+RESULT Yapılan analizler sonucunda 1998-2023 yılları arasında toplamda 56 çalışmaya ulaşılmıştır.
+CONCLUSION Günümüzde endometrial kanser ve fitoöstrojen ilişkisiyle ilgili az sayıda çalışma bulunmaktadır.
+
+### Kalp Hızı Değişkenliği ile Ventriküler Erken Atımlar Arasındaki İlişki
+OBJECTIVE Ventriküler kaynaklı aritmilerin en sık kaşılaşılan tipi ventriküler erken atımlardır (VEA).
+METHOD Sık VEA’sı olan 80 hasta ile VEA izlenmeyen 108 hasta çalışmaya dahil edildi.
+RESULT Sık VEA'sı olan hastalar daha yaşlı (p<0.001), daha fazla koroner arter hastası (p<0.001), hipertansif (p=0.026) ve diyabetik (p<0.001) idi.
+CONCLUSION Çalışmamızda sık VEA’lı hastalarda, aşırı sempatik aktiviteyle ilişkili düşük SDNN ve SDANN değerlerinin izlendiği bozulmuş kalp hızı değişkenliği saptadık.
+
+### YUMUŞAK DOKU SARKOMUNDA PAZOPANIB KULLANIMINA İLİŞKİN GERÇEK HAYAT VERİLERİ
+METHOD Çalışmamız tek merkezli  retrospektif bir çalışma olup, metastatik olan ve pazopanib alan 18 yaş üstü hastalar dahil edildi.
+RESULT Hastaların tanı sırasında ortalama yaş 49.
+CONCLUSION Etkinlik ve yan etki yönünden araştırma yaptığımız çalışmada; yumuşak doku sarkomunda pazopanib kullanımı hem PFS hem OS açısından etkin  bulundu.
+
+### Vajinismusta başağrısı, anksiyete ve depresyon
+OBJECTIVE Vajinismus cinsel sağlık polikliniğine başvuran hastalar arasında en sık rastlanan problemlerden biridir.
+METHOD Prospektif olarak yapılan bu çalışmada cinsel sağlık polikliniğinde vajinismus tanısı alan 87 hasta ile görüşüldü.
+RESULT 50 vajinismus hastasının %46’ sında (n:23) baş ağrısı mevcuttu.
+CONCLUSION Vajinismus hastalarında baş ağrısı sık görülen bir nörolojik tablo olup, aurasız migren sıklığı gerilim tipi baş ağrısından daha fazladır.
+
+### Hemşirelik İntörn Öğrencilerinin COVID-19 Şüpheli Çocuk Hasta İçin Belirledikleri Hemşirelik Tanılarının İncelenmesi
+OBJECTIVE Bu araştırma hemşirelik intörn öğrencilerinin COVID-19 şüphesi olan çocuk hasta ile ilgili verilen örnek vakada belirledikleri hemşirelik tanılarının incelenmesi amacıyla yürütülmüştür.
+METHOD Bu araştırma tanımlayıcı türdedir.
+RESULT Araştırmada her bir öğrenci ortalama 5.57±1.67 adet tanı belirlemiştir.
+CONCLUSION Bu araştırmada öğrencilerin belirledikleri hemşirelik tanılarının çoğunluğunun COVID-19 şüpheli çocuğun bakımına uygun olduğu görülmüştür.

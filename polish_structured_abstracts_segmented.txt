@@ -1,0 +1,428 @@
+### Gruźlica w Polsce w 2022 roku
+BACKGROUND Gruźlica pozostaje ważnym problemem zdrowotnym współczesnego świata.
+OBJECTIVE Analiza sytuacji epidemiologicznej gruźlicy w Polsce w 2022 roku przez porównanie z sytuacją w krajach Unii Europejskiej (UE) i Europejskiego Obszaru Gospodarczego (EOG).
+OBJECTIVE MATERIAŁ I
+METHOD Analiza przypadków zarejestrowanych w 2022 roku, wyników lekowrażliwości, danych GUS o zgonach z przyczyny gruźlicy, danych NIZP PZH – PIB o przypadkach gruźlicy jako choroby wskaźnikowej AIDS oraz raportu ECDC o gruźlicy w krajach UE/EOG w 2022 roku.
+RESULT W 2022 roku zarejestrowano w Polsce 4314 przypadków gruźlicy (11,4/100 000), w tym 4148 gruźlicy płuc.
+RESULT W 81,9% przypadków gruźlicy płuc rozpoznanie potwierdzono bakteriologicznie (9,0/100 000).
+RESULT 98 chorych miało gruźlicę wielolekooporną (MDR-TB).
+RESULT Zapadalność była tym większa im starsza była grupa wieku.
+RESULT Zapadalność mężczyzn była trzykrotnie większa niż kobiet.
+RESULT Cudzoziemcy (295) stanowili 6,8% ogółu chorych na gruźlicę.
+RESULT Liczba przypadków gruźlicy współwystępującej z zakażeniem HIV jest nieznana, podobnie jak wyniki leczenia.
+RESULT Gruźlica była przyczyną zgonu 472 osób, umieralność wynosiła 1,2/100 000.
+CONCLUSION Zapadalność na gruźlicę w Polsce w 2022 roku była większa niż w roku 2021 (o 17,5%).
+CONCLUSION Odsetek przypadków gruźlicy z potwierdzeniem bakteriologicznym wynosił 80,9%, w krajach UE/EOG 70,6%.
+CONCLUSION Odsetek MDR-TB wśród przypadków ze znanymi wynikami lekowrażliwości był mniejszy niż w krajach UE/EOG (3,1% vs. 4,4%).
+CONCLUSION Największą zapadalność stwierdza się w Polsce w starszych grupach wieku (w krajach UE/EOG w wieku od 25 do 44 lat).
+CONCLUSION Odsetek dzieci w wieku do 14 lat wśród ogółu chorych na gruźlicę wynosił 1,0%, średni w krajach UE/EOG 3,5%.
+CONCLUSION W Polsce zapadalność na gruźlicę mężczyzn była trzykrotnie większa niż kobiet, w krajach UE/EOG dwukrotnie.
+CONCLUSION Odsetek cudzoziemców wśród ogółu chorych w Polsce wynosił 6,8%, w krajach UE/EOG- 33,3%.
+CONCLUSION Odsetek chorych na gruźlicę, zakażonych HIV, wynosił w krajach UE/EOG 4,1% przypadków ze znanym statusem HIV
+
+### Obrażenia i ślady na rękach strzelca spowodowane oddaniem strzału z broni palnej
+OBJECTIVE 1) ocena częstości występowania śladów i obrażeń na rękach osoby oddającej strzał z broni palnej, 2) szczegółowy opis rodzaju takich śladów i obrażeń, 3) szczegółowa ocena mechanizmu ich powstania w odniesieniu do rodzaju broni i amunicji oraz sposobu trzymania broni w chwili strzału.
+OBJECTIVE MATERIAŁ I
+METHOD Przeanalizowano 8 przypadków, w których na kończynach górnych osoby oddającej strzał stwierdzono ślady lub obrażenia.
+METHOD W okresie objętym badaniem przetestowano łącznie 217 egzemplarzy broni, w tym 68 egzemplarzy broni pneumatycznej, oddając ok. 1100 strzałów próbnych.
+RESULT Ślady i obrażenia ujawniono jedynie w ok. 5% strzałów oddanych z danego modelu broni palnej.
+RESULT Nie stwierdzono ich w przypadku broni pneumatycznej.
+RESULT Zmiany te miały postać osmaleń, tatuażu prochowego oraz różnokształtnych otarć naskórka i powierzchownych ran powstałych od poruszających się elementów broni (zamka, kurka).
+RESULT Niektóre z nich odwzorowywały budowę ruchomych części broni.
+CONCLUSION W praktyce kryminalistycznej i sądowo-lekarskiej szczegółowa wiedza na temat rodzaju i mechanizmu powstania śladów i obrażeń na rękach strzelca może mieć istotną wartość dowodową w sprawie dotyczącej użycia broni palnej.
+CONCLUSION Wyniki niniejszej analizy potwierdzają konieczność prowadzenia dalszych badań i obserwacji w tym zakresie.
+
+### Ognisko choroby legionistów w Rzeszowie w 2023 roku
+BACKGROUND Choroba legionistów jest typem ciężkiego zapalenia płuc wywołanego przez bakterie Legionella.
+BACKGROUND Śmiertelność w tej chorobie wynosi 5-10%.
+BACKGROUND Na większe ryzyko zachorowania narażone są osoby z różnymi chorobami współistniejącymi, osoby palące i osoby w starszym wieku.
+OBJECTIVE Celem pracy jest przedstawienie wyników dochodzenia epidemiologicznego w ognisku choroby legionistów które wystąpiło na terenie miasta Rzeszowa i okolic w sierpniu i wrześniu 2023 roku oraz przedstawienie zagrożenia związanego z obecnością bakterii Legionella w instalacjach i sieciach wodociągowych.
+OBJECTIVE MATERIAŁ I
+METHOD Materiałem do niniejszej publikacji były dane z dochodzenia epidemiologicznego prowadzonego w ognisku choroby legionistów w Rzeszowie w 2023 roku.
+RESULT Dochodzenie epidemiologiczne ujawniło 165 przypadków choroby legionistów w ognisku, w tym 152 przypadki potwierdzone oraz 13 przypadków prawdopodobnych.
+RESULT Śmiertelność w ognisku legionelozy wynosiła 15%.
+RESULT W toku prowadzonego dochodzenia prowadzono badania środowiskowe w budynkach mieszkalnych i użyteczności publicznej oraz instalacjach przemysłowych.
+RESULT W ramach badań środowiskowych pobrano 187 próbek wody, w tym 87 próbek wody ciepłej.
+CONCLUSION Ognisko choroby legionistów na terenie miasta Rzeszowa zwraca uwagę na potencjalne zagrożenie z strony bakterii Legionella dla zdrowia i życia szczególnie osób starszych cierpiących na choroby przewlekłe.
+CONCLUSION Przeprowadzone badania środowiskowe potwierdziły najwyższą liczbę bakterii Legionella na poziomie średnim i wysokim w próbkach wody pobranych w mieszkaniach prywatnych osób chorych.
+CONCLUSION Pomimo braku ścisłych uregulowań prawnych wskazujących wprost na obowiązki dotyczące okresowej dezynfekcji wewnętrznych instalacji zaopatrzenia w wodę ciepłą, należy podjąć współpracę z ich właścicielami w celu wyegzekwowania planów i działań w tym zakresie.
+
+### Wykorzystanie ciała szklistego oka jako alternatywnego materiału do oznaczania alkoholu w zwłokach ludzkich
+OBJECTIVE Celem pracy jest ocena przydatności ciała szklistego oka (vitreous humour – VH) w oznaczaniu alkoholemii u zmarłych.
+OBJECTIVE W pracy przedstawiono korelację pomiędzy zawartością alkoholu etylowego w ciele szklistym a stężeniem alkoholu etylowego we krwi żylnej (femoral blood – FB).
+OBJECTIVE MATERIAŁ I
+METHOD Materiał do badań stanowiły próbki krwi i ciała szklistego oka pobrane od 62 osób zmarłych w latach 2012–2016, których sekcje przeprowadzono w Zakładzie Medycyny Sądowej Uniwersytetu Medycznego w Białymstoku.
+METHOD Do badania zawartości alkoholu wykorzystano metodę chromatografii gazowej (GC).
+METHOD Uzyskane wyniki poddano analizie statystycznej przy użyciu programu MF Excel oraz Statistica 12.5, a następnie przedstawiono w formie opisowej oraz rycin i wykresów.
+RESULT Analiza statystyczna nie wykazała istotnych różnic pomiędzy stężeniem etanolu w VH i w FB.
+RESULT Korelacja Spear­mana pomiędzy stężeniem etanolu w badanych materiałach wyniosła r = 0,96, p < 0,01.
+CONCLUSION Przeprowadzone badania nie wykazały statystycznie istotnych różnic pomiędzy stężeniem alkoholu w VH i FB.
+CONCLUSION Pozwala to przyjąć, że w przypadkach, gdy nie ma możliwości pobrania do badań toksykologicznych krwi żylnej, ciało szkliste oka może być stosowane jako wiarygodny materiał alternatywny.
+
+### Rzeżączka w Polsce w 2022 roku
+BACKGROUND W 2022 r. w krajach UE/EOG zachorowania na rzeżączkę powróciły do przedpandemicznego trendu wzrostowego osiągając kolejny szczyt.
+BACKGROUND W trzecim roku trwania pandemii COVID-19, w lutym 2022 nastąpiła rosyjska inwazja na Ukrainę, która spowodowała masową migrację ludności.
+OBJECTIVE Podsumowanie sytuacji epidemiologicznej rzeżączki w Polsce w 2022, który był rokiem zaznaczonym dwoma kryzysami.
+OBJECTIVE MATERIAŁ I
+METHOD Porównano jednostkowe dane z nadzoru epidemiologicznego przypadków rzeżączki za rok 2022, dane o zapadalności z biuletynów za lata 2013-2022 oraz liczbę pacjentów leczonych w poradniach dermatologiczno-wenerologicznych na podstawie Biuletynów Statystycznych Ministerstwa Zdrowia z danymi z lat poprzednich.
+RESULT W 2022 r. w Polsce nastąpił wzrost przypadków rzeżączki, z 630 zgłoszonymi zachorowaniami, co stanowi wzrost o 20,7% w porównaniu do przedpandemicznego piku z 2019 r.
+RESULT Zapadalność wyniosła 3,22 na 100 000 mężczyzn oraz 0,21 na 100 000 kobiet, z istotnymi różnicami regionalnymi (0,08-4,66/100 000).
+RESULT Ponad 20% przypadków zgłoszonych w 2022 r. zostało rozpoznanych w latach 2020-2021.
+RESULT Większość pacjentów była narodowości polskiej (91%), a żaden przypadek nie był powiązany z konfliktem na Ukrainie.
+RESULT Mediana czasu od rozpoznania do zgłoszenia wyniosła 11 dni, przy czym 75% przypadków zostało zgłoszonych w ciągu 4 tygodni.
+RESULT Większość przypadków dotyczyła mężczyzn (93,3%) i osób w grupie wieku 25-34 lata (42,9%).
+RESULT N. gonorrhoeae umiejscowiona był na drogach moczowo-płciowych (79,7%), następnie w okolicach odbytu (10,1%) i w gardle (9,9%).
+RESULT Dwa przypadki zakażeń oka dotyczyły dorosłych pacjentów.
+RESULT Blisko połowa rozpoznań w 2022 r. została postawiona przez dermatologów (46%).
+CONCLUSION Pandemia COVID-19 spowodowała opóźnienia w zgłaszaniu przypadków rzeżączki.
+CONCLUSION Wojna w Ukrainie nie wpłynęła na wzrost przypadków w 2022 r., co sugeruje, że rzeczywista liczba zakażeń wśród uchodźców pozostała nierozpoznana.
+CONCLUSION Wzmocnienie nadzoru i lokalnej koordynacji jest kluczowe.
+CONCLUSION Pracownicy ochrony zdrowia i nadzoru muszą dostarczać pełne i aktualne dane epidemiologiczne dla skutecznej profilaktyki.
+CONCLUSION Prewencja powinna obejmować lepszy dostęp do diagnostyki, leczenia i profilaktyki poekspozycyjnej.
+
+### Ospa wietrzna w Polsce w 2022 roku
+OBJECTIVE Celem pracy była ocena sytuacji epidemiologicznej ospy wietrznej w Polsce w 2022 r. w porównaniu do sytuacji w ubiegłych latach.
+OBJECTIVE MATERIAŁ I
+METHOD Do przeprowadzenia oceny sytuacji epidemiologicznej ospy wietrznej w Polsce wykorzystano dane z rutynowego nadzoru epidemiologicznego, obejmującego obowiązkowe zgłaszanie zachorowań przez lekarzy.
+RESULT W 2022 roku zarejestrowano 171 708 przypadków ospy wietrznej, z czego 87,5% dotyczyło dzieci do 9 roku życia.
+RESULT Hospitalizacja z powodu ospy wietrznej nie należała do najczęstszych, odsetek hospitalizowanych przypadków oscylował w zależności od województwa w granicach 0,12% – 1,24%.
+RESULT Analizując zapadalność dla całej Polski za ostatnie 10 lat, widzimy drastyczny spadek z poziomu 470,6 w 2019 do 186,6 w 2020 oraz następny spadek w roku 2021 do 151,1 na 100 000, żeby następnie powrócić do zapadalności na poziomie 453,9 w 2022 roku.
+CONCLUSION Wskaźnik zapadalności na ospę wietrzną w 2022 roku powrócił do poziomu sprzed pandemii, zbliżonego do wskaźnika występującego w latach 2016-2018.
+CONCLUSION Pomimo środków zapobiegawczych stosowanych przez czas pandemii, obserwowano znaczącą zapadalność, co podkreśla kluczową rolę szczepień w zapobieganiu tej chorobie.
+CONCLUSION Zastosowanie czterowalentnej szczepionki przeciwko różyczce, odrze, śwince i ospie wietrznej mogłoby przyczynić się do zmniejszenia kosztów związanych z ospą wietrzną, przy niewielkim wzroście kosztów programu szczepień.
+
+### Tężec w Polsce w latach 2020-2022
+BACKGROUND Tężec jest chorobą zakaźną wywoływaną przez bakterię Clostridium tetani, produkującą neurotoksynę (tetanospazminę) powodującą porażenia spastyczne.
+BACKGROUND Chorobie tej można zapobiegać tylko przez szczepienia.
+BACKGROUND Zachorowania na tężec są bardzo rzadkie w krajach UE, w których chorują głównie osoby powyżej 60 r.ż.
+BACKGROUND Tężec jest poważnym problemem zdrowotnym w krajach o niskim stanie zaszczepienia i złych warunkach higienicznych, szczególnie istotnym problemem w tych krajach jest tężec noworodków.
+BACKGROUND W Polsce zgodnie z Programem Szczepień Ochronnych obowiązkowe szczepienia przeciw tężcowi powinny otrzymać dzieci i młodzież do ukończenia 19 r.ż., natomiast osobom dorosłym zalecane są dawki przypominające szczepionki co 10 lat.
+OBJECTIVE Celem pracy była ocena sytuacji epidemiologicznej tężca w Polsce w latach 2020-2022.
+OBJECTIVE MATERIAŁ I
+METHOD Oceny sytuacji epidemiologicznej tężca w Polsce w latach 2020-2022 dokonano na podstawie interpretacji danych z biuletynów rocznych ,,Choroby zakaźne i zatrucia w Polsce” za lata 2020-2022 oraz biuletynów ,,Szczepienia ochronne w Polsce” za lata 2020-2022 oraz danych z indywidualnych raportów epidemiologicznych o zachorowaniach rejestrowanych w systemie „Epibaza”.
+RESULT W 2020 r. w Polsce zarejestrowano 2 przypadki tężca, w 2021 r. – 5 przypadków, w 2022 r. również 5 przypadków.
+RESULT Zapadalność ogółem w 2020 r. wyniosła 0,005 na 100 tys. mieszkańców, a w latach 2021 i 2022 – 0,013 na 100 tys. i była niższa w porównaniu z medianą za lata 2015-2019 (0,031).
+RESULT W latach 2020-2021 wszystkie zgłoszenia dotyczyły osób hospitalizowanych, natomiast w 2022 r. jedna osoba była leczona ambulatoryjnie.
+RESULT Nie odnotowano zachorowań u osób poniżej 30 r.ż.
+CONCLUSION W Polsce w latach 2020-2022 obserwowano spadek liczby zgłoszonych zachorowań na tężec w porównaniu z wcześniejszymi latami.
+CONCLUSION Sporadyczne zachorowania na tężec w Polsce odnotowywane są głównie w starszych grupach wieku, ale występują także wśród osób dorosłych poniżej 60 r.ż.
+CONCLUSION Można je powiązać z brakiem szczepień przypominających u osób dorosłych.
+
+### Wstępna analiza polimorfizmu markerów typu STR w populacji kotów domowych (Felis catus) na terenie Dolnego Śląska
+OBJECTIVE Badania genetyczne odgrywają niezwykle ważną rolę w procesie dochodzeniowym, stanowiąc często najistotniejszy dowód decydujący o rozstrzygnięciu sprawy.
+OBJECTIVE Mimo że większość analiz genetycznych przeprowadzanych w kryminalistyce dotyczy materiału ludzkiego, to identyfikacja genetyczna zwierząt staje się coraz powszechniejsza.
+OBJECTIVE Przebywające w otoczeniu człowieka zwierzęta domowe bywają niekiedy niemymi świadkami, a nawet obiektami działań przestępczych.
+OBJECTIVE Ich potencjalnie ograniczona rola dowodowa w takich sprawach może ulec zmianie dzięki możliwości wykorzystania zwierzęcych śladów pozostawionych na miejscu zbrodni.
+OBJECTIVE Tego rodzaju metody mogą stać się też wartościowym narzędziem w wielu innych dziedzinach.
+OBJECTIVE W ostatnich latach obserwuje się wzrost zainteresowania procesem ustalania wiarygodności pochodzenia zwierząt z określonej hodowli, przeciwdziałaniem kłusownictwu i nielegalnemu odstrzałowi zwierząt, np. chronionych żbików i rysi, a także nielegalnej sprzedaży zwierząt.
+OBJECTIVE Głównym celem przeprowadzonych badań była ocena stopnia polimorfizmu analizowanych markerów STR w kocim materiale genetycznym oraz określenie ich przydatności do stworzenia autorskiego testu na potrzeby identyfikacji genetycznej kotów.
+OBJECTIVE MATERIAŁ I
+METHOD Przeprowadzone badania obejmowały analizę populacji kotów, która liczyła 123 niespokrewnione ze sobą osobniki reprezentujące różne rasy kotów domowych zamieszkujących teren Dolnego Śląska.
+METHOD Materiał w postaci kropli krwi lub wymazu z wewnętrznej strony policzka danego osobnika został poddany analizie pod kątem pięciu markerów STR za pomocą jednego testu typu multipleks (FCA742, FCA744, F124, FCA732, FCA749).
+RESULT Otrzymane wyniki dla każdego markera z osobna poddano analizie statystycznej i za pomocą testu 2 oceniono zgodność badanej populacji w zakresie danego markera z prawem Hardy’ego-Weinberga.
+CONCLUSION Uzyskane wyniki wskazują na duży potencjał analizowanych markerów, pozwalający na wykorzystanie ich w badaniach identyfikacyjnych.
+
+### Analiza wykluczeń ojcostwa w materiale Zakładu Medycyny Sądowej Uniwersytetu Medycznego w Białymstoku w latach 2008–2017
+OBJECTIVE Celem pracy była analiza częstości i struktury wykluczeń ojcostwa na podstawie materiału zgromadzonego w Zakładzie Medycyny Sądowej Uniwersytetu Medycznego w Białymstoku w latach 2008–2017.
+OBJECTIVE MATERIAŁ I
+METHOD Dokonano analizy dokumentacji obejmującej wyniki testów ojcostwa w trójkach: domniemany ojciec–dziecko–matka.
+METHOD Ocenie poddano 958 spraw, wśród których 187 stanowiły wykluczenia.
+METHOD Analiza opierała się na wynikach badań, w czasie których dokonano ekstrakcji DNA przy użyciu zestawów QIAamp DNA Mini Kit (Qiagen) i oznaczenia ilościowego DNA za pomocą zestawu Quantifiler Human DNA Quantification Kit w aparacie 7500 Real-Time PCR System (Applied Biosystems).
+METHOD Próbki DNA amplifikowano w zakresie markerów zestawu AmpFLSTR Identifiler PCR Amplification Kit w termocyklerze PCR System 9700 (Applied Biosystems).
+RESULT W analizowanym okresie zanotowano blisko dwukrotny spadek liczby testów ojcostwa, natomiast odsetek wykluczeń w poszczególnych latach ulegał znacznym fluktuacjom (33,9–13,3%), osiągając średnią 26,3%.
+RESULT Najwyższą obserwowaną skuteczność wykluczania wykazały układy D18S51 (0,7166) i FGA (0,7059), najniższą – TPOX (0,3048).
+CONCLUSION Zastosowany zestaw markerów okazał się skutecznym narzędziem w genetycznych testach ojcostwa w kontekście przyjętych reguł wykluczania.
+
+### Częstość występowania insulinooporności na podstawie wskaźników obliczonych metodą HOMA i metodą Belfiore i jej wpływ na rozwój powikłań metabolicznych u przedpokwitaniowych dzieci urodzonych z niską masą ciała
+METHOD U 129 dzieci z SGA, z prawidłowym wzrostem, będących w wieku 6–8 lat zmierzono wzrost, masę ciała, obwód talii, ciśnienie krwi oraz stężenie lipidów, IGF-1, kortyzolu, peptydu C, leptyny, adiponektyny i rezystyny.
+METHOD Stężenia glukozy i insuliny oceniano w 0, 60. i 120.
+METHOD minucie OGTT.
+RESULT IRIHOMA był prawidłowy u wszystkich dzieci, natomiast IRIBelfiore był podwyższony u 22,5% z nich.
+RESULT Dzieci z IR rozpoznaną dzięki IRIBelfiore były wyższe, miały wyższe ciśnienie krwi, większe stężenie leptyny i niższe HDL-cholesterolu.
+CONCLUSION Wydaje się, że warto zarekomendować ocenę IRIBelfiore obliczoną na podstawie OGTT jako użyteczne narzędzie diagnostyczne do rozpoznawania IR u dzieci z SGA będących w okresie przedpokwitaniowym.
+CONCLUSION Nieprawidłowa wartość IRIBelfiore jest związana z wyższym ciśnieniem tętniczym krwi i gorszymi poziomami HDL-cholesterolu w tej grupie.
+
+### Związki medycyny sądowej z psychiatrią na podstawie przypadków śmiertelnych spowodowanych nowymi substancjami psychoaktywnymi w aspekcie opiniowania sądowo-lekarskiego
+METHOD Materiał badawczy obejmuje wyniki analiz toksykologicznych próbek krwi pobranych w czasie sekcji zwłok 40 osób, u których przyczyna śmierci była powiązana z przyjmowaniem NSP.
+METHOD Próbki krwi poddawano ekstrakcji do fazy stałej (SPE), a uzyskane ekstrakty analizowano metodą chromatografii cieczowej sprzężonej z tandemową spektrometrią mas z jonizacją poprzez rozpylanie w polu elektrycznym (LC–ESI-MS-MS).
+METHOD Informacje dotyczące poszczególnych przypadków pochodzą z akt spraw udostępnionych przez prokuraturę do celów naukowych.
+RESULT W wyniku przeprowadzonych analiz wykryte zostały 24 związki z grupy NSP, obejmujące syntetyczne katynony – 15 przypadków, syntetyczne kannabinoidy – 10 przypadków, syntetyczne opioidy – 13 przypadków, o innej strukturze – 2 przypadki.
+RESULT W badanej grupie było 5 kobiet (12,5%) i 35 mężczyzn (87,5%).
+RESULT Samobójstwa zostały wykazane w 10 przypadkach (25%), pozostałe 30 przypadków (75%) to zgony przypadkowe, a intencja przyjęcia NSP nie została wystarczająco wyjaśniona.
+RESULT W 6 przypadkach wykryto leki stosowane w leczeniu zaburzeń psychicznych, natomiast w 5 przypadkach leki przeciwbólowe.
+CONCLUSION W większości przypadków, łącznie z samobójstwami i przypadkowymi zgonami (przyczyna śmierci nieznana), śmiertelny skutek przyjmowania NSP wiąże się z zaburzeniami psychicznymi.
+
+### Diagnostyka nietypowego stanu gorączkowego u 55-letniego mężczyzny
+BACKGROUND Praca opisuje trudny diagnostycznie przypadek nawrotowej gorączki o nietypowym torze u 55 letniego mężczyzny.
+BACKGROUND Autorzy zwracają uwagę na dużą trudność postawienia właściwego rozpoznania, wątpliwości i problemy związane z diagnostykę.
+BACKGROUND Sugerują rozpoznanie brucelozy na podstawie wywiadu i przebiegu choroby występującej z gorączką o typie falującym, przerywanym i nocnym.
+OBJECTIVE Celem pracy było przedstawienie nietypowego, trudnego diagnostycznie przypadku występowania napadowych stanów gorączkowych u 55-letniego mężczyzny.
+OBJECTIVE MATERIAŁ I
+METHOD Przeprowadzono kompleksową diagnostykę, w tym badania laboratoryjne, obrazowe i konsultacje specjalistyczne.
+METHOD Analizie poddano historię medyczną pacjenta, badanie fizykalne oraz różnorodne testy diagnostyczne.
+RESULT U pacjenta z nawracającymi epizodami gorączki wykryto zakażenie Brucella spp., które skutecznie leczono długotrwałą antybiotykoterapią.
+RESULT Diagnostyka obrazowa i laboratoryjna oraz konsultacje specjalistyczne pozwoliły wykluczyć inne potencjalne przyczyny objawów.
+RESULT Pacjent uzyskał trwałą poprawę po leczeniu.
+CONCLUSION Istnieje duże prawdopodobieństwo zakażenia pacjenta pałeczką Brucella.
+CONCLUSION Trudności diagnostyczne, rzadkość choroby uznawanej za niewystępującą w Polsce nie pozwalają na szybką diagnostykę potwierdzającą lub wykluczającą zakażenie.
+CONCLUSION Autorzy pracy chcieli zwrócić uwagę na możliwość występowania choroby w Polsce.
+CONCLUSION Uważają za bardzo prawdopodobne, że pałeczka brucelozy jest nadal obecna i może wywoływać przewlekłe, nierozpoznawane, nawracające stany gorączkowe.
+CONCLUSION Na podstawie analizy przypadku Autorzy wskazują na możliwość częstszego występowania brucelozy w Polsce niż podają dane statystyczne.
+
+### Kiła w Polsce w latach 2021-2022
+BACKGROUND W 2020 roku w wyniku pandemii COVID-19 nastąpił znaczny spadek liczby wykrywanych przypadków kiły w Polsce, jednak w kolejnych latach obserwowano ponad dwukrotny wzrost nowych zakażeń.
+OBJECTIVE Celem pracy była ocena sytuacji epidemiologicznej kiły w Polsce w latach 2021-2022 w porównaniu z poprzednimi latami.
+OBJECTIVE MATERIAŁ I
+METHOD Ocenę sytuacji epidemiologicznej przeprowadzono na podstawie zgłoszeń nowo wykrytych przypadków kiły pochodzących od lekarzy i z laboratoriów rozpoznanych w latach 2021-2022.
+METHOD Wykorzystano również zagregowane zgłoszenia przekazane przez Państwową Inspekcję Sanitarną do NIZP PZH – PIB w ramach sprawozdań o zachorowaniach na choroby zakaźne, zakażeniach i zatruciach MZ-56 (meldunki dwutygodniowe, kwartalne, roczne) od roku 2016 do roku 2019 oraz dane ze sprawozdań MZ-14 o leczonych w poradniach skórno-wenerologicznych publikowane w biuletynach statystycznych NIZP PZH – PIB za lata 2016-2022.
+RESULT W 2021 roku w Polsce zgłoszono 1403 przypadki nowo rozpoznanej kiły (wskaźnik rozpoznań 3,67 na 100 000 mieszkańców), w tym u 31 obcokrajowców.
+RESULT Natomiast w 2022 roku rozpoznano już o 44,8% więcej przypadków, tj. 2032 przypadki (wskaźnik rozpoznań 5,38 na 100 000 mieszkańców), w tym 75 przypadków u osób innego obywatelstwa niż Polskie.
+RESULT Między 2021-2022 roku, najwięcej przypadków stwierdzono u osób poniżej 40 r.ż. (74,2%) oraz mężczyzn (88,4%).
+CONCLUSION W 2020 roku liczba zgłoszeń nowo rozpoznanych przypadków kiły zmniejszyła się o ponad połowę w porównaniu z poprzednim rokiem co prawdopodobnie jest związane z wpływem pandemii COVID-19 i działań podejmowanych w celu jej ograniczania.
+CONCLUSION Jednak wzrost zakażeń obserwowany od 2021 roku potwierdza zmiany w częstości wykrywania kiły w Polsce obserwowane jeszcze przed pandemią.
+
+### Leczenie unieruchomieniem jako naruszenie czynności narządu ciała w rozumieniu Kodeksu karnego – problemy opiniodawcze i propozycja sposobu opiniowania sądowo-lekarskiego
+OBJECTIVE Celem pracy była analiza wpływu leczenia unieruchomieniem „lżejszych” obrażeń narządu ruchu obejmujących tkanki miękkie na stanowisko biegłych i treść orzeczeń sądów w przestępstwach przeciwko zdrowiu.
+OBJECTIVE Zbadano także stosunek sądów do opinii biegłych oraz zaproponowano model opiniowania sądowo-lekarskiego w tego typu przypadkach.
+OBJECTIVE MATERIAŁ I
+METHOD W ramach badania przenalizowano wyroki wydane przez wydziały karne sądów powszechnych, w których zastosowanie unieruchomienia danej części ciała albo jego brak mogło rzutować na stopień określonego przez biegłego uszczerbku na zdrowiu.
+RESULT Część biegłych uznaje leczenie unieruchomieniem za równoznaczne z naruszeniem czynności narządu ciała, a sądy rzadko odrzucają takie opinie.
+RESULT Dla niektórych biegłych kluczowe znaczenie ma nie tyle rzeczywista czynność leczonej unieruchomieniem części narządu ruchu po 7 dniach od urazu, ile samo leczenie unieruchomieniem, bez względu na czas, przez jaki jest ono stosowane.
+RESULT Dodatkowo biegli określają ciężkość obrażeń, biorąc pod uwagę zastosowanie unieruchomienia albo jego brak.
+CONCLUSION O stopniu uszczerbku na zdrowiu definiowanego w Kodeksie karnym powinno rozstrzygać kontrolne badanie lekarskie przeprowadzone po 7 dniach od urazu oraz ocena jego „biologicznych” skutków, nie zaś fakt zastosowania unieruchomienia ani czas jego trwania.
+
+### Zastosowanie sekwencjonowania pełnogenomowego do oceny pokrewieństwa szczepów Salmonella Enteritidis wyizolowanych na terenie województwa śląskiego
+BACKGROUND Gram-ujemne pałeczki Salmonella są jedną z najczęstszych bakteryjnych przyczyn zakażeń jelitowo-żołądkowych.
+BACKGROUND Dobrze dobrana i celowana diagnostyka mikrobiologiczna umożliwia wykrycie i identyfikację czynnika etiologicznego zakażenia, jednakże nie zawsze metody wystandaryzowane, rutynowe i rekomendowane pozwalają na identyfikację czynnika biologicznego w sposób jednoznaczny.
+BACKGROUND Sekwencjonowanie nowej generacji stało się idealnym narzędziem do identyfikacji mikroorganizmów oraz śledzenia transmisji zakażeń w ogniskach do celów epidemiologicznych.
+OBJECTIVE Celem badania była ocena pokrewieństwa genomowego szczepów Salmonella Enteritidis z wykorzystaniem sekwencjonowania pełnogenomowego w ognisku zatrucia zbiorowego w okresie sierpień-wrzesień 2023 r. na terenie województwa śląskiego.
+OBJECTIVE MATERIAŁ I
+METHOD Materiał do badań stanowiło 11 szczepów S. Enteritidis, dla których przeprowadzono sekwencjonowanie pełnogenomowe w technologii Illumina oraz dokonano oceny pokrewieństwa pomiędzy serotypami z wykorzystaniem narzędzi bioinformatycznych.
+RESULT Genomy wszystkich izolatów S. Enteritidis zostały przypisane do HC2_53128, co może wskazywać na bardzo bliskie pokrewieństwo pomiędzy szczepami.
+CONCLUSION Sekwencjonowanie pełnogenomowe umożliwiło ocenę pokrewieństwa genomowego szczepów S. Enteritidis w ognisku zatrucia zbiorowego w okresie sierpień-wrzesień 2023 r. na terenie województwa śląskiego.
+
+### Opiniowanie sądowo-lekarskie w sprawach karnych w przypadkach złamań jarzmowo-szczękowo-oczodołowych i złamań izolowanych dna oczodołu
+OBJECTIVE Celem pracy była ocena częstości występowania skutków tożsamych ze średnim i ciężkim uszczerbkiem na zdrowiu w rozumieniu Kodeksu karnego (k.k.) u pacjentów ze złamaniem jarzmowo-szczękowo-oczodołowym (ZJSO) i złamaniem izolowanym dna oczodołu (ZIDO).
+OBJECTIVE Ponadto przeanalizowano możliwości wykorzystania przedstawionych wyników do opiniowania przypadków przestępstw z art. 158 i art. 160 k.k. pod kątem realności spowodowania takich obrażeń ciała oraz średniego i ciężkiego uszczerbku na zdrowiu.
+OBJECTIVE MATERIAŁ I
+METHOD Badaniami objęto 124 pacjentów operowanych w ówczesnej Klinice Chirurgii Szczękowo-Twarzowej Akademii Medycznej w Łodzi w latach 1996–2001 z powodu złamań dolnej ściany oczodołu w przebiegu ZJSO (95 przypadków) i ZIDO (29 przypadków).
+METHOD Grupa ta została przedstawiona w sposób statystyczny i opisowy.
+RESULT U 100% pacjentów z oboma typami złamań dolnej ściany oczodołu występowały objawy i zaburzenia, które według k.k. stanowiłyby co najmniej średni, a może nawet ciężki uszczerbek na zdrowiu.
+CONCLUSION Uderzenie lub kopnięcie w okolicę oczodołu stwarza realne niebezpieczeństwo spowodowania obu analizowanych złamań oczodołu i co najmniej średniego uszczerbku na zdrowiu.
+
+### Aspekty analityczne i opiniodawcze związane z obecnością syntetycznych kannabinoidów w materiale biologicznym na przykładzie AB-CHMINACA
+OBJECTIVE Przedmiotem pracy było opracowanie i walidacja metody oznaczania syntetycznego kannabinoidu AB-CHMINACA we krwi, a następnie jej weryfikacja w toksykologicznej praktyce sądowo-lekarskiej.
+OBJECTIVE MATERIAŁ I
+METHOD Omówiono przypadek 41-letniego mężczyzny przyjętego do szpitala w związku z planowanym zabiegiem kardiochirurgicznym.
+METHOD Mężczyzna zmarł po 12 godzinach hospitalizacji.
+METHOD Na podstawie zebranego materiału dowodowego podejrzewano zatrucie AB-CHMINACA.
+METHOD Identyfikację i oznaczenie AB-CHMINACA we krwi mężczyzny przeprowadzono przy użyciu metody wysokosprawnej chromatografii cieczowej sprzężonej z tandemową spektrometrią mas z wykorzystaniem jonizacji przez rozpylanie w polu elektrycznym (HPLC-ESI-MS-MS), po wcześniejszej ekstrakcji do fazy stałej.
+RESULT W próbce krwi mężczyzny oznaczono AB-CHMINACA w stężeniu 0,5 ng/ml.
+CONCLUSION W interpretacji przypadku przyjęto, że AB-CHMINACA nie miała bezpośredniego wpływu na zgon, za którego przyczynę uznano przewlekłą niewydolność serca z powodu wady zastawkowej aorty zdekompensowanej zapaleniem płuc.
+CONCLUSION Nie można jednak wykluczyć pośredniego wpływu efektów ubocznych używania syntetycznych kannabinoidów na pogłębienie procesu chorobowego, co doprowadziło do nagłego zatrzymania krążenia w mechanizmie asystolii.
+
+### Obciążenie państw Afryki Subsaharyjskiej związane z niedokrwiennym udarem mózgu na podstawie wskaźnika DALY – analiza tendencji oraz identyfikacja czynników ryzyka
+BACKGROUND Obciążenie (ang. burden) związane z udarem mózgu, mierzone za pomocą wskaźnika DALY, stanowi istotny problem w Afryce Subsaharyjskiej.
+BACKGROUND Wystąpienie udaru niedokrwiennego mózgu w dużej mierze warunkują modyfikowalne czynniki ryzyka, takie jak nadciśnienie tętnicze i zanieczyszczenie powietrza w gospodarstwach domowych.
+BACKGROUND Różnice regionalne, rozwój gospodarczy i niewydolność opieki zdrowotnej podkreślają potrzebę ukierunkowanych interwencji i dalszych badań.
+OBJECTIVE Niniejsze badanie ma na celu analizę trendów dotyczących wskaźnika DALY związanego z udarem niedokrwiennym mózgu w określonych regionach Afryki Subsaharyjskiej w latach 2000-2019.
+OBJECTIVE Celem jest zidentyfikowanie kluczowych zmian w progresji obciążenia udarem i podkreślenie modyfikowalnych czynników ryzyka.
+OBJECTIVE MATERIAŁ I
+METHOD Wykorzystując dane Światowej Organizacji Zdrowia (WHO) z lat 2000 i 2019, zebrano krajowe szacunki wskaźnika DALY związanego z udarem niedokrwiennym w 49 krajach Afryki Subsaharyjskiej.
+METHOD DALY odniesiono do 100 000 mieszkańców każdego z państw, aby zmniejszyć wpływ wielkości populacji.
+METHOD Do interpretacji trendów wykorzystano analizy statystyczne i wizualne reprezentacje opracowane za pomocą MapChart.
+RESULT Badanie ujawnia dużą różnorodność w zmianach wskaźnika DALY związanego z udarem niedokrwiennym w poszczególnych krajach Afryki Subsaharyjskiej w latach 2000-2019.
+RESULT W przeważającej mierze państwa w regionach wschodnim i południowym doświadczyły niekorzystnego wzrostu, podczas gdy kraje w regionach środkowym i zachodnim wykazywały głównie spadki wartości wskaźnika DALY na przestrzeni lat.
+RESULT Kraje takie jak Lesotho, Zimbabwe i Mauritius odnotowały najwyższy procentowy przyrost wartości wskaźnika DALY, podczas gdy Rwanda, Malawi i Gwinea Równikowa doświadczyły najbardziej korzystnych zmian.
+CONCLUSION Udar mózgu jest zagrażającym problemem zdrowotnym w Afryce Subsaharyjskiej.
+CONCLUSION Modyfikowalne czynniki ryzyka, takie jak nadciśnienie tętnicze i zanieczyszczenie powietrza w gospodarstwach domowych, wymagają ukierunkowanych interwencji.
+CONCLUSION Odpowiednio dostosowana polityka zdrowotna poszczególnych państw, wzmocnione systemy opieki zdrowotnej i kompleksowe badania nad czynnikami ryzyka specyficznymi dla regionu mają kluczowe znaczenie dla zmniejszenia zachorowalności i umieralności związanej z udarem mózgu w regionie.
+CONCLUSION Podjęcie tych wyzwań ma kluczowe znaczenie dla zahamowania rosnących wartości wskaźnika obciążenia udarem mózgu w poszczególnych krajach Afryki Subsaharyjskiej.
+
+### Zakażenia HIV i zachorowania na AIDS w Polsce w 2022 roku
+BACKGROUND W 2022 roku w wyniku wzrostu liczby migrantów z Ukrainy nastąpiła zmiana sytuacji epidemiologicznej zakażeń HIV w Polsce tj. dwukrotny wzrost nowych zakażeń, w tym wzrost zakażeń wśród kobiet oraz dzieci.
+OBJECTIVE Celem pracy była ocena sytuacji epidemiologicznej nowo wykrytych zakażeń HIV, zachorowań na AIDS oraz zgonów osób chorych na AIDS w Polsce w roku 2022 w odniesieniu do wcześniejszych lat.
+OBJECTIVE MATERIAŁ I
+METHOD Ocenę sytuacji epidemiologicznej przeprowadzono na podstawie zgłoszeń nowo wykrytych przypadków HIV/AIDS pochodzących od lekarzy i z laboratoriów oraz ankiety dotyczącej liczby badań przesiewowych w kierunku HIV wykonanych przez laboratoria na terenie całego kraju.
+METHOD Wykorzystano również zbiór danych klientów punktów konsultacyjno-diagnostycznych (PKD).
+METHOD Działalność PKD jest koordynowana przez Krajowe Centrum ds. AIDS, które w sposób anonimowy zbiera dane epidemiologiczne i behawioralne dotyczące osób zgłaszających się na badanie.
+RESULT W 2022 roku w Polsce rozpoznano zakażenie HIV u 2 604 osób (wskaźnik rozpoznań 6,88 na 100 000 mieszkańców), w tym u 753 obcokrajowców.
+RESULT Liczba nowo wykrywanych zakażeń HIV zwiększyła się w porównaniu z rokiem poprzednim o 78,2%, natomiast w porównaniu z medianą z lat 2016-2020 była większa o 97,7%.
+RESULT W porównaniu z poprzednim rokiem liczba zakażeń HIV rozpoznanych u obcokrajowców zwiększyła się o 219,1%.
+RESULT Ogółem u 137 osób rozpoznano AIDS (zapadalność 0,36 na 100 000 mieszkańców).
+RESULT Najwięcej zakażeń HIV stwierdzono u osób w wieku od 30 do 39 lat (36,6%) oraz u mężczyzn (67,2%).
+RESULT Wśród osób ze znaną drogą transmisji zakażenia, najwięcej nowo rozpoznanych zakażeń HIV zgłoszono wśród mężczyzn utrzymujących kontakty seksualne z mężczyznami (42,9%) oraz osób zakażonych poprzez kontakty heteroseksualne (41,9%).
+RESULT Odsetek zachorowań na AIDS, w przypadku których zakażenie HIV wykryto równocześnie z rozpoznaniem AIDS, zwiększył się w porównaniu z 2021 r. o prawie 6 punktów procentowych.
+CONCLUSION W 2022 roku liczba nowo rozpoznanych zakażeń HIV znacznie zwiększyła się w porównaniu z poprzednim rokiem, głównie w wyniku zakażeń HIV rejestrowanych wśród migrantów z Ukrainy.
+
+### Spektrum sporomorf pobranych z powierzchni skóry i ubrania osób w powiecie włodawskim w okresie letnim
+BACKGROUND Ziarna pyłku ze względu na mikroskopijne rozmiary, wszechobecność i odporność na zniszczenie stanowią niezwykle cenny materiał biologiczny, który może być wykorzystany w postępowaniu dochodzeniowym.
+BACKGROUND OBJECTIVE PRACY: Określenie składu gatunkowego ziaren pyłku osadzonych na ubraniu i skórze ciała osób spacerujących w okolicach powiatu włodawskiego w okresie letnim.
+BACKGROUND MATERIAŁ I
+METHOD Badaniom zostały poddane ziarna pyłku zdeponowane na powierzchni skóry i elementach garderoby osób spacerujących w czterech miejscowościach powiatu włodawskiego.
+METHOD Materiał pobierano na preparaty z taśmą dwustronnie klejącą.
+METHOD Skład jakościowy oraz ilościowy ziaren pyłku oceniono po analizie preparatów mikroskopowych przy powiększeniu 400-krotnym.
+RESULT W przeprowadzonych badaniach zidentyfikowano ziarna pyłku roślin kwitnących w lecie, czyli w okresie, w jakim został przeprowadzony eksperyment.
+RESULT Z analizy palinologicznej wynika, że najdogodniejszym miejscem osadzania się ziaren pyłku jest powierzchnia ubrania na ramionach oraz powierzchnia skóry na przedramionach, natomiast najmniej ziaren znaleziono na powierzchni skóry na łydkach.
+RESULT Z analizy statystycznej wynika, że różnice w liczebności sporomorf zdeponowanych na różnych powierzchniach nie są istotne statystycznie.
+CONCLUSION Materiał palinologiczny zabezpieczany z podejrzanych lub ofiar powinien być pobierany z różnych części ubrania i skóry, ponieważ nie przyczepia się do nich w jednakowy sposób.
+
+### Borelioza z Lyme w Polsce w 2022 roku
+METHOD Do przeprowadzenia oceny sytuacji epidemiologicznej boreliozy w Polsce wykorzystano dane nadsyłane do NIZP PZH – PIB przez Wojewódzkie Stacje Sanitarno-Epidemiologiczne i publikowane w biuletynie rocznym „Choroby zakaźne i zatrucia w Polsce w 2022 r.”.
+RESULT W 2022 r. zarejestrowano 17369 zachorowań na boreliozę w tym 776 hospitalizacji.
+RESULT Był to znaczny wzrost zachorowań o 38,96% oraz hospitalizacji o 88,81% w stosunku do roku poprzedzającego.
+RESULT W poszczególnych kwartałach widoczna była sezonowość, jaką cechuje się borelioza, tzn. wzrost liczby przypadków z 1151 w Q1 do 7267 w Q3 oraz spadek w Q4 do 5708.
+RESULT Na poziomie poszczególnych województwach największą zapadalność odnotowano w województwie podlaskim (81,2 na 100 tys.), małopolskim (79,8 na 100 tys.) oraz lubelskim (76,8 na 100 tys.).
+CONCLUSION Sytuacja epidemiologiczna boreliozy wracała stopniowo do stanu sprzed pandemii COVID-19.
+CONCLUSION Nieznacznie wzrósł odsetek przypadków hospitalizowanych (z 3,3% w 2021 roku do 4,5% w 2022 r), co przy wzroście liczby zachorowań oznaczało wzrost liczby hospitalizacji z powodu boreliozy o prawie 89%.
+CONCLUSION Niezmiennie największą zapadalność obserwowano we wschodniej części Polski (województwo podlaskie, warmińsko-mazurskie, lubelskie).
+
+### Reidentyfikacja oraz określenie lekowrażliwości szczepów Corynebacterium diphtheriae i Corynebacterium ulcerans wyizolowanych z próbek materiału klinicznego w 2023 roku w Polsce
+BACKGROUND Pomimo faktu, że ostatnie przypadki pełnoobjawowej błonicy zanotowano w Polsce w 1996 oraz w 2000 roku, zdarzają się jednak nadal zakażenia wywołane przez szczepy Corynebacterium niewytwarzające toksyny błoniczej.
+BACKGROUND Jak wynika z raportów epidemiologicznych ECDC w drugiej połowie 2022 roku obserwowany był wzrost liczby przypadków błonicy w krajach Unii Europejskiej.
+BACKGROUND Z tego powodu, aktualnym problemem staje się odpowiednie przygotowanie laboratoriów mikrobiologicznych do diagnostyki drobnoustrojów z rodzaju Corynebacterium.
+OBJECTIVE Reidentyfikacja maczugowców błonicy izolowanych z próbek materiału klinicznego oraz ocena lekowrażliwości szczepów C. diphtheriae izolowanych w Polsce w 2023 roku.
+OBJECTIVE MATERIAŁ I
+METHOD Przedmiotem badań było 18 szczepów wyizolowanych z próbek materiału klinicznego w 2023 roku w Polsce.
+METHOD Do reidentyfikacji szczepów wykorzystano metody mikrobiologiczne i genetyczne.
+METHOD Dokonano oceny lekowrażliwości metodą dyfuzyjno-krążkową, zgodnie z nowymi zaleceniami EUCAST obowiązującymi od 2023 roku.
+RESULT Potwierdzono przynależność wszystkich badanych szczepów do rodzaju Corynebacterium.
+RESULT Wykazano, że szczepy C. diphtheriae okazały się wrażliwe przy zwiększonej ekspozycji na benzylopenicylinę i cefotaksym.
+RESULT Wyniki uzyskane przy użyciu ciprofloksacyny pozwoliły zakwalifikować szczepy do kategorii wrażliwości WZE, poza jednym szczepem, który był oporny na ten antybiotyk.
+RESULT Wszystkie badane szczepy bakteryjne były wrażliwe na erytromycynę.
+RESULT Szczep C. ulcerans charakteryzował się podobnym profilem antybiotykooporności w stosunku do penicyliny, cefotaksymu oraz ciprofloksacyny, dodatkowo wykryto jego oporność na klindamycynę.
+RESULT Wykonany test PCR w kierunku detekcji genu toksyny błoniczej oraz test fenotypowy Eleka pozwoliły wykluczyć toksynotwórczość badanych szczepów.
+CONCLUSION Na podstawie danych epidemiologicznych o pojawianiu się nowych przypadków zakażeń szczepami z rodzaju Corynebacterium, zasadne jest przygotowanie teoretyczne i praktyczne laboratoriów do podjęcia diagnostyki w celu wykrycia potencjalnie toksynotwórczych maczugowców błonicy.
+CONCLUSION Dostępne są skuteczne metody diagnostyki mikrobiologicznej maczugowców błonicy.
+CONCLUSION Wskazane jest monitorowanie wrażliwości na środki przeciwdrobnoustrojowe na wszystkich izolatach C. diphtheriae.
+
+### Zakażenia HIV i zachorowania na AIDS w Polsce w 2021 roku
+BACKGROUND W Polsce mimo chwilowego zmniejszenia się liczby nowo rozpoznawanych zakażeń HIV w roku 2020, w 2021 zaobserwowano powrót do rosnącej liczby nowych zakażeń rejestrowanych w nadzorze.
+OBJECTIVE Celem pracy była ocena sytuacji epidemiologicznej nowo wykrytych zakażeń HIV, zachorowań na AIDS oraz zgonów osób chorych na AIDS w Polsce w roku 2021 w odniesieniu do wcześniejszych lat.
+OBJECTIVE MATERIAŁ I
+METHOD Ocenę sytuacji epidemiologicznej przeprowadzono na podstawie zgłoszeń nowo wykrytych przypadków HIV/AIDS pochodzących od lekarzy i z laboratoriów oraz ankiety dotyczącej liczby badań przesiewowych w kierunku HIV wykonanych przez laboratoria na terenie całego kraju.
+METHOD Wykorzystano również zbiór danych klientów punktów konsultacyjno-diagnostycznych, koordynowanych przez Krajowe Centrum ds. AIDS, które w sposób anonimowy zbiera dane epidemiologiczne i behawioralne dotyczące osób zgłaszających się na badanie.
+RESULT W 2021 roku w Polsce rozpoznano zakażenie HIV u 1 367 osób (wskaźnik rozpoznań 3,58 na 100 000), w tym u 236 obcokrajowców.
+RESULT Liczba nowo wykrywanych zakażeń HIV zwiększyła się w porównaniu z rokiem poprzednim o 43,3%, natomiast w porównaniu z medianą w latach 2015-2019 była większa o 3,8%.
+RESULT Podobnie, wśród klientów PKD liczba rozpoznanych zakażeń zwiększyła się o 45%, z 309 w 2020 r. do 448 w 2021 r.
+RESULT Ogółem u 62 osób zgłoszonych do nadzoru rozpoznano AIDS (zapadalność 0,16 na 100 000).
+RESULT Najwięcej zakażeń HIV stwierdzono u osób w wieku 30-39 lat (35,8%) oraz mężczyzn (82,1%).
+RESULT Wśród osób ze znaną drogą transmisji, najwięcej zakażeń HIV zgłoszono wśród mężczyzn MSM (68,7%).
+RESULT Odsetek zachorowań na AIDS, w przypadku których zakażenie HIV wykryto równocześnie z rozpoznaniem AIDS, zwiększył się o ponad 30 punktów procentowych (z 63,5% do 95,1% wszystkich zachorowań na AIDS).
+CONCLUSION W 2021 roku liczba nowo rozpoznanych zakażeń HIV zwiększyła się w porównaniu z poprzednim rokiem, co prawdopodobnie wynika ze zmniejszenia obostrzeń związanych z pandemią COVID-19 i wzrostem liczby osób, które wykonały test w kierunku HIV.
+
+### Krztusiec w Polsce w 2022 roku
+OBJECTIVE Celem pracy była ocena sytuacji epidemiologicznej krztuśca w Polsce w 2022 r. w porównaniu z sytuacją w ubiegłych latach, ze szczególnym uwzględnieniem oceny wpływu pandemii COVID-19 oraz oceny stanu zaszczepienia dzieci przeciw krztuścowi.
+OBJECTIVE MATERIAŁ I
+METHOD Ocena sytuacji epidemiologicznej krztuśca w Polsce została wykonana na podstawie wyników analizy raportów jednostkowych o zachorowaniach na krztusiec zarejestrowanych w NIZP PZH – PIB w systemie EpiBaza oraz danych z biuletynów rocznych „Choroby zakaźne i zatrucia w Polsce” oraz biuletynu „Szczepienia ochronne w Polsce w 2022 r”.
+RESULT W 2022 r. zarejestrowano 371 zachorowań na krztusiec.
+RESULT Zapadalność wynosiła 0,98 /100 tys. i była wyższa o 104% w porównaniu z zapadalnością w roku 2021.
+RESULT Najwyższa zapadalność na krztusiec wystąpiła u dzieci w grupie wieku 0-4 lata (6,7/100 tys.), a wysoka u dzieci w wieku 5-9 lat (2,0/100 tys.).
+RESULT Ponad 51% zachorowań dotyczyło osób powyżej 15 r.ż.
+RESULT Obserwowano ogółem wyższą zapadalność kobiet w porównaniu z zapadalnością mężczyzn, oraz wyższą zapadalność w miastach niż na wsi.
+RESULT W 2022 r. wśród osób chorych na krztusiec, 151 (41%) wymagało hospitalizacji.
+RESULT W 2022 r. poziom zaszczepienia dzieci w 2 r.ż. 4 dawkami szczepionki przeciw krztuścowi wynosił ogółem 94,3%.
+RESULT W 2022 r. zgłoszono w systemie nadzoru epidemiologicznego jeden przypadek choroby zakończony zgonem z powodu krztuśca.
+CONCLUSION W Polsce w 2022 r. odnotowano wzrost liczby zachorowań na krztusiec w porównaniu do roku ubiegłego, na który niewątpliwie miało wpływ stopniowe znoszenie ograniczeń w kontaktach społecznych oraz w obowiązku noszenia maseczek.
+CONCLUSION Zwiększenie liczby osób podatnych na zachorowanie na krztusiec może prowadzić do wystąpienia epidemii wyrównawczych w przyszłości, dlatego należy utrzymać wysoki poziom zaszczepienia populacji (powyżej 95%), aby zapobiec nowym przypadkom zachorowań.
+
+### Ocena przydatności metody radioimmunometrycznej do oznaczania stężenia insuliny w płynie z gałki ocznej post mortem: badania wstępne
+METHOD Materiał badawczy stanowiły 93 próbki płynu z gałki ocznej pobrane w czasie sądowo-lekarskich sekcji zwłok przeprowadzonych w Katedrze i Zakładzie Medycyny Sądowej i Toksykologii Sądowo-Lekarskiej Śląskiego Uniwersytetu Medycznego w Katowicach.
+METHOD Dodatkowo analizie poddano 10 próbek krwi obwodowej pobranej od osób żywych w celach kliniczno-diagnostycznych – od 5 kobiet i 5 mężczyzn.
+METHOD Do oznaczeń wykorzystano zestawy Insulin(e) IRMA KIT firmy IMMUNOTECH.
+RESULT W 86 (92,5%) próbkach stężenie insuliny było niższe niż czułość analityczna metody (poniżej 0,5 μIU/ml), natomiast w 7 przypadkach zawierało się w przedziale 1,42–24,42 μIU/ml.
+CONCLUSION Oznaczenie stężenia insuliny w płynie z gałki ocznej metodą immunoradiometryczną daje szansę na obiektywne potwierdzenie zatrucia, jednak zagadnienie to wymaga dalszych badań.
+
+### Analiza opinii sądowo-lekarskich w sprawach karnych w przypadkach podejrzenia błędu medycznego w zakresie położnictwa wydanych w Katedrze i Zakładzie Medycyny Sądowej Collegium Medicum Uniwersytetu Jagiellońskiego w latach 2010–2016
+OBJECTIVE Analiza opinii sądowo-lekarskich sporządzonych w Zakładzie Medycyny Sądowej Collegium Medicum Uniwersytetu Jagiellońskiego w Krakowie w zakresie położnictwa w latach 2010–2016 pod kątem oceny, jak zmieniała się na przestrzeni lat liczba wnoszonych spraw o błąd medyczny, w jakich sytuacjach pacjentki podejrzewają popełnienie błędu medycznego oraz jakie są najczęstsze błędy medyczne w zakresie położnictwa.
+OBJECTIVE MATERIAŁ I
+METHOD Opinie podzielono na dwie grupy.
+METHOD W pierwszej postępowanie lekarskie było prawidłowe, a w drugiej stwierdzono popełnienie błędu medycznego.
+METHOD Błędy medyczne sklasyfikowano jako diagnostyczno-terapeutyczne, techniczne i organizacyjne.
+METHOD Za skutki popełnionych błędów medycznych uznano zgon, uszczerbek na zdrowiu, narażenie na zgon i narażenie na uszczerbek na zdrowiu, rozpatrując je osobno dla położnic oraz płodów i noworodków (w pierwszych dobach życia).
+RESULT Przeanalizowano 73 opinie sądowo-lekarskie.
+RESULT W 25 przypadkach stwierdzono zaistnienie błędu medycznego.
+RESULT Wyszczególniono najczęściej powtarzające się sytuacje, w których doszło do popełnienia błędu medycznego oraz w których podejrzenie błędu okazało się nieuzasadnione.
+RESULT Stwierdzono 17 błędów diagnostyczno-terapeutycznych, 7 organizacyjnych i 4 techniczne.
+RESULT W sprawach, w których stwierdzono błąd medyczny, doszło ogółem do 15 zgonów, a w sprawach bez znamion błędu lekarskiego – łącznie 31 zgonów.
+CONCLUSION W 66% analizowanych opinii nie stwierdzono błędu medycznego.
+CONCLUSION W większości tych przypadków wystąpiło niepowodzenie terapeutyczne, m.in. krwotok okołoporodowy, ciasne owinięcie szyi płodu pępowiną, poród przedwczesny, powikłania septyczne.
+CONCLUSION W kilku przypadkach stwierdzono brak współpracy położnic.
+CONCLUSION Najczęściej popełnianym błędem medycznym było zaniechanie bądź opóźnienie wykonania cięcia cesarskiego mimo istniejących wskazań (pilnych lub nagłych).
+CONCLUSION Na drugim miejscu uplasowała się nieprawidłowa interpretacja zapisu KTG.
+
+### Świnka w Polsce w 2022 roku
+BACKGROUND Świnka, znana również jako nagminne zapalenie ślinianek przyusznych, jest chorobą wirusową, której głównym źródłem zakażenia jest chory człowiek /osoba zakażona.
+BACKGROUND Stanowiła poważne zagrożenie dla zdrowia publicznego w Polsce przed wprowadzeniem obowiązkowych szczepień.
+BACKGROUND W 2003 roku Polska wprowadziła Program Szczepień Ochronnych obejmujący dwudawkowe szczepienie przeciwko śwince w ramach szczepionki MMR (przeciw odrze, śwince i różyczce) dla wszystkich dzieci.
+OBJECTIVE Celem pracy była ocena ocena epidemiologiczna występowania zachorowań na świnkę w Polsce w 2022 r. w porównaniu do lat wcześniejszych, z uwzględnieniem analizy wpływu pandemii COVID-19.
+OBJECTIVE MATERIAŁ I
+METHOD Analizę sytuacji epidemiologicznej świnki w Polsce w roku 2022 przeprowadzono na podstawie interpretacji danych publikowanych w biuletynie rocznym: „Choroby zakaźne i zatrucia w Polsce w 2022 r.” oraz „Szczepienia ochronne w Polsce w 2022 roku".
+RESULT W 2022 r., zarejestrowano w Polsce 922 zachorownia na świnkę.
+RESULT Był to wzrost liczby zachorowań o 90,5% w porównaniu do 2021 r., kiedy odnotowano 484 zachorowań.
+RESULT Zapadalność ogółem wyniosła 2,4/100 tys. mieszkańców i była wyższa w porównaniu z rokiem 2021 o 84,6%.
+RESULT Najwyższą zapadalność 3,4/100 tys. mieszkańców zarejestrowano w województwie mazowieckim, a najniższą jak w roku poprzednim–1,0/100 tys. mieszkańców w woj. dolnośląskim.
+RESULT Najwyższą zapadalność (12,9/100 tys.) odnotowano u dzieci w wieku 0-4 oraz 5-9 lat (16,1/100 tys.).
+RESULT Zapadalność mężczyzn (3,0/100 tys.) była wyższa niż kobiet (1,9/100 tys.).
+RESULT W 2022 roku w Polsce liczba hospitalizacji z powodu świnki wyniosła 20, co stanowi wzrost o 122,2% w porównaniu do 2021 roku, kiedy to hospitalizowano 9 osób.
+CONCLUSION W 2022 roku wykazano ogólną tendencje wzrostową liczby rejestrowanych przypadków świnki.
+CONCLUSION Spadek liczby zachorowań na świnkę w 2021 roku był wynikiem trwającej pandemii.
+CONCLUSION Obostrzenia wprowadzone w okresie pandemii przyczyniły się do zmniejszenia liczby zachorowań na różne choroby przenoszone drogą kropelkową, w tym również na świnkę.
+CONCLUSION Nadal jednak obserwowana liczba zachorowań na świnkę w 2022 roku pozostaje poniżej poziomów obserwowanych w okresie przed pandemią COVID-19 (2019 r.).
+
+### Opis serii przypadków tularemii z obszaru endemicznego na terenie powiatu hajnowskiego
+BACKGROUND Tularemia jest chorobą odzwierzęcą wywoływaną przez bakterię Francisella tularensis.
+BACKGROUND Może przyjmować różne postaci kliniczne, jednak w Polsce dominuje postać wrzodziejąco-węzłowa i węzłowa tularemii.
+BACKGROUND Jedną z dróg zakażenia F. tularensis jest ukłucie przez kleszcza lub owada.
+BACKGROUND Pacjent może nie wykazywać żadnych objawów lub zgłaszać objawy grypopodobne i bolesne guzki w sąsiedztwie miejsca ukłucia.
+BACKGROUND W diagnostyce różnicowej powiększenia węzłów chłonnych, któremu towarzyszą objawy grypopodobne, należy uwzględnić tularemię, zwłaszcza na terenach endemicznych.
+BACKGROUND Zapalenie węzłów chłonnych zwykle wymaga interwencji chirurgicznej i często jest nieskutecznie leczone antybiotykami beta-laktamowymi przed potwierdzeniem rozpoznania tularemii.
+OBJECTIVE Celem pracy jest przedstawienie epidemiologii i obrazu klinicznego tularemii na obszarze endemicznym, na którym kleszcze są istotnym wektorem zakażenia F. tularensis.
+OBJECTIVE MATERIAŁ I
+METHOD Przeprowadziliśmy analizę raportów epidemiologicznych i dokumentacji medycznej pacjentów z terenu powiatu hajnowskiego z lat 2014-2022.
+METHOD Przedstawiamy opis trzech pacjentów z opisywanego terenu endemicznego, u których potwierdzono tularemię pod postacią węzłową w 2022 r.
+RESULT Stwierdziliśmy duże lokalne narażenie na zakażenie Francisella tularensis w gminie Narewka, zasadniczo zgodne z sezonowością aktywności kleszczy i aktywności człowieka na świeżym powietrzu.
+CONCLUSION Lekarze pracujący na terenach endemicznych powinni rutynowo uwzględnić tularemię w diagnostyce objawów grypopodobnych przebiegających z limfadenopatią u chorych narażonych na pokłucie przez kleszcze i owady w miesiącach letnich i wczesno-jesiennych.
+CONCLUSION Wczesna diagnostyka i zastosowanie celowanej antybiotykoterapii są podstawą skutecznego leczenia tularemii.
+
+### Ocena wiedzy na temat profilaktyki raka szyjki macicy wśród kobiet uczęszczających do prywatnego gabinetu ginekologicznego w Krakowie – badanie pilotażowe
+BACKGROUND W 2022 roku na świecie zarejestrowano ponad 650 000 nowych przypadków raka szyjki macicy i ponad 340 000 zgonów.
+BACKGROUND Polska ma jedne z najwyższych wskaźników zachorowalności i umieralności z powodu raka szyjki macicy (RSM) w Europie, pomimo realizowanego od lat Programu Profilaktyki Raka Szyjki Macicy.
+BACKGROUND W obecnych czasach, dzięki większej dostępności informacji, kobiety nie powinny umierać z powodu RSM.
+BACKGROUND Aby osiągnąć ten cel, należy zwiększać świadomość kobiet na temat profilaktyki oraz edukować w zakresie zachowań prozdrowotnych.
+OBJECTIVE Ocena wiedzy kobiet odnośnie profilaktyki raka szyjki macicy w badaniu pilotażowym przeprowadzonym w prywatnym gabinecie ginekologicznym w Krakowie.
+OBJECTIVE MATERIAŁ I
+METHOD Grupę badaną stanowiło 153 kobiet w różnym wieku, z całej Polski.
+METHOD Badanie przeprowadzono przez Internet, przy pomocy kwestionariusza składającego się z części ogólnej (dane socjoepidemiologiczne) oraz szczegółowej dotyczącej wiedzy na temat profilaktyki RSM.
+METHOD Analizę statystyczną przeprowadzono z wykorzystaniem programu Statistica 13.3.
+RESULT Większość kobiet deklarowała zgłaszalność na regularne badania ginekologiczne, co 0,5-2 lata na wizyty ginekologiczne zgłasza się 125, (81,7%) respondentek.
+RESULT Jedynie 10 (6,5%) respondentek odpowiedziało poprawnie na wszystkie pytania ankiety dotyczące wiedzy, wyłączając z tego pytanie o objawy RSM, gdzie tylko jedna osoba odpowiedziała poprawnie (0,6%).
+RESULT Przeprowadzona analiza statystyczna wykazała istotną zależność pomiędzy wiekiem respondentek a wiedzą na temat czynników ryzyka RSM oraz wiedzą o konieczności wykonania pierwszego w życiu badania cytologicznego.
+RESULT Z zależności wynika, że im starsze respondentki tym mniejszy poziom wiedzy na powyższe tematy.
+RESULT Ankietowane kobiety z wyższym wykształceniem oraz zamieszkujące w dużych miastach udzieliły największej liczby poprawnych odpowiedzi.
+CONCLUSION Wiedza badanych kobiet na temat profilaktyki RSM jest niedostateczna nawet w grupie kobiet zgłaszających się regularnie na badania ginekologiczne.
+CONCLUSION Istnieje potrzeba kontynuacji działań edukacyjnych na temat zasad wykonywania badania cytologicznego, jak również bezobjawowego przebiegu RSM we wczesnych stadiach.
+CONCLUSION Choć większość badanych kobiet deklarowała regularne badania ginekologiczne, ich wiedza na temat profilaktyki i RSM pochodzi głównie z Internetu.
+CONCLUSION Sugeruje to potrzebę zintensyfikowania działań edukacyjnych w gabinetach.
+
+### Wirusowe zapalenie wątroby typu C (wzw C) w Polsce w 2022 roku
+BACKGROUND Inwazja wojenna na Ukrainę w lutym 2022 spowodowała masową migrację ludności.
+BACKGROUND Do 3 stycznia 2023 prawie milion osób szukało schronienia w Polsce.
+BACKGROUND Ustawa o pomocy obywatelom Ukrainy zapewniła szerokie wsparcie, gwarantując legalny pobyt, bezpłatną opiekę medyczną, świadczenia socjalne oraz dostęp do edukacji i zatrudnienia.
+BACKGROUND Jednocześnie trwał światowy kryzys zdrowotny, z piątą falą pandemii COVID-19 spowodowaną wariantem Omikron.
+BACKGROUND Stan epidemii w Polsce został zniesiony w maju 2022.
+OBJECTIVE Podsumowanie sytuacji epidemiologicznej zakażeń HCV w Polsce w 2022, który był rokiem zaznaczonym dwoma kryzysami.
+OBJECTIVE MATERIAŁ I
+METHOD Analizowano jednostkowe dane nadzoru epidemiologicznego nad zakażeniami HCV z 2022 roku, wskaźniki rozpoznań z biuletynów za lata 2014-2022 oraz liczbę zgonów w 2022 roku według danych z Głównego Urzędu Statystycznego, porównując je z danymi z poprzednich lat.
+RESULT W 2022 wskaźnik nowych rozpoznań zakażeń HCV wzrósł do 6,68 na 100 000 mieszkańców, łącznie 2.528 przypadki (wzrost o 46% w porównaniu do poprzedniego roku).
+RESULT Osoby pochodzenia polskiego stanowiły 87% wszystkich rozpoznań, przy równomiernym rozkładzie między płciami.
+RESULT Obserwowano ogólny wzrost rozpoznań HCV we wszystkich województwach, przy czym powrót do trendów sprzed pandemii obserwowano jedynie w województwie zachodniopomorskim.
+RESULT Rozpoznania najczęściej dokonywano w podstawowej opiece zdrowotnej (jedna trzecia) oraz podczas hospitalizacji (jedna czwarta).
+RESULT Zidentyfikowano 26 przypadków ostrego wzw C (1%, wg definicji w polskiej modyfikacji).
+RESULT W chwili diagnozy u 5,6% stwierdzano zaawansowaną chorobę wątroby.
+RESULT Wzw C było przyczyną 86 zgonów.
+RESULT Importowane zakażenia stanowiły 5,7% wszystkich przypadków.
+RESULT Wśród uchodźców z Ukrainy zidentyfikowano 2,7% zakażeń HCV, głównie u kobiet w wieku od 40 do 59 lat.
+RESULT Wszystkie osoby narodowości ukraińskiej stanowiły 10,4% przypadków HCV wykrytych w 2022 r.
+CONCLUSION Konieczne jest zwiększenie dostępności i oferty testowania, uwzględniając potrzeby kluczowych populacji, w tym osób nieposługujących się językiem polskim.
+CONCLUSION Strategia eliminacji HCV powinna obejmować szerokie działania skoncentrowane na profilaktyce, diagnostyce i terapii, aby skutecznie powstrzymywać rozprzestrzenianie się wirusa wśród subpopulacji i minimalizować jego długoterminowe konsekwencje zdrowotne.
